@@ -67584,5 +67584,66 @@
     "violation_count": 0,
     "risk_score": 0,
     "google_category": "other"
+  },
+  {
+    "id": "951642",
+    "name": "JIMS TRAILER PARK",
+    "address": "347 ATLANTIC AVENUE WESTERLY RI 02891",
+    "last_inspection": "05-22-2026",
+    "license_type": "Resort, Lodging, Camp",
+    "lat": 41.32479499999999,
+    "lng": -71.7922311,
+    "violation_count": 0,
+    "risk_score": 0,
+    "google_category": "other"
+  },
+  {
+    "id": "951646",
+    "name": "PROJECT WEBER RENEW",
+    "address": "36 PARK PLACE PAWTUCKET RI 02860",
+    "last_inspection": "05-22-2026",
+    "license_type": "Food Service (Non-Profit)",
+    "lat": 41.8766581,
+    "lng": -71.386337,
+    "violation_count": 0,
+    "risk_score": 0,
+    "google_category": "other"
+  },
+  {
+    "id": "951665",
+    "name": "ADVINIACARE WATERVIEW VILLAS",
+    "address": "1275 S BROADWAY EAST PROVIDENCE RI 02914",
+    "last_inspection": "05-22-2026",
+    "license_type": "Seats - 50 or More",
+    "lat": 41.8071036,
+    "lng": -71.37327239999999,
+    "violation_count": 1,
+    "risk_score": 2,
+    "google_category": "healthcare",
+    "cuisine": "other"
+  },
+  {
+    "id": "951715",
+    "name": "ROY CARPENTERS BEACH",
+    "address": "240 CARDS POND RD WAKEFIELD RI 02879",
+    "last_inspection": "05-22-2026",
+    "license_type": "Cash Registers - 1-2",
+    "lat": 41.3761254,
+    "lng": -71.5586695,
+    "violation_count": 1,
+    "risk_score": 1,
+    "google_category": "other"
+  },
+  {
+    "id": "951742",
+    "name": "ROY CARPENTERS BEACH",
+    "address": "240 CARDS POND ROAD WAKEFIELD RI 02879",
+    "last_inspection": "05-22-2026",
+    "license_type": "Resort, Lodging, Camp",
+    "lat": 41.3761254,
+    "lng": -71.5586695,
+    "violation_count": 0,
+    "risk_score": 0,
+    "google_category": "other"
   }
 ]
