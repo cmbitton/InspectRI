@@ -68812,5 +68812,43 @@
     "risk_score": 5,
     "google_category": "other",
     "cuisine": "other"
+  },
+  {
+    "id": "951611",
+    "name": "SAPIDITE DOR CARIBBEAN RESTAURANT",
+    "address": "167 BENEFIT ST PAWTUCKET RI 02861",
+    "last_inspection": "06-18-2026",
+    "license_type": "Seats -  Less than 50",
+    "lat": 41.8924585,
+    "lng": -71.3642859,
+    "violation_count": 5,
+    "risk_score": 7,
+    "google_category": "restaurant",
+    "cuisine": "other"
+  },
+  {
+    "id": "951650",
+    "name": "PIZZA SHACK",
+    "address": "133 OCEAN AVE NEW SHOREHAM RI 02807",
+    "last_inspection": "06-18-2026",
+    "license_type": "Mobile Food Service",
+    "lat": 41.182206,
+    "lng": -71.5752578,
+    "violation_count": 0,
+    "risk_score": 0,
+    "google_category": "restaurant",
+    "cuisine": "other"
+  },
+  {
+    "id": "951816",
+    "name": "EDIBLE ARRANGEMENTS",
+    "address": "755 WESTMINSTER ST PROVIDENCE RI 02903",
+    "last_inspection": "06-18-2026",
+    "license_type": "Mobile Food Service",
+    "lat": 41.8182976,
+    "lng": -71.4207586,
+    "violation_count": 0,
+    "risk_score": 0,
+    "google_category": "caterer"
   }
 ]
