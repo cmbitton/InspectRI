@@ -38754,12 +38754,12 @@
     "id": "239436",
     "name": "SHANNONS PLACE",
     "address": "737 BROADWAY PAWTUCKET RI 02861",
-    "last_inspection": "05-22-2025",
+    "last_inspection": "06-22-2026",
     "license_type": "Seats -  Less than 50",
     "lat": 41.89282430000001,
     "lng": -71.3718736,
-    "violation_count": 6,
-    "risk_score": 11,
+    "violation_count": 7,
+    "risk_score": 10,
     "cuisine": "breakfast",
     "google_category": "restaurant"
   },
@@ -42032,7 +42032,7 @@
     "id": "790303",
     "name": "TOWN MADE",
     "address": "203 MAIN ST WAKEFIELD RI 02879",
-    "last_inspection": "05-02-2025",
+    "last_inspection": "06-22-2026",
     "license_type": "Caterer or Commissary",
     "lat": 41.4409444,
     "lng": -71.49585450000001,
@@ -68635,5 +68635,18 @@
     "violation_count": 0,
     "risk_score": 0,
     "google_category": "caterer"
+  },
+  {
+    "id": "253183",
+    "name": "LOVE 4 ALL CHILD CARE CENTER INC",
+    "address": "162 METCALF STREET PROVIDENCE RI 02904",
+    "last_inspection": "06-22-2026",
+    "license_type": "Seats -  Less than 50",
+    "lat": 41.8513087,
+    "lng": -71.41367989999999,
+    "violation_count": 2,
+    "risk_score": 4,
+    "google_category": "school",
+    "cuisine": "other"
   }
 ]
