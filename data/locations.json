@@ -4402,7 +4402,7 @@
     "id": "937936",
     "name": "KON ASIAN BISTRO",
     "address": "553 MAIN STREET EAST GREENWICH RI 02818",
-    "last_inspection": "06-10-2026",
+    "last_inspection": "07-15-2026",
     "license_type": "Seats - 50 or More",
     "lat": 41.6572647,
     "lng": -71.4536371,
@@ -8223,19 +8223,6 @@
     "google_category": "grocery"
   },
   {
-    "id": "865976",
-    "name": "HONEY DEW DONUTS",
-    "address": "670 JEFFERSON BLVD WARWICK RI 02888",
-    "last_inspection": "01-13-2026",
-    "license_type": "Seats -  Less than 50",
-    "lat": 41.7298096,
-    "lng": -71.4423023,
-    "violation_count": 1,
-    "risk_score": 1,
-    "cuisine": "breakfast",
-    "google_category": "restaurant"
-  },
-  {
     "id": "936768",
     "name": "PALHARES RESTAURANT",
     "address": "77 MAIN ROAD TIVERTON RI 02878",
@@ -10919,19 +10906,6 @@
     "violation_count": 2,
     "risk_score": 2,
     "google_category": "grocery"
-  },
-  {
-    "id": "413858",
-    "name": "TITOS CANTINA",
-    "address": "651 W MAIN RD MIDDLETOWN RI 02842",
-    "last_inspection": "12-16-2025",
-    "license_type": "Seats - 50 or More",
-    "lat": 41.52034560000001,
-    "lng": -71.2990848,
-    "violation_count": 6,
-    "risk_score": 9,
-    "cuisine": "mexican",
-    "google_category": "restaurant"
   },
   {
     "id": "713738",
@@ -19362,8 +19336,8 @@
     "license_type": "Cash Registers - 1-2",
     "lat": 41.5116975,
     "lng": -71.6896424,
-    "violation_count": 5,
-    "risk_score": 10,
+    "violation_count": 0,
+    "risk_score": 0,
     "google_category": "grocery"
   },
   {
@@ -21395,12 +21369,12 @@
     "id": "265695",
     "name": "THE PRESERVE AT BOULDER HILLS",
     "address": "87 KINGSTON RD WYOMING RI 02898",
-    "last_inspection": "06-22-2026",
+    "last_inspection": "07-09-2026",
     "license_type": "Seats - 50 or More",
     "lat": 41.5150037,
     "lng": -71.70030030000001,
-    "violation_count": 9,
-    "risk_score": 20,
+    "violation_count": 4,
+    "risk_score": 8,
     "google_category": "other",
     "cuisine": "other"
   },
@@ -24318,8 +24292,8 @@
     "license_type": "Caterer or Commissary",
     "lat": 41.4409444,
     "lng": -71.49585450000001,
-    "violation_count": 2,
-    "risk_score": 5,
+    "violation_count": 0,
+    "risk_score": 0,
     "google_category": "caterer"
   },
   {
@@ -34309,19 +34283,6 @@
     "cuisine": "other"
   },
   {
-    "id": "938599",
-    "name": "THE DAILY BREADS OF WESTERLY",
-    "address": "9 EAST AVENUE  WESTERLY RI 02891",
-    "last_inspection": "07-03-2025",
-    "license_type": "Cottage Food Manufacture",
-    "lat": 41.3670856,
-    "lng": -71.8198032,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
-  },
-  {
     "id": "245198",
     "name": "IDA LEWIS YACHT CLUB, THE",
     "address": "LIME ROCK NEWPORT RI 02840",
@@ -38161,8 +38122,8 @@
     "license_type": "Mobile Food Service",
     "lat": 41.8809562,
     "lng": -71.389822,
-    "violation_count": 2,
-    "risk_score": 2,
+    "violation_count": 4,
+    "risk_score": 8,
     "google_category": "restaurant",
     "cuisine": "mexican"
   },
@@ -41282,18 +41243,6 @@
     "cuisine": "other"
   },
   {
-    "id": "249746",
-    "name": "OCEAN STATE JOB LOT OF BUTTONWOODS INC",
-    "address": "3030 WEST SHORE ROAD WARWICK RI 02886",
-    "last_inspection": "05-07-2025",
-    "license_type": "Cash Registers - 3-5",
-    "lat": 41.7015801,
-    "lng": -71.4315826,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "grocery"
-  },
-  {
     "id": "258319",
     "name": "GENJI SUSHI EXPRESS INC",
     "address": "GARDEN CITY CENTER CRANSTON RI 02920",
@@ -42877,19 +42826,6 @@
     "google_category": "other"
   },
   {
-    "id": "244766",
-    "name": "HOLIDAY RETIREMENT HOME",
-    "address": "30 SAYLES HILL ROAD LINCOLN RI 02838",
-    "last_inspection": "04-27-2026",
-    "license_type": "Seats -  Less than 50",
-    "lat": 41.9654489,
-    "lng": -71.480333,
-    "violation_count": 4,
-    "risk_score": 4,
-    "google_category": "healthcare",
-    "cuisine": "other"
-  },
-  {
     "id": "246030",
     "name": "JAMESTOWN GOLF COURSE",
     "address": "245 CONANICUS AVENUE JAMESTOWN RI 02835",
@@ -43008,12 +42944,12 @@
     "id": "790181",
     "name": "THE PROTEIN PARLOR NUTRITION",
     "address": "330 ATWOOD AVE CRANSTON RI 02920",
-    "last_inspection": "04-23-2025",
+    "last_inspection": "07-09-2026",
     "license_type": "Seats -  Less than 50",
     "lat": 41.7847409,
     "lng": -71.4732867,
-    "violation_count": 3,
-    "risk_score": 5,
+    "violation_count": 2,
+    "risk_score": 3,
     "google_category": "restaurant",
     "cuisine": "other"
   },
@@ -50368,18 +50304,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "938019",
-    "name": "WE BE JAMMIN",
-    "address": "1923 POST RD WARWICK RI 02886",
-    "last_inspection": "02-11-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7295394,
-    "lng": -71.43802920000002,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
     "id": "245941",
     "name": "SODEXO MGT INC AT SALVE/MILEY HALL",
     "address": "SALVE REGINA UNIVERSITY NEWPORT RI 02840",
@@ -54581,12 +54505,12 @@
     "id": "238788",
     "name": "NEWPORT FUDGERY",
     "address": "UNIT A NEWPORT RI 02840",
-    "last_inspection": "11-27-2024",
+    "last_inspection": "07-09-2026",
     "license_type": "Food Processor Retail - In-State",
     "lat": 41.4711987,
     "lng": -71.3171162,
-    "violation_count": 1,
-    "risk_score": 1,
+    "violation_count": 4,
+    "risk_score": 7,
     "google_category": "restaurant",
     "cuisine": "other"
   },
@@ -56417,12 +56341,12 @@
     "id": "713966",
     "name": "BRICKLEYS ICE CREAM",
     "address": "239 ROBINSON ST WAKEFIELD RI 02879",
-    "last_inspection": "10-07-2024",
+    "last_inspection": "07-08-2026",
     "license_type": "Food Processor Retail - In-State",
     "lat": 41.4388448,
     "lng": -71.4980451,
-    "violation_count": 1,
-    "risk_score": 1,
+    "violation_count": 2,
+    "risk_score": 2,
     "google_category": "restaurant",
     "cuisine": "other"
   },
@@ -59428,12 +59352,12 @@
     "id": "261302",
     "name": "HOUSE OF NOODLE SOUP",
     "address": "790 RESERVOIR AVENUE CRANSTON RI 02920",
-    "last_inspection": "07-08-2024",
+    "last_inspection": "07-15-2026",
     "license_type": "Seats -  Less than 50",
     "lat": 41.7786436,
     "lng": -71.4443526,
-    "violation_count": 5,
-    "risk_score": 11,
+    "violation_count": 3,
+    "risk_score": 7,
     "cuisine": "chinese",
     "google_category": "restaurant"
   },
@@ -61493,12 +61417,12 @@
     "id": "612059",
     "name": "SEASONS CORNER MARKET",
     "address": "708 GREENWICH AVE WARWICK RI 02886",
-    "last_inspection": "04-10-2024",
+    "last_inspection": "07-09-2026",
     "license_type": "Food Processor Retail - In-State",
     "lat": 41.7164681,
     "lng": -71.4631448,
-    "violation_count": 0,
-    "risk_score": 0,
+    "violation_count": 2,
+    "risk_score": 3,
     "google_category": "grocery"
   },
   {
@@ -63052,12 +62976,12 @@
     "id": "790425",
     "name": "GREENWICH HOTEL",
     "address": "162 MAIN ST EAST GREENWICH RI 02818",
-    "last_inspection": "01-11-2024",
+    "last_inspection": "07-15-2026",
     "license_type": "Seats - 50 or More",
     "lat": 41.6616765,
     "lng": -71.449834,
-    "violation_count": 2,
-    "risk_score": 4,
+    "violation_count": 0,
+    "risk_score": 0,
     "cuisine": "bar",
     "google_category": "restaurant"
   },
@@ -64381,32 +64305,6 @@
     "risk_score": 4,
     "google_category": "restaurant",
     "cuisine": "other"
-  },
-  {
-    "id": "866136",
-    "name": "TEDDY'S CANDY BAR & MORE",
-    "address": "220 WILLETT AVENUE RIVERSIDE RI 02915",
-    "last_inspection": "07-19-2023",
-    "license_type": "Mobile Food Service",
-    "lat": 41.7751423,
-    "lng": -71.35527569999999,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "other"
-  },
-  {
-    "id": "866292",
-    "name": "ABCD BROTHERS KITCHEN",
-    "address": "347 DYER AVENUE CRANSTON RI 02920",
-    "last_inspection": "07-14-2023",
-    "license_type": "Mobile Food Service",
-    "lat": 41.8053805,
-    "lng": -71.4580205,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "italian"
   },
   {
     "id": "866098",
