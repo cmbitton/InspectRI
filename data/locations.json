@@ -15814,7 +15814,7 @@
     "id": "359146",
     "name": "SWEET AND SALTY FARM",
     "address": "50 SHAW RD LITTLE COMPTON RI 02837",
-    "last_inspection": "03-06-2026",
+    "last_inspection": "05-27-2026",
     "license_type": "Milk Processor In-State",
     "lat": 41.4903698,
     "lng": -71.15191879999999,
@@ -19329,18 +19329,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "866550",
-    "name": "RICHMOND MARKET",
-    "address": "5 KINGSTOWN ROAD WYOMING RI 02898",
-    "last_inspection": "03-23-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.5116975,
-    "lng": -71.6896424,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
-  },
-  {
     "id": "937242",
     "name": "GANSETT WRAPS",
     "address": "55 BEACH STREET WESTERLY RI 02891",
@@ -20517,18 +20505,6 @@
     "risk_score": 12,
     "cuisine": "japanese",
     "google_category": "restaurant"
-  },
-  {
-    "id": "938557",
-    "name": "7-ELEVEN #33413K",
-    "address": "775 CRANSTON ST PROVIDENCE RI 02907",
-    "last_inspection": "04-15-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8040931,
-    "lng": -71.43912,
-    "violation_count": 3,
-    "risk_score": 4,
-    "google_category": "grocery"
   },
   {
     "id": "938854",
@@ -24285,18 +24261,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "936799",
-    "name": "SEA AND SMOKE CATERING, LLC",
-    "address": "203 MAIN STREET WAKEFIELD RI 02879",
-    "last_inspection": "09-18-2025",
-    "license_type": "Caterer or Commissary",
-    "lat": 41.4409444,
-    "lng": -71.49585450000001,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "caterer"
-  },
-  {
     "id": "936829",
     "name": "CULTURA MIXTA FAMILY RESTAURANT",
     "address": "915 DEXTER STREET CENTRAL FALLS RI 02863",
@@ -27133,7 +27097,7 @@
     "id": "414774",
     "name": "ANTONIOS PIZZA BY THE SLICE",
     "address": "256 THAYER ST PROVIDENCE RI 02906",
-    "last_inspection": "08-28-2025",
+    "last_inspection": "07-22-2026",
     "license_type": "Caterer or Commissary",
     "lat": 41.8286728,
     "lng": -71.4008532,
@@ -30976,18 +30940,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "612569",
-    "name": "TRAVEL TRADERS NO 3144",
-    "address": "1 W EXCHANGE ST PROVIDENCE RI 02903",
-    "last_inspection": "07-31-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8253264,
-    "lng": -71.4158739,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
     "id": "663163",
     "name": "525 NUTRITION AND FITNESS",
     "address": "525 MAIN RD TIVERTON RI 02878",
@@ -31087,19 +31039,6 @@
     "lng": -71.4586623,
     "violation_count": 1,
     "risk_score": 2,
-    "google_category": "restaurant",
-    "cuisine": "other"
-  },
-  {
-    "id": "936610",
-    "name": "NUTRITION HERBAL CLUB",
-    "address": "341 WEBSTER AVENUE CRANSTON RI 02920",
-    "last_inspection": "07-31-2025",
-    "license_type": "Seats -  Less than 50",
-    "lat": 41.8046137,
-    "lng": -71.4477587,
-    "violation_count": 1,
-    "risk_score": 1,
     "google_category": "restaurant",
     "cuisine": "other"
   },
@@ -33142,18 +33081,6 @@
     "google_category": "other"
   },
   {
-    "id": "938600",
-    "name": "PORTER PASTRY",
-    "address": "1554 OLD TOWN RD BLOCK ISLAND RI 02807",
-    "last_inspection": "07-16-2025",
-    "license_type": "Cottage Food Manufacture",
-    "lat": 41.1726098,
-    "lng": -71.5721551,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
     "id": "938686",
     "name": "DRY BREW",
     "address": "1800 MENDON RD CUMBERLAND RI 02864",
@@ -33542,19 +33469,6 @@
     "lng": -71.254586,
     "violation_count": 2,
     "risk_score": 3,
-    "google_category": "restaurant",
-    "cuisine": "other"
-  },
-  {
-    "id": "938595",
-    "name": "GIGI BAKES IT",
-    "address": "112 TEIRNAN AVE WARWICK RI 02886",
-    "last_inspection": "07-11-2025",
-    "license_type": "Cottage Food Manufacture",
-    "lat": 41.6922751,
-    "lng": -71.4401025,
-    "violation_count": 0,
-    "risk_score": 0,
     "google_category": "restaurant",
     "cuisine": "other"
   },
@@ -38122,8 +38036,8 @@
     "license_type": "Mobile Food Service",
     "lat": 41.8809562,
     "lng": -71.389822,
-    "violation_count": 4,
-    "risk_score": 8,
+    "violation_count": 2,
+    "risk_score": 2,
     "google_category": "restaurant",
     "cuisine": "mexican"
   },
@@ -41539,12 +41453,12 @@
     "id": "790070",
     "name": "BAJAS TEX MEX EXPRESS LLC",
     "address": "1412 ATWOOD AVE STE 4 JOHNSTON RI 02919",
-    "last_inspection": "05-06-2025",
+    "last_inspection": "07-16-2026",
     "license_type": "Seats -  Less than 50",
     "lat": 41.82071320000001,
     "lng": -71.4984575,
-    "violation_count": 8,
-    "risk_score": 12,
+    "violation_count": 5,
+    "risk_score": 10,
     "cuisine": "mexican",
     "google_category": "restaurant"
   },
@@ -43070,12 +42984,12 @@
     "id": "358714",
     "name": "ADCARE RHODE ISLAND INC",
     "address": "1950 TOWER HILL RD NORTH KINGSTOWN RI 02852",
-    "last_inspection": "04-22-2025",
+    "last_inspection": "06-23-2026",
     "license_type": "Seats -  Less than 50",
     "lat": 41.5267623,
     "lng": -71.46218630000001,
-    "violation_count": 6,
-    "risk_score": 12,
+    "violation_count": 4,
+    "risk_score": 6,
     "google_category": "healthcare",
     "cuisine": "other"
   },
@@ -57220,18 +57134,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "770839",
-    "name": "PACIFIC MARKET INC",
-    "address": "237 GREENVILLE  AVENUE  JOHNSTON RI 02919",
-    "last_inspection": "09-11-2024",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8378605,
-    "lng": -71.48190439999999,
-    "violation_count": 2,
-    "risk_score": 2,
-    "google_category": "grocery"
-  },
-  {
     "id": "262570",
     "name": "APPLEBEE'S NEIGHBORHOOD GRILL AND BAR",
     "address": "15 SOUTH COUNTY COMMONS WAY SOUTH KINGSTOWN RI 02879",
@@ -59158,19 +59060,6 @@
     "risk_score": 0,
     "google_category": "restaurant",
     "cuisine": "american"
-  },
-  {
-    "id": "937385",
-    "name": "KC CONFECTIONS",
-    "address": "25 BRACKETT AVENUE TIVERTON RI 02878",
-    "last_inspection": "07-15-2024",
-    "license_type": "Cottage Food Manufacture",
-    "lat": 41.6570246,
-    "lng": -71.1949553,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
   },
   {
     "id": "937399",
@@ -63457,19 +63346,6 @@
     "cuisine": "other"
   },
   {
-    "id": "866261",
-    "name": "SARAYRI ORIENTAL SWEETS",
-    "address": "1674 CRANSTON STREET CRANSTON RI 02920",
-    "last_inspection": "06-02-2026",
-    "license_type": "Seats -  Less than 50",
-    "lat": 41.78435,
-    "lng": -71.46421149999999,
-    "violation_count": 0,
-    "risk_score": 0,
-    "cuisine": "breakfast",
-    "google_category": "restaurant"
-  },
-  {
     "id": "789707",
     "name": "BAYBERRY GARDEN",
     "address": "225 DYER ST PROVIDENCE RI 02903",
@@ -64292,19 +64168,6 @@
     "risk_score": 0,
     "google_category": "restaurant",
     "cuisine": "breakfast"
-  },
-  {
-    "id": "255570",
-    "name": "PAPA'S ICE CREAM LLC",
-    "address": "2987 WEST SHORE ROAD WARWICK RI 02886",
-    "last_inspection": "07-24-2023",
-    "license_type": "Seats -  Less than 50",
-    "lat": 41.70258889999999,
-    "lng": -71.4300987,
-    "violation_count": 2,
-    "risk_score": 4,
-    "google_category": "restaurant",
-    "cuisine": "other"
   },
   {
     "id": "866098",
@@ -68823,12 +68686,12 @@
     "id": "790203",
     "name": "TIZZY KS CEREAL ICE CREAM",
     "address": "365 SOUTH WATER STREET PROVIDENCE RI 02903",
-    "last_inspection": "06-29-2026",
+    "last_inspection": "07-16-2026",
     "license_type": "Mobile Food Service",
     "lat": 41.821057,
     "lng": -71.405064,
-    "violation_count": 5,
-    "risk_score": 9,
+    "violation_count": 2,
+    "risk_score": 4,
     "google_category": "restaurant",
     "cuisine": "other"
   },
@@ -69171,12 +69034,12 @@
     "id": "866003",
     "name": "MALA NOODLE",
     "address": "215 THAYER STREET PROVIDENCE RI 02906",
-    "last_inspection": "07-07-2026",
+    "last_inspection": "07-14-2026",
     "license_type": "Seats -  Less than 50",
     "lat": 41.8275139,
     "lng": -71.40031979999999,
-    "violation_count": 9,
-    "risk_score": 19,
+    "violation_count": 4,
+    "risk_score": 8,
     "google_category": "restaurant",
     "cuisine": "chinese"
   },
