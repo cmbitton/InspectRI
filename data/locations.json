@@ -70067,5 +70067,29 @@
     "violation_count": 0,
     "risk_score": 0,
     "google_category": "other"
+  },
+  {
+    "id": "790138",
+    "name": "T AND C LOBSTER INC",
+    "address": "329 GREAT ISLAND RD NARRAGANSETT RI 02882",
+    "last_inspection": "07-27-2026",
+    "license_type": "Food Distributor - In-State",
+    "lat": 41.384829,
+    "lng": -71.506711,
+    "violation_count": 0,
+    "risk_score": 0,
+    "google_category": "grocery"
+  },
+  {
+    "id": "951708",
+    "name": "WAVY JUICE",
+    "address": "691 MAIN STREET WARREN RI 02885",
+    "last_inspection": "07-24-2026",
+    "license_type": "Bottler Canner (Not-Water) In-State",
+    "lat": 41.7252306,
+    "lng": -71.2817918,
+    "violation_count": 1,
+    "risk_score": 3,
+    "google_category": "other"
   }
 ]
