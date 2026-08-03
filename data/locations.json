@@ -70498,5 +70498,18 @@
     "violation_count": 0,
     "risk_score": 0,
     "google_category": "other"
+  },
+  {
+    "id": "951901",
+    "name": "IN THE PINK ACAI & CAFE",
+    "address": "18 KINGSTOWN RD NARRAGANSETT RI 02882",
+    "last_inspection": "07-30-2026",
+    "license_type": "Seats -  Less than 50",
+    "lat": 41.4306429,
+    "lng": -71.4587157,
+    "violation_count": 2,
+    "risk_score": 2,
+    "google_category": "restaurant",
+    "cuisine": "other"
   }
 ]
