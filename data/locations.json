@@ -32109,12 +32109,12 @@
     "id": "790387",
     "name": "MISQUAMICUT SANDWICH COMPANY",
     "address": "57 SHORE RD WESTERLY RI 02891",
-    "last_inspection": "07-23-2025",
+    "last_inspection": "08-11-2026",
     "license_type": "Seats -  Less than 50",
     "lat": 41.3270673,
     "lng": -71.8204408,
-    "violation_count": 0,
-    "risk_score": 0,
+    "violation_count": 1,
+    "risk_score": 2,
     "google_category": "other",
     "cuisine": "other"
   },
@@ -34505,12 +34505,12 @@
     "id": "244683",
     "name": "COVENTRY/WEST GREENWICH ELKS LODGE NO 2285",
     "address": "42 NOOSENECK HILL WEST GREENWICH RI 02817",
-    "last_inspection": "06-30-2025",
+    "last_inspection": "08-11-2026",
     "license_type": "Seats - 50 or More",
     "lat": 41.6568896,
     "lng": -71.6035041,
-    "violation_count": 1,
-    "risk_score": 1,
+    "violation_count": 4,
+    "risk_score": 7,
     "google_category": "other",
     "cuisine": "other"
   },
@@ -39444,12 +39444,12 @@
     "id": "938314",
     "name": "WESTERLY MOBIL",
     "address": "249 POST RD WESTERLY RI 02891",
-    "last_inspection": "05-20-2025",
+    "last_inspection": "08-11-2026",
     "license_type": "Cash Registers - 1-2",
     "lat": 41.3513168,
     "lng": -71.767836,
-    "violation_count": 2,
-    "risk_score": 4,
+    "violation_count": 1,
+    "risk_score": 1,
     "google_category": "other"
   },
   {
@@ -70574,5 +70574,30 @@
     "risk_score": 5,
     "google_category": "restaurant",
     "cuisine": "bar"
+  },
+  {
+    "id": "951935",
+    "name": "MARTIN LUTHER KING COMMUNITY CENTER",
+    "address": "120 HILLSIDE AVE NEWPORT RI 02840",
+    "last_inspection": "08-12-2026",
+    "license_type": "Mobile Food Service (Non-Profit)",
+    "lat": 41.5118516,
+    "lng": -71.3092137,
+    "violation_count": 0,
+    "risk_score": 0,
+    "google_category": "other"
+  },
+  {
+    "id": "714083",
+    "name": "TROPIC FROST INC",
+    "address": "4191 OLD POST RD CHARLESTOWN RI 02813",
+    "last_inspection": "08-11-2026",
+    "license_type": "Seats -  Less than 50",
+    "lat": 41.3835576,
+    "lng": -71.6320473,
+    "violation_count": 10,
+    "risk_score": 15,
+    "google_category": "restaurant",
+    "cuisine": "other"
   }
 ]
