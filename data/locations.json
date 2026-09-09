@@ -26210,12 +26210,12 @@
     "id": "612518",
     "name": "WALGREENS NO 19189",
     "address": "20 WOODRUFF AVE NARRAGANSETT RI 02882",
-    "last_inspection": "09-04-2025",
+    "last_inspection": "09-08-2026",
     "license_type": "Cash Registers - 6 or more",
     "lat": 41.4306297,
     "lng": -71.4829037,
-    "violation_count": 0,
-    "risk_score": 0,
+    "violation_count": 1,
+    "risk_score": 1,
     "google_category": "grocery"
   },
   {
@@ -71084,5 +71084,17 @@
     "risk_score": 5,
     "google_category": "restaurant",
     "cuisine": "bar"
+  },
+  {
+    "id": "789814",
+    "name": "NARRAGANSETT COMMUNITY CENTER",
+    "address": "53 MUMFORD RD NARRAGANSETT RI 02882",
+    "last_inspection": "09-08-2026",
+    "license_type": "Food Service (Non-Profit)",
+    "lat": 41.4360741,
+    "lng": -71.46953549999999,
+    "violation_count": 0,
+    "risk_score": 0,
+    "google_category": "other"
   }
 ]
