@@ -7658,12 +7658,12 @@
     "id": "937259",
     "name": "CARMINES",
     "address": "1538 SMITH STREET NORTH PROVIDENCE RI 02911",
-    "last_inspection": "05-28-2026",
+    "last_inspection": "09-10-2026",
     "license_type": "Seats -  Less than 50",
     "lat": 41.8504174,
     "lng": -71.46260020000001,
-    "violation_count": 1,
-    "risk_score": 2,
+    "violation_count": 0,
+    "risk_score": 0,
     "google_category": "restaurant",
     "cuisine": "other"
   },
@@ -41920,12 +41920,12 @@
     "id": "414294",
     "name": "AMOS HOUSE",
     "address": "460 PINE ST PROVIDENCE RI 02907",
-    "last_inspection": "04-30-2025",
+    "last_inspection": "09-10-2026",
     "license_type": "Food Service (Non-Profit)",
     "lat": 41.8125241,
     "lng": -71.41928949999999,
-    "violation_count": 5,
-    "risk_score": 6,
+    "violation_count": 4,
+    "risk_score": 5,
     "google_category": "other"
   },
   {
@@ -46566,12 +46566,12 @@
     "id": "789676",
     "name": "ROSARIO MEAT MARKET LLC",
     "address": "1035 BROAD ST PROVIDENCE RI 02907",
-    "last_inspection": "08-25-2026",
+    "last_inspection": "09-10-2026",
     "license_type": "Cash Registers - 1-2",
     "lat": 41.7967527,
     "lng": -71.4130684,
-    "violation_count": 17,
-    "risk_score": 27,
+    "violation_count": 15,
+    "risk_score": 25,
     "google_category": "grocery"
   },
   {
@@ -52929,12 +52929,12 @@
     "id": "936763",
     "name": "ADVANCE MARKET LLC",
     "address": "228 MANTON AVENUE PROVIDENCE RI 02909",
-    "last_inspection": "08-26-2026",
+    "last_inspection": "09-11-2026",
     "license_type": "Cash Registers - 1-2",
     "lat": 41.8210499,
     "lng": -71.4481813,
-    "violation_count": 11,
-    "risk_score": 19,
+    "violation_count": 1,
+    "risk_score": 1,
     "google_category": "grocery"
   },
   {
@@ -54444,12 +54444,12 @@
     "id": "856932",
     "name": "EL ENCANTO MARKET",
     "address": "72 APPLETON ST PROVIDENCE RI 02909",
-    "last_inspection": "04-27-2026",
+    "last_inspection": "09-10-2026",
     "license_type": "Cash Registers - 1-2",
     "lat": 41.820375,
     "lng": -71.4444838,
-    "violation_count": 11,
-    "risk_score": 17,
+    "violation_count": 1,
+    "risk_score": 2,
     "google_category": "grocery"
   },
   {
@@ -71249,5 +71249,43 @@
     "violation_count": 0,
     "risk_score": 0,
     "google_category": "other"
+  },
+  {
+    "id": "790139",
+    "name": "POPEYES LOUISANA KITCHEN",
+    "address": "1000 BALD HILL ROAD WARWICK RI 02886",
+    "last_inspection": "09-11-2026",
+    "license_type": "Seats -  Less than 50",
+    "lat": 41.71236,
+    "lng": -71.4881883,
+    "violation_count": 6,
+    "risk_score": 8,
+    "google_category": "restaurant",
+    "cuisine": "american"
+  },
+  {
+    "id": "938003",
+    "name": "BRADLEY SCHOOL (PROVIDENCE)",
+    "address": "130 BROADWAY PROVIDENCE RI 02903",
+    "last_inspection": "09-11-2026",
+    "license_type": "Food Service (Non-Profit)",
+    "lat": 41.8212673,
+    "lng": -71.42148499999999,
+    "violation_count": 0,
+    "risk_score": 0,
+    "google_category": "school"
+  },
+  {
+    "id": "260757",
+    "name": "GLORIA'S SPORTS BAR",
+    "address": "623 CRANSTON STREET PROVIDENCE RI 02907",
+    "last_inspection": "09-10-2026",
+    "license_type": "Seats -  Less than 50",
+    "lat": 41.8068402,
+    "lng": -71.4361746,
+    "violation_count": 14,
+    "risk_score": 21,
+    "google_category": "restaurant",
+    "cuisine": "bar"
   }
 ]
