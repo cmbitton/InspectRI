@@ -71237,5 +71237,18 @@
     "risk_score": 21,
     "google_category": "restaurant",
     "cuisine": "bar"
+  },
+  {
+    "id": "952150",
+    "name": "BAKERS BREADS",
+    "address": "61 OLD NORTH RD COVENTRY RI 02816",
+    "last_inspection": "09-11-2026",
+    "license_type": "Cottage Food Manufacture",
+    "lat": 41.671408,
+    "lng": -71.5395652,
+    "violation_count": 0,
+    "risk_score": 0,
+    "google_category": "restaurant",
+    "cuisine": "breakfast"
   }
 ]
