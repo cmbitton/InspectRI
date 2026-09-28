@@ -5413,12 +5413,12 @@
     "id": "938368",
     "name": "DAILY STOP SUPERMARKET",
     "address": "85 WHIPPLE STREET PROVIDENCE RI 02908",
-    "last_inspection": "09-10-2026",
+    "last_inspection": "09-24-2026",
     "license_type": "Cash Registers - 3-5",
     "lat": 41.8388814,
     "lng": -71.4198468,
-    "violation_count": 13,
-    "risk_score": 20,
+    "violation_count": 11,
+    "risk_score": 17,
     "google_category": "grocery"
   },
   {
@@ -71979,5 +71979,69 @@
     "risk_score": 4,
     "google_category": "restaurant",
     "cuisine": "american"
+  },
+  {
+    "id": "856988",
+    "name": "BAE LOUNGE",
+    "address": "146 ACORN ST PROVIDENCE RI 02903",
+    "last_inspection": "09-24-2026",
+    "license_type": "Seats - 50 or More",
+    "lat": 41.8241322,
+    "lng": -71.4277939,
+    "violation_count": 17,
+    "risk_score": 29,
+    "google_category": "restaurant",
+    "cuisine": "bar"
+  },
+  {
+    "id": "952120",
+    "name": "FLO AND DOUGH PIZZA CO",
+    "address": "12 NOOSENECK HILL RD WEST GREENWICH RI 02817",
+    "last_inspection": "09-24-2026",
+    "license_type": "Seats -  Less than 50",
+    "lat": 41.6590664,
+    "lng": -71.6028767,
+    "violation_count": 3,
+    "risk_score": 3,
+    "google_category": "restaurant",
+    "cuisine": "other"
+  },
+  {
+    "id": "952130",
+    "name": "CHALKSTONE MARKETPLACE",
+    "address": "80 MANTON AVE PROVIDENCE RI 02909",
+    "last_inspection": "09-24-2026",
+    "license_type": "Cash Registers - 3-5",
+    "lat": 41.8178794,
+    "lng": -71.44534519999999,
+    "violation_count": 0,
+    "risk_score": 0,
+    "google_category": "grocery"
+  },
+  {
+    "id": "952132",
+    "name": "CRAVINGS RI",
+    "address": "245 PHENIX AVE CRANSTON RI 02920",
+    "last_inspection": "09-24-2026",
+    "license_type": "Caterer or Commissary",
+    "lat": 41.780501,
+    "lng": -71.4755045,
+    "violation_count": 0,
+    "risk_score": 0,
+    "google_category": "restaurant",
+    "cuisine": "other"
+  },
+  {
+    "id": "952264",
+    "name": "LE PETIT SUCRE",
+    "address": "18 VALLEY ST CRANSTON RI 02920",
+    "last_inspection": "09-24-2026",
+    "license_type": "Cottage Food Manufacture",
+    "lat": 41.76470459999999,
+    "lng": -71.4753959,
+    "violation_count": 0,
+    "risk_score": 0,
+    "google_category": "restaurant",
+    "cuisine": "breakfast"
   }
 ]
