@@ -14624,18 +14624,6 @@
     "google_category": "grocery"
   },
   {
-    "id": "247160",
-    "name": "CHARLESTOWN MINI-SUPER",
-    "address": "4071 OLD POST ROAD CHARLESTOWN RI 02813",
-    "last_inspection": "11-18-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.3868235,
-    "lng": -71.62813919999999,
-    "violation_count": 6,
-    "risk_score": 8,
-    "google_category": "grocery"
-  },
-  {
     "id": "250029",
     "name": "THE COVE",
     "address": "3963 OLD POST ROAD CHARLESTOWN RI 02813",
@@ -18817,7 +18805,7 @@
     "id": "938021",
     "name": "LEGACY HIGH SCHOOL",
     "address": "1080 MAIN ST PAWTUCKET RI 02860",
-    "last_inspection": "03-12-2026",
+    "last_inspection": "08-28-2026",
     "license_type": "Food Service (Non-Profit)",
     "lat": 41.8608356,
     "lng": -71.39884769999999,
@@ -19503,18 +19491,6 @@
     "lng": -71.460273,
     "violation_count": 0,
     "risk_score": 0,
-    "google_category": "school"
-  },
-  {
-    "id": "244644",
-    "name": "DANIEL D WATERMAN ELEMENTARY",
-    "address": "722 PONTIAC AVENUE CRANSTON RI 02910",
-    "last_inspection": "03-23-2026",
-    "license_type": "Food Service (Non-Profit)",
-    "lat": 41.7664129,
-    "lng": -71.4400221,
-    "violation_count": 1,
-    "risk_score": 1,
     "google_category": "school"
   },
   {
@@ -20731,19 +20707,6 @@
     "violation_count": 2,
     "risk_score": 2,
     "google_category": "grocery"
-  },
-  {
-    "id": "258605",
-    "name": "SHOWCASE CINEMA WARWICK",
-    "address": "1200 QUAKER LANE WARWICK RI 02886",
-    "last_inspection": "10-09-2025",
-    "license_type": "Seats - 50 or More",
-    "lat": 41.6642113,
-    "lng": -71.49560819999999,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other",
-    "cuisine": "other"
   },
   {
     "id": "259818",
@@ -23474,12 +23437,12 @@
     "id": "245344",
     "name": "EAST PROVIDENCE SENIOR HIGH",
     "address": "2000 PAWTUCKET AVENUE EAST PROVIDENCE RI 02914",
-    "last_inspection": "09-22-2026",
+    "last_inspection": "10-05-2026",
     "license_type": "Food Service (Non-Profit)",
     "lat": 41.8203436,
     "lng": -71.35604119999999,
-    "violation_count": 2,
-    "risk_score": 4,
+    "violation_count": 1,
+    "risk_score": 1,
     "google_category": "school"
   },
   {
@@ -24113,12 +24076,12 @@
     "id": "245140",
     "name": "BRISTOL GOLF CLUB",
     "address": "95 TUPELO STREET BRISTOL RI 02809",
-    "last_inspection": "09-17-2025",
+    "last_inspection": "10-01-2026",
     "license_type": "Seats - 50 or More",
     "lat": 41.7049773,
     "lng": -71.2731653,
-    "violation_count": 3,
-    "risk_score": 3,
+    "violation_count": 2,
+    "risk_score": 2,
     "google_category": "restaurant",
     "cuisine": "bar"
   },
@@ -24138,12 +24101,12 @@
     "id": "245250",
     "name": "ROCKWELL SCHOOL",
     "address": "1225 HOPE STREET BRISTOL RI 02809",
-    "last_inspection": "03-10-2026",
+    "last_inspection": "10-01-2026",
     "license_type": "Food Service (Non-Profit)",
     "lat": 41.698462,
     "lng": -71.28047389999999,
-    "violation_count": 0,
-    "risk_score": 0,
+    "violation_count": 2,
+    "risk_score": 2,
     "google_category": "school"
   },
   {
@@ -28891,19 +28854,6 @@
     "risk_score": 4,
     "google_category": "restaurant",
     "cuisine": "other"
-  },
-  {
-    "id": "938532",
-    "name": "CAFE ITRI",
-    "address": "1686 CRANSTON ST CRANSTON RI 02920",
-    "last_inspection": "08-18-2025",
-    "license_type": "Seats - 50 or More",
-    "lat": 41.7839599,
-    "lng": -71.4643507,
-    "violation_count": 0,
-    "risk_score": 0,
-    "cuisine": "italian",
-    "google_category": "restaurant"
   },
   {
     "id": "938674",
@@ -37761,8 +37711,8 @@
     "license_type": "Mobile Food Service",
     "lat": 41.8809562,
     "lng": -71.389822,
-    "violation_count": 2,
-    "risk_score": 2,
+    "violation_count": 4,
+    "risk_score": 8,
     "google_category": "restaurant",
     "cuisine": "mexican"
   },
@@ -56557,18 +56507,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "937372",
-    "name": "ALLIS SWEET SHOP",
-    "address": "727 MENDON ROAD WOONSOCKET RI 02895",
-    "last_inspection": "09-17-2024",
-    "license_type": "Cottage Food Manufacture",
-    "lat": 42.0090824,
-    "lng": -71.4776717,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
     "id": "937627",
     "name": "NOTCHA MOMS BONBONS",
     "address": "56 KINNE STREET WEST WARWICK RI 02893",
@@ -63321,19 +63259,6 @@
     "google_category": "grocery"
   },
   {
-    "id": "866230",
-    "name": "OBERLIN",
-    "address": "266 WESTMINSTER STREET PROVIDENCE RI 02903",
-    "last_inspection": "10-04-2023",
-    "license_type": "Seats - 50 or More",
-    "lat": 41.8225031,
-    "lng": -71.41307979999999,
-    "violation_count": 0,
-    "risk_score": 0,
-    "cuisine": "american",
-    "google_category": "restaurant"
-  },
-  {
     "id": "415152",
     "name": "TRI COUNTY COMMUNITY ACTION AGENCY WESTERLY HEAD START",
     "address": "34 POND ST WESTERLY RI 02891",
@@ -63346,19 +63271,6 @@
     "google_category": "other"
   },
   {
-    "id": "866508",
-    "name": "THE BURRITO BOWL LLC",
-    "address": "809 BROADWAY EAST PROVIDENCE RI 02914",
-    "last_inspection": "10-03-2023",
-    "license_type": "Mobile Food Service",
-    "lat": 41.8196432,
-    "lng": -71.36867140000001,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "mexican"
-  },
-  {
     "id": "246125",
     "name": "ST PAUL SCHOOL OF EDGEWOOD",
     "address": "1789 BROAD STREET CRANSTON RI 02905",
@@ -63369,18 +63281,6 @@
     "violation_count": 0,
     "risk_score": 0,
     "google_category": "school"
-  },
-  {
-    "id": "866509",
-    "name": "TALLEY HO TREATS",
-    "address": "55 TALLEY HO COURT MIDDLETOWN RI 02842",
-    "last_inspection": "10-02-2023",
-    "license_type": "Cottage Food Manufacture",
-    "lat": 41.5109094,
-    "lng": -71.2666028,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "healthcare"
   },
   {
     "id": "413324",
@@ -69857,12 +69757,12 @@
     "id": "939444",
     "name": "DEAN'S DELI",
     "address": "8 GOODING AVE BRISTOL RI 02809",
-    "last_inspection": "08-04-2026",
+    "last_inspection": "09-24-2026",
     "license_type": "Seats -  Less than 50",
     "lat": 41.6919928,
     "lng": -71.2785583,
-    "violation_count": 1,
-    "risk_score": 1,
+    "violation_count": 7,
+    "risk_score": 16,
     "google_category": "restaurant",
     "cuisine": "american"
   },
