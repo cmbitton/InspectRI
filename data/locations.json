@@ -72601,5 +72601,17 @@
     "risk_score": 0,
     "google_category": "healthcare",
     "cuisine": "other"
+  },
+  {
+    "id": "857260",
+    "name": "SOUTH COUNTY BARBEQUE LLC",
+    "address": "615 CONGDON HILL RD SAUNDERSTOWN RI 02874",
+    "last_inspection": "10-08-2026",
+    "license_type": "Mobile Food Service",
+    "lat": 41.5229206,
+    "lng": -71.4872602,
+    "violation_count": 0,
+    "risk_score": 0,
+    "google_category": "other"
   }
 ]
