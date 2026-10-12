@@ -233,18 +233,6 @@
     "google_category": "school"
   },
   {
-    "id": "258441",
-    "name": "RODRIGUEZ MEAT MARKET",
-    "address": "400 HARTFORD AVENUE PROVIDENCE RI 02909",
-    "last_inspection": "06-17-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8181705,
-    "lng": -71.4569996,
-    "violation_count": 1,
-    "risk_score": 2,
-    "google_category": "grocery"
-  },
-  {
     "id": "260575",
     "name": "BAMBOO GARDEN",
     "address": "944 BOSTON NECK ROAD NARRAGANSETT RI 02882",
@@ -355,30 +343,6 @@
     "violation_count": 0,
     "risk_score": 0,
     "google_category": "school"
-  },
-  {
-    "id": "790401",
-    "name": "ELMWOOD SUPER MARKET",
-    "address": "366 ELMWOOD AVE PROVIDENCE RI 02907",
-    "last_inspection": "03-05-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8022806,
-    "lng": -71.4257044,
-    "violation_count": 5,
-    "risk_score": 9,
-    "google_category": "grocery"
-  },
-  {
-    "id": "865609",
-    "name": "A AND A MART LLC",
-    "address": "2701 HARTFORD AVE JOHNSTON RI 02919",
-    "last_inspection": "03-05-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8334613,
-    "lng": -71.55652649999999,
-    "violation_count": 5,
-    "risk_score": 9,
-    "google_category": "grocery"
   },
   {
     "id": "865806",
@@ -802,18 +766,6 @@
     "google_category": "school"
   },
   {
-    "id": "937063",
-    "name": "LINA MART",
-    "address": "1729 SMITH STREET NORTH PROVIDENCE RI 02911",
-    "last_inspection": "03-04-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8547159,
-    "lng": -71.4696514,
-    "violation_count": 2,
-    "risk_score": 4,
-    "google_category": "grocery"
-  },
-  {
     "id": "938206",
     "name": "NEW DRAGON AND DRAGON",
     "address": "878 POST RD WARWICK RI 02888",
@@ -836,18 +788,6 @@
     "lng": -71.4110752,
     "violation_count": 2,
     "risk_score": 4,
-    "google_category": "grocery"
-  },
-  {
-    "id": "939328",
-    "name": "REALE'S GROCERY",
-    "address": "122 HIGH STREET WESTERLY RI 02891",
-    "last_inspection": "08-05-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.3825194,
-    "lng": -71.8254512,
-    "violation_count": 0,
-    "risk_score": 0,
     "google_category": "grocery"
   },
   {
@@ -1264,18 +1204,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "865920",
-    "name": "BETTER LIVES RHODE ISLAND",
-    "address": "300 WEYBOSSET STREET PROVIDENCE RI 02903",
-    "last_inspection": "03-03-2026",
-    "license_type": "Market (Non-Profit)",
-    "lat": 41.8199075,
-    "lng": -71.41345609999999,
-    "violation_count": 1,
-    "risk_score": 2,
-    "google_category": "other"
-  },
-  {
     "id": "936856",
     "name": "FLEUR PROVIDENCE",
     "address": "1 WEST EXCHANGE STREET PROVIDENCE RI 02903",
@@ -1554,18 +1482,6 @@
     "cuisine": "other"
   },
   {
-    "id": "662662",
-    "name": "L AND M GROCERY MARKET",
-    "address": "454 PUBLIC ST PROVIDENCE RI 02907",
-    "last_inspection": "08-19-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8050552,
-    "lng": -71.41646779999999,
-    "violation_count": 8,
-    "risk_score": 11,
-    "google_category": "other"
-  },
-  {
     "id": "770730",
     "name": "PROVIDENCE STREET SHELL",
     "address": "6 PROVIDENCE ST WEST WARWICK RI 02893",
@@ -1769,32 +1685,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "238845",
-    "name": "THREE FLAGS BAKERY INC",
-    "address": "1255 BROAD STREET CENTRAL FALLS RI 02863",
-    "last_inspection": "02-19-2026",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.8970722,
-    "lng": -71.38811989999999,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
-  },
-  {
-    "id": "248394",
-    "name": "SWEENOR'S CHOCOLATES INC",
-    "address": "43 HILLSIDE ROAD CRANSTON RI 02920",
-    "last_inspection": "02-19-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.76344020000001,
-    "lng": -71.4587505,
-    "violation_count": 2,
-    "risk_score": 5,
-    "google_category": "restaurant",
-    "cuisine": "other"
-  },
-  {
     "id": "257226",
     "name": "SUPER STOP AND SHOP SUPERMARKET NO 737",
     "address": "1300 TEN ROD ROAD NORTH KINGSTOWN RI 02852",
@@ -1908,18 +1798,6 @@
     "risk_score": 16,
     "cuisine": "pizza",
     "google_category": "restaurant"
-  },
-  {
-    "id": "770790",
-    "name": "YORKTOWN MARKET INC",
-    "address": "6769 POST ROAD NORTH KINGSTOWN RI 02852",
-    "last_inspection": "02-19-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.6134147,
-    "lng": -71.4580134,
-    "violation_count": 2,
-    "risk_score": 4,
-    "google_category": "grocery"
   },
   {
     "id": "771116",
@@ -2210,18 +2088,6 @@
     "violation_count": 4,
     "risk_score": 6,
     "google_category": "grocery"
-  },
-  {
-    "id": "936749",
-    "name": "ROYAL FUEL",
-    "address": "732 WILLETT AVENUE RIVERSIDE RI 02915",
-    "last_inspection": "02-18-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7665484,
-    "lng": -71.3486312,
-    "violation_count": 3,
-    "risk_score": 5,
-    "google_category": "other"
   },
   {
     "id": "245066",
@@ -2800,18 +2666,6 @@
     "google_category": "grocery"
   },
   {
-    "id": "865601",
-    "name": "BRIGIDOS FRESH MARKET",
-    "address": "25 VILLAGE PLAZA WAY NORTH SCITUATE RI 02857",
-    "last_inspection": "02-16-2026",
-    "license_type": "Cash Registers - 3-5",
-    "lat": 41.83651,
-    "lng": -71.5740644,
-    "violation_count": 4,
-    "risk_score": 4,
-    "google_category": "grocery"
-  },
-  {
     "id": "865687",
     "name": "JERSEY MIKES SUBS",
     "address": "75 NEWPORT AVE RUMFORD RI 02916",
@@ -2952,18 +2806,6 @@
     "violation_count": 4,
     "risk_score": 4,
     "google_category": "grocery"
-  },
-  {
-    "id": "413899",
-    "name": "ZOOM MART",
-    "address": "3492 MENDON RD CUMBERLAND RI 02864",
-    "last_inspection": "05-29-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.978856,
-    "lng": -71.461753,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
   },
   {
     "id": "771087",
@@ -3353,18 +3195,6 @@
     "cuisine": "mexican"
   },
   {
-    "id": "414292",
-    "name": "ALIA MARKET INC",
-    "address": "384 ELMWOOD AVE PROVIDENCE RI 02907",
-    "last_inspection": "06-17-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8015684,
-    "lng": -71.42611269999999,
-    "violation_count": 1,
-    "risk_score": 3,
-    "google_category": "grocery"
-  },
-  {
     "id": "414539",
     "name": "HOPE DINER",
     "address": "742 HOPE ST BRISTOL RI 02809",
@@ -3402,19 +3232,6 @@
     "risk_score": 5,
     "cuisine": "american",
     "google_category": "restaurant"
-  },
-  {
-    "id": "663424",
-    "name": "BUONOS BAKERY CAFE",
-    "address": "567 RESERVOIR AVE CRANSTON RI 02910",
-    "last_inspection": "02-11-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7834563,
-    "lng": -71.4387325,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
   },
   {
     "id": "663568",
@@ -4273,18 +4090,6 @@
     "cuisine": "other"
   },
   {
-    "id": "264008",
-    "name": "MILLICENT AFRICAN MARKET",
-    "address": "195 MINERAL SPRING AVE PAWTUCKET RI 02860",
-    "last_inspection": "02-05-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8747222,
-    "lng": -71.39730349999999,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "other"
-  },
-  {
     "id": "415338",
     "name": "MAIN STREET GAS STATION",
     "address": "888 MAIN ST WEST WARWICK RI 02893",
@@ -4402,7 +4207,7 @@
     "id": "237582",
     "name": "WRIGHTS DAIRY FARM",
     "address": "200 WOONSOCKET HILL NORTH SMITHFIELD RI 02896",
-    "last_inspection": "05-06-2026",
+    "last_inspection": "08-05-2026",
     "license_type": "Milk Processor In-State",
     "lat": 41.9830863,
     "lng": -71.5387404,
@@ -4473,18 +4278,6 @@
     "risk_score": 5,
     "cuisine": "breakfast",
     "google_category": "restaurant"
-  },
-  {
-    "id": "248264",
-    "name": "HEALY NEWS STORE",
-    "address": "231 ROBINSON STREET SOUTH KINGSTOWN RI 02879",
-    "last_inspection": "02-04-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.4387836,
-    "lng": -71.4977366,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
   },
   {
     "id": "256448",
@@ -4624,18 +4417,6 @@
     "risk_score": 6,
     "cuisine": "chinese",
     "google_category": "restaurant"
-  },
-  {
-    "id": "714243",
-    "name": "LENOX CONVENIENCE",
-    "address": "610 A ELMWOOD AVE PROVIDENCE RI 02907",
-    "last_inspection": "02-04-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7954594,
-    "lng": -71.4245364,
-    "violation_count": 5,
-    "risk_score": 6,
-    "google_category": "grocery"
   },
   {
     "id": "770793",
@@ -5025,18 +4806,6 @@
     "cuisine": "other"
   },
   {
-    "id": "936860",
-    "name": "TROPICO MEAT MARKET",
-    "address": "308 CRANSTON STREET PROVIDENCE RI 02907",
-    "last_inspection": "02-03-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8127907,
-    "lng": -71.4290659,
-    "violation_count": 5,
-    "risk_score": 9,
-    "google_category": "other"
-  },
-  {
     "id": "936874",
     "name": "EL GRAN JAGUAR RESTAURANT & LOUNGE",
     "address": "139 BROAD STREET PAWTUCKET RI 02860",
@@ -5061,30 +4830,6 @@
     "risk_score": 14,
     "cuisine": "chinese",
     "google_category": "restaurant"
-  },
-  {
-    "id": "939287",
-    "name": "CUMBERLAND FARMS # 1305",
-    "address": "1776 POST RD WARWICK RI 02888",
-    "last_inspection": "02-03-2026",
-    "license_type": "Cash Registers - 3-5",
-    "lat": 41.7329233,
-    "lng": -71.4358848,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
-  },
-  {
-    "id": "939288",
-    "name": "CUMBERLAND FARMS # 1307",
-    "address": "1149 DIVISION ST EAST GREENWICH RI 02818",
-    "last_inspection": "09-28-2026",
-    "license_type": "Cash Registers - 3-5",
-    "lat": 41.6633533,
-    "lng": -71.49251009999999,
-    "violation_count": 1,
-    "risk_score": 2,
-    "google_category": "grocery"
   },
   {
     "id": "939290",
@@ -5397,18 +5142,6 @@
     "google_category": "caterer"
   },
   {
-    "id": "938368",
-    "name": "DAILY STOP SUPERMARKET",
-    "address": "85 WHIPPLE STREET PROVIDENCE RI 02908",
-    "last_inspection": "09-24-2026",
-    "license_type": "Cash Registers - 3-5",
-    "lat": 41.8388814,
-    "lng": -71.4198468,
-    "violation_count": 11,
-    "risk_score": 17,
-    "google_category": "grocery"
-  },
-  {
     "id": "939121",
     "name": "THE CASTLE CHIMNEY INC",
     "address": "1039 CHALKSTONE AVE PROVIDENCE RI 02908",
@@ -5686,30 +5419,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "857203",
-    "name": "PRIME WAY LLC",
-    "address": "91 VETERANS MEMORIAL DR WARWICK RI 02886",
-    "last_inspection": "01-29-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7023894,
-    "lng": -71.4576721,
-    "violation_count": 2,
-    "risk_score": 2,
-    "google_category": "other"
-  },
-  {
-    "id": "865600",
-    "name": "BRIGIDOS FRESH MARKET",
-    "address": "54 SAYLES AVE BURRILLVILLE RI 02859",
-    "last_inspection": "01-29-2026",
-    "license_type": "Cash Registers - 3-5",
-    "lat": 41.95694,
-    "lng": -71.70325869999999,
-    "violation_count": 3,
-    "risk_score": 3,
-    "google_category": "grocery"
-  },
-  {
     "id": "865768",
     "name": "TACO BELL",
     "address": "2574 WESTSHORE ROAD WARWICK RI 02889",
@@ -5734,18 +5443,6 @@
     "risk_score": 0,
     "cuisine": "breakfast",
     "google_category": "restaurant"
-  },
-  {
-    "id": "937379",
-    "name": "COUNTRY FARM",
-    "address": "86 MAPPLEVILLE MAIN STREET MAPLEVILLE RI 02839",
-    "last_inspection": "01-29-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.9486927,
-    "lng": -71.6456893,
-    "violation_count": 2,
-    "risk_score": 2,
-    "google_category": "grocery"
   },
   {
     "id": "937485",
@@ -5970,18 +5667,6 @@
     "risk_score": 0,
     "cuisine": "american",
     "google_category": "restaurant"
-  },
-  {
-    "id": "938071",
-    "name": "SUIVANTE",
-    "address": "140 UXBRIDGE STREET CRANSTON RI 02920",
-    "last_inspection": "01-28-2026",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.77805499999999,
-    "lng": -71.465868,
-    "violation_count": 2,
-    "risk_score": 5,
-    "google_category": "other"
   },
   {
     "id": "939181",
@@ -6784,19 +6469,6 @@
     "cuisine": "other"
   },
   {
-    "id": "248294",
-    "name": "HACK AND LIVERY GENERAL STORE INC",
-    "address": "1006 MAIN STREET HOPKINTON RI 02832",
-    "last_inspection": "01-21-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.5076409,
-    "lng": -71.7156603,
-    "violation_count": 1,
-    "risk_score": 2,
-    "google_category": "restaurant",
-    "cuisine": "other"
-  },
-  {
     "id": "250785",
     "name": "KENTUCKY FRIED CHICKEN",
     "address": "139 OLD TOWER HILL ROAD SOUTH KINGSTOWN RI 02879",
@@ -6923,18 +6595,6 @@
     "risk_score": 12,
     "cuisine": "pizza",
     "google_category": "restaurant"
-  },
-  {
-    "id": "790127",
-    "name": "CENTRAL MARKET",
-    "address": "536 CRANSTON ST PROVIDENCE RI 02907",
-    "last_inspection": "01-21-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.808686,
-    "lng": -71.4339021,
-    "violation_count": 5,
-    "risk_score": 10,
-    "google_category": "grocery"
   },
   {
     "id": "790218",
@@ -7300,18 +6960,6 @@
     "risk_score": 3,
     "cuisine": "american",
     "google_category": "restaurant"
-  },
-  {
-    "id": "938211",
-    "name": "LAROSE CHOCOLATS",
-    "address": "691 MAIN STREET WARREN RI 02885",
-    "last_inspection": "01-20-2026",
-    "license_type": "Food Processor Wholesale - In-State",
-    "lat": 41.7252306,
-    "lng": -71.2817918,
-    "violation_count": 1,
-    "risk_score": 2,
-    "google_category": "other"
   },
   {
     "id": "938844",
@@ -7793,18 +7441,6 @@
     "violation_count": 2,
     "risk_score": 2,
     "google_category": "grocery"
-  },
-  {
-    "id": "789653",
-    "name": "SOCO VEDGE",
-    "address": "THE TAVERN NARRAGANSETT RI 02882",
-    "last_inspection": "01-14-2026",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.4262046,
-    "lng": -71.480278,
-    "violation_count": 5,
-    "risk_score": 9,
-    "google_category": "other"
   },
   {
     "id": "857171",
@@ -8363,19 +7999,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "939080",
-    "name": "BRAZILIAN BROTHERS MEAT MARKET",
-    "address": "876 W MAIN RD MIDDLETOWN RI 02842",
-    "last_inspection": "01-12-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.5267133,
-    "lng": -71.2973978,
-    "violation_count": 3,
-    "risk_score": 5,
-    "google_category": "restaurant",
-    "cuisine": "mexican"
-  },
-  {
     "id": "939094",
     "name": "SEA SMOKE OYSTER CO",
     "address": "449 THAMES STREET NEWPORT RI 02840",
@@ -8861,18 +8484,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "790114",
-    "name": "ONE STOP SQUARE",
-    "address": "334 BROAD ST PROVIDENCE RI 02907",
-    "last_inspection": "01-07-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8139004,
-    "lng": -71.4211699,
-    "violation_count": 9,
-    "risk_score": 14,
-    "google_category": "other"
-  },
-  {
     "id": "857350",
     "name": "JITTERS CAFE",
     "address": "4 CHARLESTOWN BEACH RD CHARLESTOWN RI 02813",
@@ -8910,18 +8521,6 @@
     "risk_score": 6,
     "google_category": "restaurant",
     "cuisine": "other"
-  },
-  {
-    "id": "938744",
-    "name": "CUMBERLAND FARMS # 1304",
-    "address": "1874 MINERAL SPRING AVE NORTH PROVIDENCE RI 02904",
-    "last_inspection": "01-07-2026",
-    "license_type": "Cash Registers - 3-5",
-    "lat": 41.860498,
-    "lng": -71.4660042,
-    "violation_count": 3,
-    "risk_score": 3,
-    "google_category": "grocery"
   },
   {
     "id": "939088",
@@ -9152,18 +8751,6 @@
     "risk_score": 0,
     "google_category": "other",
     "cuisine": "other"
-  },
-  {
-    "id": "771136",
-    "name": "WEST SHORE MART",
-    "address": "2563 W SHORE RD WARWICK RI 02889",
-    "last_inspection": "01-06-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7055055,
-    "lng": -71.4152328,
-    "violation_count": 5,
-    "risk_score": 5,
-    "google_category": "grocery"
   },
   {
     "id": "771159",
@@ -9407,18 +8994,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "789610",
-    "name": "RIVERSIDE FOOD MART",
-    "address": "548 WILLET AVE RIVERSIDE RI 02915",
-    "last_inspection": "01-05-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.770764,
-    "lng": -71.3506921,
-    "violation_count": 7,
-    "risk_score": 14,
-    "google_category": "grocery"
-  },
-  {
     "id": "790020",
     "name": "CHINA STAR III",
     "address": "110 WILLIAM ST NEWPORT RI 02840",
@@ -9642,30 +9217,6 @@
     "violation_count": 2,
     "risk_score": 2,
     "google_category": "other"
-  },
-  {
-    "id": "251105",
-    "name": "BD MART",
-    "address": "1356 CRANSTON STREET CRANSTON RI 02920",
-    "last_inspection": "12-30-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7903422,
-    "lng": -71.4564882,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "grocery"
-  },
-  {
-    "id": "264226",
-    "name": "EXPRESS GAS AND FOOD MART",
-    "address": "1345 WAMPANOAG TRAIL EAST PROVIDENCE RI 02915",
-    "last_inspection": "12-30-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7768199,
-    "lng": -71.3300143,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
   },
   {
     "id": "265927",
@@ -10189,18 +9740,6 @@
     "google_category": "other"
   },
   {
-    "id": "358292",
-    "name": "BROADWAY MINI MART",
-    "address": "316 BROADWAY NEWPORT RI 02840",
-    "last_inspection": "12-22-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.498632,
-    "lng": -71.307384,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "grocery"
-  },
-  {
     "id": "713616",
     "name": "QUAKER LANE GAS LLC",
     "address": "425 QUAKER LANE WEST WARWICK RI 02893",
@@ -10370,7 +9909,7 @@
     "id": "413479",
     "name": "PROVIDENCE SPECIALTY PRODUCTS INC",
     "address": "33 DEARBORN ST PROVIDENCE RI 02909",
-    "last_inspection": "06-30-2026",
+    "last_inspection": "09-30-2026",
     "license_type": "Milk Processor In-State",
     "lat": 41.824238,
     "lng": -71.45402100000001,
@@ -10457,7 +9996,7 @@
     "id": "237579",
     "name": "WINSOR S B DAIRY INC",
     "address": "18 CLINTON STREET JOHNSTON RI 02919",
-    "last_inspection": "06-24-2026",
+    "last_inspection": "09-30-2026",
     "license_type": "Milk Processor In-State",
     "lat": 41.8351019,
     "lng": -71.4757446,
@@ -10540,18 +10079,6 @@
     "risk_score": 0,
     "cuisine": "breakfast",
     "google_category": "restaurant"
-  },
-  {
-    "id": "255247",
-    "name": "CORNER STORE, THE",
-    "address": "370 CHILD STREET WARREN RI 02885",
-    "last_inspection": "12-17-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7293634,
-    "lng": -71.269533,
-    "violation_count": 1,
-    "risk_score": 2,
-    "google_category": "grocery"
   },
   {
     "id": "260334",
@@ -10894,18 +10421,6 @@
     "cuisine": "other"
   },
   {
-    "id": "251514",
-    "name": "ROCH'S FRESH FOODS NARRAGANSETT",
-    "address": "1183 BOSTON NECK ROAD NARRAGANSETT RI 02882",
-    "last_inspection": "12-15-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.4905212,
-    "lng": -71.43715759999999,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
-  },
-  {
     "id": "255046",
     "name": "SUPER STOP AND SHOP NO 710",
     "address": "368 COTTAGE STREET PAWTUCKET RI 02860",
@@ -11236,18 +10751,6 @@
     "cuisine": "other"
   },
   {
-    "id": "247910",
-    "name": "AL-MALL DAILY MART",
-    "address": "1814 BROAD STREET CRANSTON RI 02905",
-    "last_inspection": "12-11-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7762227,
-    "lng": -71.3990831,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
-  },
-  {
     "id": "257902",
     "name": "MERITAGE RESTAURANT",
     "address": "5454 POST ROAD EAST GREENWICH RI 02818",
@@ -11397,18 +10900,6 @@
     "lng": -71.3999144,
     "violation_count": 1,
     "risk_score": 1,
-    "google_category": "grocery"
-  },
-  {
-    "id": "789668",
-    "name": "ISLAND FOOD MART",
-    "address": "3356 W MAIN RD MIDDLETOWN RI 02842",
-    "last_inspection": "12-11-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.5541923,
-    "lng": -71.2899118,
-    "violation_count": 4,
-    "risk_score": 5,
     "google_category": "grocery"
   },
   {
@@ -11667,18 +11158,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "789652",
-    "name": "AMERICAN DREAM MINI MART INC",
-    "address": "411 N BROADWAY EAST PROVIDENCE RI 02914",
-    "last_inspection": "12-10-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8312321,
-    "lng": -71.3623369,
-    "violation_count": 3,
-    "risk_score": 4,
-    "google_category": "grocery"
-  },
-  {
     "id": "866083",
     "name": "POKEMOTO",
     "address": "26 SOUTH COUNTY COMMONS WAY WAKEFIELD RI 02879",
@@ -11716,18 +11195,6 @@
     "risk_score": 6,
     "google_category": "healthcare",
     "cuisine": "other"
-  },
-  {
-    "id": "937909",
-    "name": "QUALITY FUEL AND MART",
-    "address": "242 COWESETT AVENUE WEST WARWICK RI 02893",
-    "last_inspection": "12-10-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.6850677,
-    "lng": -71.5091676,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "grocery"
   },
   {
     "id": "938639",
@@ -11920,18 +11387,6 @@
     "risk_score": 0,
     "google_category": "restaurant",
     "cuisine": "seafood"
-  },
-  {
-    "id": "939113",
-    "name": "LAS TRES CHAPINCITAS MINI MARKET",
-    "address": "341 WEBSTER AVE CRANSTON RI 02920",
-    "last_inspection": "12-09-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8046137,
-    "lng": -71.4477587,
-    "violation_count": 2,
-    "risk_score": 4,
-    "google_category": "other"
   },
   {
     "id": "939151",
@@ -12287,18 +11742,6 @@
     "risk_score": 3,
     "google_category": "restaurant",
     "cuisine": "american"
-  },
-  {
-    "id": "866290",
-    "name": "SEYMOUR FOODS",
-    "address": "109 WICKENDEN STREET PROVIDENCE RI 02903",
-    "last_inspection": "12-04-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8181575,
-    "lng": -71.4017356,
-    "violation_count": 2,
-    "risk_score": 2,
-    "google_category": "grocery"
   },
   {
     "id": "937354",
@@ -12769,18 +12212,6 @@
     "google_category": "grocery"
   },
   {
-    "id": "663440",
-    "name": "GARRETT'S FAMILY MARKET",
-    "address": "1036 RESERVOIR AVE CRANSTON RI 02910",
-    "last_inspection": "12-02-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.773021,
-    "lng": -71.4512009,
-    "violation_count": 3,
-    "risk_score": 5,
-    "google_category": "grocery"
-  },
-  {
     "id": "714340",
     "name": "CRYSTAL LAKE REHAB AND CARE CENTER",
     "address": "999 S MAIN ST PASCOAG RI 02859",
@@ -13209,18 +12640,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "938177",
-    "name": "THE SNACKERY",
-    "address": "71 TIOGUE AVE WEST WARWICK RI 02893",
-    "last_inspection": "11-26-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.6802816,
-    "lng": -71.5315151,
-    "violation_count": 3,
-    "risk_score": 4,
-    "google_category": "grocery"
-  },
-  {
     "id": "938665",
     "name": "SAMS FOOD MART",
     "address": "28 HARTFORD AVE PROVIDENCE RI 02909",
@@ -13459,18 +12878,6 @@
     "risk_score": 4,
     "google_category": "grocery",
     "cuisine": "other"
-  },
-  {
-    "id": "856993",
-    "name": "SAVERS MART NO 3",
-    "address": "1090 MAIN ST WEST WARWICK RI 02893",
-    "last_inspection": "06-24-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.710006,
-    "lng": -71.52250099999999,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "grocery"
   },
   {
     "id": "866371",
@@ -13903,18 +13310,6 @@
     "cuisine": "other"
   },
   {
-    "id": "938980",
-    "name": "SCUTTLE",
-    "address": "691 MAIN STREET WARREN RI 02885",
-    "last_inspection": "11-24-2025",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.7252306,
-    "lng": -71.2817918,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
     "id": "939031",
     "name": "THAI STREET FOOD CUISINE",
     "address": "800 PARK AVE CRANSTON RI 02910",
@@ -14015,18 +13410,6 @@
     "violation_count": 1,
     "risk_score": 3,
     "google_category": "other"
-  },
-  {
-    "id": "865901",
-    "name": "SUNSHINE MARKET",
-    "address": "181 WASHINGTON STREET CENTRAL FALLS RI 02863",
-    "last_inspection": "11-21-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.891694,
-    "lng": -71.392748,
-    "violation_count": 4,
-    "risk_score": 6,
-    "google_category": "grocery"
   },
   {
     "id": "240586",
@@ -14753,31 +14136,6 @@
     "cuisine": "other"
   },
   {
-    "id": "938370",
-    "name": "SONIA'S",
-    "address": "816 PARK AVE CRANSTON RI 02920",
-    "last_inspection": "11-18-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.778461,
-    "lng": -71.43441229999999,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "other"
-  },
-  {
-    "id": "938788",
-    "name": "SAVORY CONCEPTS",
-    "address": "2 SLATER RD CRANSTON RI 02920",
-    "last_inspection": "11-18-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7470339,
-    "lng": -71.45312369999999,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
     "id": "939018",
     "name": "MK FUEL & MART",
     "address": "929 PROVIDENCE STREET WEST WARWICK RI 02893",
@@ -15006,18 +14364,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "938497",
-    "name": "ANA MARKET ",
-    "address": "620 BROAD STREET PROVIDENCE RI 02907",
-    "last_inspection": "11-17-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8072612,
-    "lng": -71.42009039999999,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "grocery"
-  },
-  {
     "id": "939077",
     "name": "THE NEWPORT BAKEHOUSE",
     "address": "120 CARROLL AVE NEWPORT RI 02840",
@@ -15067,19 +14413,6 @@
     "violation_count": 1,
     "risk_score": 1,
     "google_category": "caterer"
-  },
-  {
-    "id": "938857",
-    "name": "BLOOM PATISSERIE ",
-    "address": "691 MAIN STREET WARREN RI 02885",
-    "last_inspection": "11-14-2025",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.7252306,
-    "lng": -71.2817918,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
   },
   {
     "id": "938946",
@@ -15370,18 +14703,6 @@
     "lng": -71.5856228,
     "violation_count": 2,
     "risk_score": 2,
-    "google_category": "grocery"
-  },
-  {
-    "id": "713666",
-    "name": "SUNNY MARKET PLACE",
-    "address": "243 RESERVOIR AVE PROVIDENCE RI 02907",
-    "last_inspection": "11-13-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7903219,
-    "lng": -71.429403,
-    "violation_count": 2,
-    "risk_score": 4,
     "google_category": "grocery"
   },
   {
@@ -16052,18 +15373,6 @@
     "cuisine": "other"
   },
   {
-    "id": "790219",
-    "name": "KALOO MARKET IINC",
-    "address": "399 BALD HILL RD WARWICK RI 02886",
-    "last_inspection": "11-10-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7260607,
-    "lng": -71.4811041,
-    "violation_count": 3,
-    "risk_score": 5,
-    "google_category": "grocery"
-  },
-  {
     "id": "937588",
     "name": "BIG MAN KITCHEN",
     "address": "691 MAIN STREET WARREN RI 02885",
@@ -16130,18 +15439,6 @@
     "address": "2 JUNIPER TRAIL HOPE RI 02831",
     "last_inspection": "11-07-2025",
     "license_type": "Cottage Food Manufacture",
-    "lat": 41.7382219,
-    "lng": -71.5757103,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
-    "id": "939043",
-    "name": "TISHEE'Z BUNZ & GOODS",
-    "address": "2 JUNIPER TRAIL HOPE RI 02831",
-    "last_inspection": "11-07-2025",
-    "license_type": "Retail Food Peddler",
     "lat": 41.7382219,
     "lng": -71.5757103,
     "violation_count": 0,
@@ -16512,18 +15809,6 @@
     "google_category": "grocery"
   },
   {
-    "id": "663294",
-    "name": "SAVERS MART 2",
-    "address": "1025 PARK AVE CRANSTON RI 02910",
-    "last_inspection": "11-05-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7822069,
-    "lng": -71.443016,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "grocery"
-  },
-  {
     "id": "714295",
     "name": "RHODY ROOTS",
     "address": "511-509 MAIN ST WARREN RI 02885",
@@ -16683,19 +15968,6 @@
     "address": "40 SOUTH MAIN STREET WOONSOCKET RI 02895",
     "last_inspection": "11-05-2025",
     "license_type": "Caterer or Commissary",
-    "lat": 41.9993439,
-    "lng": -71.5161759,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "bar"
-  },
-  {
-    "id": "939010",
-    "name": "SWEET CURIOSITY",
-    "address": "40 S MAIN ST WOONSOCKET RI 02895",
-    "last_inspection": "11-05-2025",
-    "license_type": "Retail Food Peddler",
     "lat": 41.9993439,
     "lng": -71.5161759,
     "violation_count": 0,
@@ -16888,31 +16160,6 @@
     "risk_score": 7,
     "google_category": "school",
     "cuisine": "other"
-  },
-  {
-    "id": "612178",
-    "name": "FAMILY DOLLAR #31732",
-    "address": "48 PLAINFIELD ST PROVIDENCE RI 02909",
-    "last_inspection": "11-04-2025",
-    "license_type": "Cash Registers - 3-5",
-    "lat": 41.81577009999999,
-    "lng": -71.4445461,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "other"
-  },
-  {
-    "id": "662899",
-    "name": "COOPERS CASK COFFEE",
-    "address": "2240 S COUNTY TRAIL UNIT 5 EAST GREENWICH RI 02818",
-    "last_inspection": "11-04-2025",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.634828,
-    "lng": -71.49188269999999,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
   },
   {
     "id": "714234",
@@ -17521,18 +16768,6 @@
     "google_category": "grocery"
   },
   {
-    "id": "770922",
-    "name": "AFC SUSHI AT SHAWS NO 0625",
-    "address": "8 CHAPEL HILL BLVD CRANSTON RI 02920",
-    "last_inspection": "10-30-2025",
-    "license_type": "Food Processor Retail - In-State",
-    "violation_count": 1,
-    "lat": 41.7612384,
-    "lng": -71.46555649999999,
-    "risk_score": 2,
-    "google_category": "grocery"
-  },
-  {
     "id": "790256",
     "name": "THE BEEHIVE CAFE",
     "address": "10 FRANKLIN ST BRISTOL RI 02809",
@@ -17792,19 +17027,6 @@
     "risk_score": 1,
     "cuisine": "breakfast",
     "google_category": "restaurant"
-  },
-  {
-    "id": "936852",
-    "name": "SANDEE'S MARKET & DELI",
-    "address": "1525 SMITH STREET NORTH PROVIDENCE RI 02911",
-    "last_inspection": "10-29-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8503094,
-    "lng": -71.4615295,
-    "violation_count": 2,
-    "risk_score": 4,
-    "google_category": "restaurant",
-    "cuisine": "american"
   },
   {
     "id": "936915",
@@ -18218,18 +17440,6 @@
     "google_category": "school"
   },
   {
-    "id": "938963",
-    "name": "GO GO MARKET",
-    "address": "585 TIOGUE AVE COVENTRY RI 02816",
-    "last_inspection": "10-28-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.6844341,
-    "lng": -71.5540723,
-    "violation_count": 3,
-    "risk_score": 4,
-    "google_category": "other"
-  },
-  {
     "id": "939001",
     "name": "TIDES FAMILY SERVICES ( GEORGE N. HUNT SCHOOL)",
     "address": "260 HIGHLAND AVE PROVIDENCE RI 02906",
@@ -18454,18 +17664,6 @@
     "risk_score": 9,
     "cuisine": "bar",
     "google_category": "restaurant"
-  },
-  {
-    "id": "937415",
-    "name": "KWIK STOP",
-    "address": "74 FRIENDSHIP STREET WESTERLY RI 02891",
-    "last_inspection": "10-27-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.3838717,
-    "lng": -71.8251733,
-    "violation_count": 4,
-    "risk_score": 4,
-    "google_category": "grocery"
   },
   {
     "id": "937860",
@@ -18838,19 +18036,6 @@
     "google_category": "other"
   },
   {
-    "id": "938986",
-    "name": "PROF PASTRY'S BAKERY",
-    "address": "35 GLENWOOD AVE CRANSTON RI 02910",
-    "last_inspection": "10-23-2025",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.7714075,
-    "lng": -71.4389326,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
-  },
-  {
     "id": "241065",
     "name": "WARWICK NECK ELEMENTARY SCHOOL",
     "address": "155 ROCKY POINT AVENUE WARWICK RI 02889",
@@ -18924,18 +18109,6 @@
     "violation_count": 2,
     "risk_score": 4,
     "google_category": "other"
-  },
-  {
-    "id": "260895",
-    "name": "MIDLAND FARMS",
-    "address": "429 WOOD STREET BRISTOL RI 02809",
-    "last_inspection": "10-22-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.6729047,
-    "lng": -71.2719692,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "grocery"
   },
   {
     "id": "261549",
@@ -19406,18 +18579,6 @@
     "google_category": "other"
   },
   {
-    "id": "857485",
-    "name": "THE ENGLISH COUSINS",
-    "address": "124 AQUIDNECK RD MIDDLETOWN RI 02842",
-    "last_inspection": "10-21-2025",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.49294270000001,
-    "lng": -71.28443419999999,
-    "violation_count": 1,
-    "risk_score": 2,
-    "google_category": "other"
-  },
-  {
     "id": "857512",
     "name": "THE LITTLE VILLAGE SCHOOLHOUSE 3",
     "address": "116 PURITAN AVE CRANSTON RI 02920",
@@ -19468,18 +18629,6 @@
     "risk_score": 0,
     "google_category": "restaurant",
     "cuisine": "other"
-  },
-  {
-    "id": "938914",
-    "name": "S A MINE MARKET ",
-    "address": "939 SOCIAL ST WOONSOCKET RI 02895",
-    "last_inspection": "10-21-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 42.0136247,
-    "lng": -71.50094120000001,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
   },
   {
     "id": "241394",
@@ -20180,18 +19329,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "663252",
-    "name": "PEZZA FARM AND GARDEN CENTER EAST GREENWICH",
-    "address": "2657 S COUNTY TRAIL EAST GREENWICH RI 02818",
-    "last_inspection": "10-15-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.6241639,
-    "lng": -71.492447,
-    "violation_count": 1,
-    "risk_score": 3,
-    "google_category": "other"
-  },
-  {
     "id": "663460",
     "name": "RUFINO PIZZERIA",
     "address": "4 HOPE FURNACE RD PROVIDENCE RI 02831",
@@ -20673,18 +19810,6 @@
     "google_category": "school"
   },
   {
-    "id": "248412",
-    "name": "MEKONG MARKET",
-    "address": "314 BROAD STREET PROVIDENCE RI 02907",
-    "last_inspection": "10-09-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8144233,
-    "lng": -71.4209649,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
-  },
-  {
     "id": "253833",
     "name": "ALAN SHAWN FEINSTEIN MIDDLE SCHOOL",
     "address": "15 FOSTER DRIVE COVENTRY RI 02816",
@@ -20857,43 +19982,6 @@
     "violation_count": 0,
     "risk_score": 0,
     "google_category": "grocery"
-  },
-  {
-    "id": "938612",
-    "name": "J&M CONVENIENCE",
-    "address": "718 PLAINFIELD ST PROVIDENCE RI 02909",
-    "last_inspection": "10-09-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8110913,
-    "lng": -71.4617612,
-    "violation_count": 4,
-    "risk_score": 4,
-    "google_category": "grocery"
-  },
-  {
-    "id": "938858",
-    "name": "BLOOM PATISSERIE ",
-    "address": "691 MAIN STREET WARREN RI 02885",
-    "last_inspection": "10-09-2025",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.7252306,
-    "lng": -71.2817918,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
-  },
-  {
-    "id": "938878",
-    "name": "LOAVES WITH LYSS",
-    "address": "35 YOUNG STREET PAWTUCKET RI 02860",
-    "last_inspection": "10-09-2025",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.8722507,
-    "lng": -71.37482419999999,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
   },
   {
     "id": "938893",
@@ -21079,18 +20167,6 @@
     "google_category": "school"
   },
   {
-    "id": "264438",
-    "name": "CUMBERLAND CONVENIENCE",
-    "address": "427 HIGH ST CUMBERLAND RI 02864",
-    "last_inspection": "10-08-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.9124827,
-    "lng": -71.3925631,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "grocery"
-  },
-  {
     "id": "265695",
     "name": "THE PRESERVE AT BOULDER HILLS",
     "address": "87 KINGSTON RD WYOMING RI 02898",
@@ -21159,19 +20235,6 @@
     "address": "25 B VENTURI GREEN NORTH PROVIDENCE RI 02904",
     "last_inspection": "10-08-2025",
     "license_type": "Cottage Food Manufacture",
-    "lat": 41.8758517,
-    "lng": -71.4427043,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
-  },
-  {
-    "id": "938953",
-    "name": "BUDS & BAGELS",
-    "address": "25 B VENTURI GREEN NORTH PROVIDENCE RI 02904",
-    "last_inspection": "10-08-2025",
-    "license_type": "Retail Food Peddler",
     "lat": 41.8758517,
     "lng": -71.4427043,
     "violation_count": 0,
@@ -21637,18 +20700,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "938604",
-    "name": "BRAZILIAN FAMILY MART RI INC",
-    "address": "1024 S BROADWAY EAST PROVIDENCE RI 02914",
-    "last_inspection": "10-06-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8123318,
-    "lng": -71.37085870000001,
-    "violation_count": 2,
-    "risk_score": 3,
-    "google_category": "other"
-  },
-  {
     "id": "938915",
     "name": "KELSEY CAKES 401",
     "address": "20 JOHN MOWRY RD SMITHFIELD RI 02917",
@@ -21826,18 +20877,6 @@
     "cuisine": "american"
   },
   {
-    "id": "247192",
-    "name": "QUICK MART",
-    "address": "164 PARK AVENUE CRANSTON RI 02905",
-    "last_inspection": "10-02-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7729943,
-    "lng": -71.4048736,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
-  },
-  {
     "id": "249565",
     "name": "BON VUE",
     "address": "1230 OCEAN ROAD NARRAGANSETT RI 02882",
@@ -21973,18 +21012,6 @@
     "lng": -71.7067187,
     "violation_count": 0,
     "risk_score": 0,
-    "google_category": "other"
-  },
-  {
-    "id": "857133",
-    "name": "QUICK FUEL MARKET",
-    "address": "1601 HARTFORD AVE JOHNSTON RI 02919",
-    "last_inspection": "10-02-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.826158,
-    "lng": -71.5080363,
-    "violation_count": 9,
-    "risk_score": 15,
     "google_category": "other"
   },
   {
@@ -22525,19 +21552,6 @@
     "cuisine": "other"
   },
   {
-    "id": "936858",
-    "name": "MCSHORTAGEEE'S  MARKET",
-    "address": "204 WILLETT AVENUE RIVERSIDE RI 02915",
-    "last_inspection": "No Inspections To Display",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7752271,
-    "lng": -71.3556701,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "american"
-  },
-  {
     "id": "937478",
     "name": "GRODEN CENTER - TRANSITION PROGRAM",
     "address": "610 MANTON AVE PROVIDENCE RI 02909",
@@ -22570,18 +21584,6 @@
     "license_type": "Mobile Food Service",
     "lat": 41.7805387,
     "lng": -71.47002599999999,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
-    "id": "938938",
-    "name": "BABA YAGA ",
-    "address": "691 MAIN STREET WARREN RI 02885",
-    "last_inspection": "09-30-2025",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.7252306,
-    "lng": -71.2817918,
     "violation_count": 0,
     "risk_score": 0,
     "google_category": "other"
@@ -22759,18 +21761,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "770968",
-    "name": "FOUR SEASONS MART",
-    "address": "99 FORTIN RD STE 134 KINGSTON RI 02881",
-    "last_inspection": "09-29-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.4855679,
-    "lng": -71.5248691,
-    "violation_count": 5,
-    "risk_score": 10,
-    "google_category": "grocery"
-  },
-  {
     "id": "856711",
     "name": "PANERA BREAD",
     "address": "473 PUTNAM PIKE  B1 GREENVILLE RI 02828",
@@ -22833,18 +21823,6 @@
     "google_category": "other"
   },
   {
-    "id": "790008",
-    "name": "VICENTES SUPERMARKET",
-    "address": "470 PAWTUCKET AVE PAWTUCKET RI 02860",
-    "last_inspection": "09-27-2025",
-    "license_type": "Cash Registers - 6 or more",
-    "lat": 41.8615757,
-    "lng": -71.3938952,
-    "violation_count": 4,
-    "risk_score": 8,
-    "google_category": "grocery"
-  },
-  {
     "id": "856920",
     "name": "MCDONALDS",
     "address": "50 PLAINFIELD ST PROVIDENCE RI 02909",
@@ -22868,18 +21846,6 @@
     "violation_count": 2,
     "risk_score": 3,
     "google_category": "school"
-  },
-  {
-    "id": "938743",
-    "name": "CUMBERLAND FARMS # 1304",
-    "address": "533 EAST MAIN RD MIDDLETOWN RI 02842",
-    "last_inspection": "07-16-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.521653,
-    "lng": -71.28245849999999,
-    "violation_count": 2,
-    "risk_score": 4,
-    "google_category": "grocery"
   },
   {
     "id": "240467",
@@ -23045,18 +22011,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "866318",
-    "name": "BRIGHTSIDE SEAFOOD MARKET LLC",
-    "address": "1014 BOSTON NECK ROAD NARRAGANSETT RI 02882",
-    "last_inspection": "09-25-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.4816051,
-    "lng": -71.4369401,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
-  },
-  {
     "id": "866337",
     "name": "CAFE DE FLORE",
     "address": "20 MESSENGER STREET PROVIDENCE RI 02903",
@@ -23081,19 +22035,6 @@
     "risk_score": 1,
     "cuisine": "pizza",
     "google_category": "restaurant"
-  },
-  {
-    "id": "936726",
-    "name": "TIENDA & PANADERIA LA MASHENITA, INC",
-    "address": "508 PLAINFIELD STREET PROVIDENCE RI 02909",
-    "last_inspection": "09-25-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8130835,
-    "lng": -71.45547549999999,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
   },
   {
     "id": "938280",
@@ -23797,19 +22738,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "770709",
-    "name": "BORRELLIS PASTRY SHOP",
-    "address": "765 TIOGUE AVE COVENTRY RI 02816",
-    "last_inspection": "09-22-2025",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.6825571,
-    "lng": -71.5621833,
-    "violation_count": 4,
-    "risk_score": 5,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
-  },
-  {
     "id": "790313",
     "name": "THE 133 CLUB",
     "address": "29 WARREN AVE EAST PROVIDENCE RI 02914",
@@ -24259,18 +23187,6 @@
     "cuisine": "other"
   },
   {
-    "id": "938848",
-    "name": "MAUDE'S SPECIALTIES",
-    "address": "281 POWER RD PAWTUCKET RI 02860",
-    "last_inspection": "09-17-2025",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.8687921,
-    "lng": -71.4164033,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
     "id": "238962",
     "name": "SODEXO AT WOMEN & INFANTS HOSPITAL",
     "address": "101 DUDLEY STREET PROVIDENCE RI 02905",
@@ -24446,19 +23362,6 @@
     "risk_score": 5,
     "google_category": "restaurant",
     "cuisine": "other"
-  },
-  {
-    "id": "790377",
-    "name": "DIVAS DIPS AND GOURMET TREATS",
-    "address": "1005 MAIN ST NO 8226 PAWTUCKET RI 02860",
-    "last_inspection": "09-16-2025",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.8627016,
-    "lng": -71.3993603,
-    "violation_count": 1,
-    "risk_score": 2,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
   },
   {
     "id": "856706",
@@ -25108,18 +24011,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "938776",
-    "name": "DULZURAS DE JOCIVELL",
-    "address": "848 PARK AVE CRANSTON RI 02910",
-    "last_inspection": "09-11-2025",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.7789022,
-    "lng": -71.4364877,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
     "id": "240876",
     "name": "FELICIA'S COFFEE",
     "address": "5757 POST ROAD EAST GREENWICH RI 02818",
@@ -25269,18 +24160,6 @@
     "risk_score": 8,
     "cuisine": "american",
     "google_category": "restaurant"
-  },
-  {
-    "id": "790474",
-    "name": "QUONNIE FARMS LLC",
-    "address": "16 W BEACH RD CHARLESTOWN RI 02813",
-    "last_inspection": "06-15-2026",
-    "license_type": "Cash Registers - 3-5",
-    "lat": 41.3549173,
-    "lng": -71.7090956,
-    "violation_count": 2,
-    "risk_score": 2,
-    "google_category": "grocery"
   },
   {
     "id": "936643",
@@ -25564,18 +24443,6 @@
     "google_category": "grocery"
   },
   {
-    "id": "937527",
-    "name": "WINTER STREET CONVENIENCE",
-    "address": "59 WINTER STREET MANVILLE RI 02838",
-    "last_inspection": "09-09-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.97042070000001,
-    "lng": -71.4742922,
-    "violation_count": 1,
-    "risk_score": 2,
-    "google_category": "grocery"
-  },
-  {
     "id": "938811",
     "name": "BLONDES BAKE SHOP",
     "address": "7 WILLOW WAY LINCOLN RI 02865",
@@ -25805,18 +24672,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "937164",
-    "name": "LUXE MART",
-    "address": "135 PUTNAM PIKE JOHNSTON RI 02919",
-    "last_inspection": "09-08-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.864024,
-    "lng": -71.4957727,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
     "id": "937331",
     "name": "TRES MARIAS TORTILLERIA Y DELICIAS CHAPINAS",
     "address": "514 PLAINFIELD STREET PROVIDENCE RI 02909",
@@ -25853,30 +24708,6 @@
     "risk_score": 0,
     "cuisine": "breakfast",
     "google_category": "restaurant"
-  },
-  {
-    "id": "856623",
-    "name": "SAVE A LOT",
-    "address": "2830 PAWTUCKET AVE RIVERSIDE RI 02915",
-    "last_inspection": "09-05-2025",
-    "license_type": "Cash Registers - 3-5",
-    "lat": 41.7971399,
-    "lng": -71.3629536,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
-  },
-  {
-    "id": "936745",
-    "name": "LUCKY 7 FOOD MART",
-    "address": "156 WASHINGTON STREET CENTRAL FALLS RI 02863",
-    "last_inspection": "09-05-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.890871,
-    "lng": -71.39253149999999,
-    "violation_count": 5,
-    "risk_score": 8,
-    "google_category": "grocery"
   },
   {
     "id": "937654",
@@ -25994,18 +24825,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "264938",
-    "name": "EAST PROVIDENCE MOBIL",
-    "address": "900 WAMPANOAG TRAIL RIVERSIDE RI 02915",
-    "last_inspection": "09-16-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7893944,
-    "lng": -71.3328908,
-    "violation_count": 6,
-    "risk_score": 10,
-    "google_category": "other"
-  },
-  {
     "id": "413781",
     "name": "REVOLUTION AMERICAN BISTRO",
     "address": "2190 BROAD ST CRANSTON RI 02905",
@@ -26056,18 +24875,6 @@
     "risk_score": 0,
     "cuisine": "american",
     "google_category": "restaurant"
-  },
-  {
-    "id": "612354",
-    "name": "AMERICAN MART",
-    "address": "139 LEGRIS AVE WEST WARWICK RI 02893",
-    "last_inspection": "09-04-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.6956982,
-    "lng": -71.51859830000001,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "grocery"
   },
   {
     "id": "612518",
@@ -27125,19 +25932,6 @@
     "google_category": "other"
   },
   {
-    "id": "662800",
-    "name": "ANCHOR TOFFEE",
-    "address": "8 BOWENS WHARF NEWPORT RI 02840",
-    "last_inspection": "08-27-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.4867451,
-    "lng": -71.31596689999999,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "other"
-  },
-  {
     "id": "714051",
     "name": "PAPA GINOS",
     "address": "400 PUTNAM PKE GREENVILLE RI 02828",
@@ -27241,18 +26035,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "938734",
-    "name": "ROADRUNNERS PITT SHOP ",
-    "address": "274 MAIN STREET WOONSOCKET RI 02895",
-    "last_inspection": "08-27-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 42.0043193,
-    "lng": -71.51280489999999,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
-  },
-  {
     "id": "242244",
     "name": "BLACKSTONE MILLVILLE FOOD PANTRY",
     "address": "81 ST PAUL STREET NORTH SMITHFIELD RI 02896",
@@ -27315,18 +26097,6 @@
     "risk_score": 6,
     "google_category": "grocery",
     "cuisine": "other"
-  },
-  {
-    "id": "358796",
-    "name": "KATTAN MARKET",
-    "address": "644 OAKLAWN AVE CRANSTON RI 02920",
-    "last_inspection": "09-01-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7556505,
-    "lng": -71.4758303,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
   },
   {
     "id": "413725",
@@ -27533,18 +26303,6 @@
     "google_category": "other"
   },
   {
-    "id": "414108",
-    "name": "147 MINI MARKET AND DELI",
-    "address": "147 PROSPECT ST PAWTUCKET RI 02860",
-    "last_inspection": "08-25-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.87075859999999,
-    "lng": -71.3785175,
-    "violation_count": 2,
-    "risk_score": 5,
-    "google_category": "grocery"
-  },
-  {
     "id": "713933",
     "name": "UDDER DELIGHTS ICE CREAM AND FROZEN DESSERTS",
     "address": "1373 MAIN ST COVENTRY RI 02816",
@@ -27685,18 +26443,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "771337",
-    "name": "SKYLIGHT BAKERY",
-    "address": "HOPE AND MAIN WARREN RI 02885",
-    "last_inspection": "08-23-2025",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.7118168,
-    "lng": -71.2805779,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
     "id": "936910",
     "name": "RIVER BAR",
     "address": "37 MAIN STREET WESTERLY RI 02891",
@@ -27747,18 +26493,6 @@
     "risk_score": 14,
     "google_category": "healthcare",
     "cuisine": "other"
-  },
-  {
-    "id": "248184",
-    "name": "CLEMENTS MARKETPLACE INC",
-    "address": "2575 EAST MAIN ROAD PORTSMOUTH RI 02871",
-    "last_inspection": "07-29-2026",
-    "license_type": "Cash Registers - 3-5",
-    "lat": 41.6001911,
-    "lng": -71.2487373,
-    "violation_count": 1,
-    "risk_score": 3,
-    "google_category": "grocery"
   },
   {
     "id": "250218",
@@ -28398,18 +27132,6 @@
     "cuisine": "seafood"
   },
   {
-    "id": "938754",
-    "name": "WRIGHT WAY FARM",
-    "address": "43 ARCADIA RD EXETER RI 02822",
-    "last_inspection": "08-20-2025",
-    "license_type": "Retail Food Peddler",
-    "violation_count": 0,
-    "lat": 41.5737747,
-    "lng": -71.6840344,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
     "id": "938758",
     "name": "FLAVOR AND FLAMES",
     "address": "691 MAIN ST WARREN RI 02885",
@@ -28690,18 +27412,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "261795",
-    "name": "STREET CORNER",
-    "address": "400 BALD HILL ROAD WARWICK RI 02886",
-    "last_inspection": "08-18-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7232634,
-    "lng": -71.47594500000001,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "healthcare"
-  },
-  {
     "id": "261839",
     "name": "RED ROBIN GOURMET BURGERS",
     "address": "400 BALD HILL RD WARWICK RI 02886",
@@ -28726,18 +27436,6 @@
     "risk_score": 2,
     "cuisine": "breakfast",
     "google_category": "restaurant"
-  },
-  {
-    "id": "265157",
-    "name": "OCEAN CATCH LLC",
-    "address": "566 KINGSTOWN RD SOUTH KINGSTOWN RI 02879",
-    "last_inspection": "09-14-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.4395899,
-    "lng": -71.48739990000001,
-    "violation_count": 5,
-    "risk_score": 11,
-    "google_category": "grocery"
   },
   {
     "id": "413212",
@@ -28856,18 +27554,6 @@
     "cuisine": "other"
   },
   {
-    "id": "938674",
-    "name": "SHOP N GO",
-    "address": "636 W SHORE RD WARWICK RI 02889",
-    "last_inspection": "08-06-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7262653,
-    "lng": -71.38603499999999,
-    "violation_count": 3,
-    "risk_score": 4,
-    "google_category": "grocery"
-  },
-  {
     "id": "938676",
     "name": "COOK & DAGGER",
     "address": "2009 SMITH STREET NORTH PROVIDENCE RI 02911",
@@ -28904,18 +27590,6 @@
     "risk_score": 10,
     "cuisine": "bar",
     "google_category": "restaurant"
-  },
-  {
-    "id": "938589",
-    "name": "DR. BELLY'S LLC",
-    "address": "691 MAIN STREET WARREN RI 02885",
-    "last_inspection": "08-15-2025",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.7252306,
-    "lng": -71.2817918,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
   },
   {
     "id": "239978",
@@ -29172,18 +27846,6 @@
     "cuisine": "other"
   },
   {
-    "id": "938408",
-    "name": "LYSC MINI MART",
-    "address": "791 LONSDALE AVE CENTRAL FALLS RI 02863",
-    "last_inspection": "08-14-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8871468,
-    "lng": -71.4013314,
-    "violation_count": 2,
-    "risk_score": 6,
-    "google_category": "grocery"
-  },
-  {
     "id": "938666",
     "name": "HARBOR LIGHTS",
     "address": "150 GRAY STREET WARWICK RI 02889",
@@ -29271,18 +27933,6 @@
     "violation_count": 2,
     "risk_score": 2,
     "google_category": "school"
-  },
-  {
-    "id": "414269",
-    "name": "TOMS FOOD MART",
-    "address": "1348 CHALKSTONE AVE PROVIDENCE RI 02909",
-    "last_inspection": "07-29-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8321406,
-    "lng": -71.45342769999999,
-    "violation_count": 4,
-    "risk_score": 4,
-    "google_category": "grocery"
   },
   {
     "id": "414490",
@@ -29576,19 +28226,6 @@
     "cuisine": "other"
   },
   {
-    "id": "255230",
-    "name": "SCIALOS BAKERY OF RIVERSIDE",
-    "address": "202 WILLETT AVENUE EAST PROVIDENCE RI 02915",
-    "last_inspection": "09-09-2026",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.775183,
-    "lng": -71.35586099999999,
-    "violation_count": 1,
-    "risk_score": 2,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
-  },
-  {
     "id": "260500",
     "name": "WALGREENS NO 10476",
     "address": "1583 ATWOOD AVENUE JOHNSTON RI 02919",
@@ -29794,18 +28431,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "938367",
-    "name": "DAILY STOP",
-    "address": "138 PASCOAG MAIN STREET PASCOAG RI 02859",
-    "last_inspection": "08-07-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.95783400000001,
-    "lng": -71.701764,
-    "violation_count": 2,
-    "risk_score": 3,
-    "google_category": "other"
-  },
-  {
     "id": "938536",
     "name": "ANDREW'S DINER",
     "address": "2731 VICTORY HIGHWAY HARRISVILLE RI 02830",
@@ -29964,19 +28589,6 @@
     "violation_count": 0,
     "risk_score": 0,
     "google_category": "grocery"
-  },
-  {
-    "id": "663385",
-    "name": "LA FRUTA LOCA",
-    "address": "883 DEXTER ST CENTRAL FALLS RI 02863",
-    "last_inspection": "08-06-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8888429,
-    "lng": -71.3989212,
-    "violation_count": 5,
-    "risk_score": 8,
-    "google_category": "restaurant",
-    "cuisine": "american"
   },
   {
     "id": "714199",
@@ -30335,19 +28947,6 @@
     "google_category": "grocery"
   },
   {
-    "id": "247584",
-    "name": "NEWPORT FUDGERY",
-    "address": "168 THAMES STREET NEWPORT RI 02840",
-    "last_inspection": "07-09-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.488803,
-    "lng": -71.3149771,
-    "violation_count": 2,
-    "risk_score": 3,
-    "google_category": "restaurant",
-    "cuisine": "other"
-  },
-  {
     "id": "250516",
     "name": "SEASONS CORNER MARKET",
     "address": "525 KILLINGLY STREET JOHNSTON RI 02919",
@@ -30489,18 +29088,6 @@
     "cuisine": "other"
   },
   {
-    "id": "938231",
-    "name": "ZWINTHINZ",
-    "address": "56 KINGSWOOD RD BRISTOL RI 02809",
-    "last_inspection": "08-01-2025",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.6904456,
-    "lng": -71.2834851,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
     "id": "938394",
     "name": "RIGA-BELLO'S FRIED DOUGH",
     "address": "82 BOW STREET PLAINFIELD MA 01070",
@@ -30577,18 +29164,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "263048",
-    "name": "LIL GENERAL NO 30",
-    "address": "259 FRONT ST LINCOLN RI 02865",
-    "last_inspection": "09-10-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.9041539,
-    "lng": -71.4102604,
-    "violation_count": 1,
-    "risk_score": 2,
-    "google_category": "grocery"
-  },
-  {
     "id": "264252",
     "name": "CAROLYN'S SAKONNET VINEYARDS",
     "address": "53 WINERY ROAD LITTLE COMPTON RI 02837",
@@ -30639,18 +29214,6 @@
     "risk_score": 2,
     "google_category": "restaurant",
     "cuisine": "other"
-  },
-  {
-    "id": "713629",
-    "name": "WILBURS GENERAL STORE",
-    "address": "50 THE COMMONS  LITTLE COMPTON RI 02837",
-    "last_inspection": "07-30-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.5093536,
-    "lng": -71.17072440000001,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "grocery"
   },
   {
     "id": "770848",
@@ -30776,18 +29339,6 @@
     "lng": -71.4688493,
     "violation_count": 0,
     "risk_score": 0,
-    "google_category": "grocery"
-  },
-  {
-    "id": "262153",
-    "name": "FOUR CORNER FOOD MART",
-    "address": "327 WARREN AVENUE EAST PROVIDENCE RI 02914",
-    "last_inspection": "07-27-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.813386,
-    "lng": -71.370279,
-    "violation_count": 1,
-    "risk_score": 2,
     "google_category": "grocery"
   },
   {
@@ -31034,19 +29585,6 @@
     "risk_score": 0,
     "google_category": "restaurant",
     "cuisine": "other"
-  },
-  {
-    "id": "938677",
-    "name": "BUCKET & THE BEAN",
-    "address": "7446 POST ROAD NORTH KINGSTOWN RI 02852",
-    "last_inspection": "07-30-2025",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.5952041,
-    "lng": -71.4552836,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
   },
   {
     "id": "938692",
@@ -31580,18 +30118,6 @@
     "cuisine": "other"
   },
   {
-    "id": "265350",
-    "name": "MONTVILLE CANDY",
-    "address": "SANDYWOODS FARM TIVERTON RI 02878",
-    "last_inspection": "07-24-2025",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.6186587,
-    "lng": -71.1529661,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
     "id": "266042",
     "name": "OAK EMBERS CAMPGROUND",
     "address": "219 ESCOHEAG HILL RD WEST GREENWICH RI 02817",
@@ -31666,19 +30192,6 @@
     "risk_score": 5,
     "cuisine": "breakfast",
     "google_category": "restaurant"
-  },
-  {
-    "id": "790274",
-    "name": "LE BEC SUCRE",
-    "address": "700 AQUIDNECK AVE MIDDLETOWN RI 02842",
-    "last_inspection": "07-24-2025",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.5058549,
-    "lng": -71.282439,
-    "violation_count": 2,
-    "risk_score": 5,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
   },
   {
     "id": "857107",
@@ -31770,18 +30283,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "612559",
-    "name": "PICK AND PAY",
-    "address": "94 GEORGE WATERMAN ROAD JOHNSTON RI 02919",
-    "last_inspection": "07-23-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8423366,
-    "lng": -71.4858832,
-    "violation_count": 12,
-    "risk_score": 15,
-    "google_category": "grocery"
-  },
-  {
     "id": "662938",
     "name": "CHINA GARDEN",
     "address": "37 VILLAGE PLAZA WAY NORTH SCITUATE RI 02857",
@@ -31793,18 +30294,6 @@
     "risk_score": 7,
     "cuisine": "chinese",
     "google_category": "restaurant"
-  },
-  {
-    "id": "789607",
-    "name": "SUFI EXPRESS",
-    "address": "717 PARK AVE CRANSTON RI 02910",
-    "last_inspection": "07-23-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7778742,
-    "lng": -71.4296581,
-    "violation_count": 3,
-    "risk_score": 3,
-    "google_category": "other"
   },
   {
     "id": "790387",
@@ -32275,18 +30764,6 @@
     "google_category": "grocery"
   },
   {
-    "id": "265055",
-    "name": "SMITHFIELD MOBIL",
-    "address": "354 PUTNAM PIKE SMITHFIELD RI 02917",
-    "last_inspection": "07-21-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8697515,
-    "lng": -71.5210203,
-    "violation_count": 4,
-    "risk_score": 5,
-    "google_category": "other"
-  },
-  {
     "id": "413463",
     "name": "SALTYS BURGERS AND SEAFOOD",
     "address": "950 SUCCOTASH RD KINGSTON RI 02881",
@@ -32403,18 +30880,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "264201",
-    "name": "CHALKSTONE SUPERMARKET INC",
-    "address": "1050 CHALKSTONE AVE PROVIDENCE RI 02908",
-    "last_inspection": "07-18-2025",
-    "license_type": "Cash Registers - 3-5",
-    "lat": 41.8321779,
-    "lng": -71.442684,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
-  },
-  {
     "id": "938579",
     "name": "CHITO'S NITROGEN ICE CREAM LLC",
     "address": "1063 BROAD STREET PROVIDENCE RI 02905",
@@ -32503,19 +30968,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "415409",
-    "name": "MARTI'S CUPCAKES AND MORE",
-    "address": "508 ARMISTICE BLVD PAWTUCKET RI 02861",
-    "last_inspection": "07-17-2025",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.8787763,
-    "lng": -71.3548234,
-    "violation_count": 3,
-    "risk_score": 4,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
-  },
-  {
     "id": "662852",
     "name": "CUMBERLAND FARMS STORE NO 1251",
     "address": "343 WATERMAN AVE SMITHFIELD RI 02917",
@@ -32577,18 +31029,6 @@
     "risk_score": 8,
     "cuisine": "pizza",
     "google_category": "restaurant"
-  },
-  {
-    "id": "938489",
-    "name": "OUTLAW MEALS LLC",
-    "address": "691 MAIN STREET WARREN RI 02885",
-    "last_inspection": "07-17-2025",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.7252306,
-    "lng": -71.2817918,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "caterer"
   },
   {
     "id": "243321",
@@ -32704,18 +31144,6 @@
     "risk_score": 3,
     "cuisine": "pizza",
     "google_category": "restaurant"
-  },
-  {
-    "id": "866468",
-    "name": "ZOYA, INC. DBA TWIN RIVER MINI MART",
-    "address": "151 DOUGLAS PIKE SMITHFIELD RI 02917",
-    "last_inspection": "07-16-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8809344,
-    "lng": -71.4757132,
-    "violation_count": 11,
-    "risk_score": 19,
-    "google_category": "grocery"
   },
   {
     "id": "938219",
@@ -33046,18 +31474,6 @@
     "risk_score": 5,
     "cuisine": "american",
     "google_category": "restaurant"
-  },
-  {
-    "id": "248773",
-    "name": "SHORE'S MARKET INC",
-    "address": "1590 MINERAL SPRING AVENUE NORTH PROVIDENCE RI 02904",
-    "last_inspection": "08-21-2026",
-    "license_type": "Cash Registers - 3-5",
-    "lat": 41.8641821,
-    "lng": -71.4482518,
-    "violation_count": 6,
-    "risk_score": 10,
-    "google_category": "grocery"
   },
   {
     "id": "261314",
@@ -33810,18 +32226,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "865906",
-    "name": "SHOP N GO",
-    "address": "105 PLEASANT VIEW AVENUE SMITHFIELD RI 02917",
-    "last_inspection": "07-03-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.88239799999999,
-    "lng": -71.54012329999999,
-    "violation_count": 11,
-    "risk_score": 17,
-    "google_category": "grocery"
-  },
-  {
     "id": "937306",
     "name": "BOBA ON BOWENS",
     "address": "30 BOWENS WHARF NEWPORT RI 02840",
@@ -33844,18 +32248,6 @@
     "lng": -71.81750579999999,
     "violation_count": 0,
     "risk_score": 0,
-    "google_category": "other"
-  },
-  {
-    "id": "938461",
-    "name": "JGSM MINI MART",
-    "address": "786 EDDY ST PROVIDENCE RI 02905",
-    "last_inspection": "07-03-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8064739,
-    "lng": -71.4070718,
-    "violation_count": 1,
-    "risk_score": 1,
     "google_category": "other"
   },
   {
@@ -33898,18 +32290,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "248833",
-    "name": "CAPTAIN'S CATCH INC",
-    "address": "1702 MINERAL SPRING AVE NORTH PROVIDENCE RI 02904",
-    "last_inspection": "07-02-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8629353,
-    "lng": -71.4537995,
-    "violation_count": 2,
-    "risk_score": 3,
-    "google_category": "grocery"
-  },
-  {
     "id": "251095",
     "name": "LEN'S HOT DOG HAVEN INC",
     "address": "9 SLATER PARK PAWTUCKET RI 02860",
@@ -33947,19 +32327,6 @@
     "risk_score": 6,
     "google_category": "other",
     "cuisine": "other"
-  },
-  {
-    "id": "254038",
-    "name": "DADDYS BREAD",
-    "address": "805 MOONSTONE BEACH ROAD SOUTH KINGSTOWN RI 02879",
-    "last_inspection": "07-02-2025",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.3832261,
-    "lng": -71.57279869999999,
-    "violation_count": 2,
-    "risk_score": 2,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
   },
   {
     "id": "256755",
@@ -34433,18 +32800,6 @@
     "google_category": "other"
   },
   {
-    "id": "938518",
-    "name": "JOHNSTON QUICKMART",
-    "address": "269 GREENVILLE AVE JOHNSTON RI 02919",
-    "last_inspection": "06-30-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8394384,
-    "lng": -71.484268,
-    "violation_count": 3,
-    "risk_score": 3,
-    "google_category": "grocery"
-  },
-  {
     "id": "938412",
     "name": "MCBRIDES PUB",
     "address": "161 WAYLAND AVE PROVIDENCE RI 02906",
@@ -34534,19 +32889,6 @@
     "google_category": "other"
   },
   {
-    "id": "238703",
-    "name": "LASALLE BAKERY",
-    "address": "993 SMITH STREET PROVIDENCE RI 02908",
-    "last_inspection": "03-11-2026",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.8424163,
-    "lng": -71.4444185,
-    "violation_count": 5,
-    "risk_score": 8,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
-  },
-  {
     "id": "244053",
     "name": "CHEESECAKE FACTORY THE",
     "address": "94 PROVIDENCE PLACE PROVIDENCE RI 02903",
@@ -34596,18 +32938,6 @@
     "risk_score": 2,
     "cuisine": "breakfast",
     "google_category": "restaurant"
-  },
-  {
-    "id": "264844",
-    "name": "COMPARE FOODS",
-    "address": "693 DEXTER ST CENTRAL FALLS RI 02863",
-    "last_inspection": "08-17-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8867156,
-    "lng": -71.3967796,
-    "violation_count": 4,
-    "risk_score": 4,
-    "google_category": "grocery"
   },
   {
     "id": "265663",
@@ -34672,19 +33002,6 @@
     "risk_score": 0,
     "google_category": "other",
     "cuisine": "other"
-  },
-  {
-    "id": "771554",
-    "name": "GRAZE ON MAIN LLC",
-    "address": "58 MAIN ST EAST GREENWICH RI 02818",
-    "last_inspection": "06-26-2025",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.6631466,
-    "lng": -71.4498333,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "bar"
   },
   {
     "id": "789734",
@@ -35054,42 +33371,6 @@
     "cuisine": "other"
   },
   {
-    "id": "938453",
-    "name": "BENIA'S PIEROGI",
-    "address": "691 MAIN ST WARREN RI 02885",
-    "last_inspection": "06-24-2025",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.7252306,
-    "lng": -71.2817918,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
-    "id": "938454",
-    "name": "BENIA'S PIEROGI",
-    "address": "691 MAIN ST WARREN RI 02885",
-    "last_inspection": "06-24-2025",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.7252306,
-    "lng": -71.2817918,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
-    "id": "938558",
-    "name": "MORNING GLORY SYRUP CO LLC",
-    "address": "4 PROSPECT STREET SOUTH DARTMOUTH MA 02748",
-    "last_inspection": "06-24-2025",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.5886678,
-    "lng": -70.9464888,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
     "id": "240231",
     "name": "RIGHT SPOT RESTAURANT INC",
     "address": "200 SOUTH BEND STREET PAWTUCKET RI 02860",
@@ -35370,18 +33651,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "789795",
-    "name": "NEW YORK MARKET AND DELI",
-    "address": "583 BROAD ST PROVIDENCE RI 02907",
-    "last_inspection": "08-06-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8082631,
-    "lng": -71.420768,
-    "violation_count": 9,
-    "risk_score": 14,
-    "google_category": "grocery"
-  },
-  {
     "id": "865695",
     "name": "DOLLAR GENERAL 20299",
     "address": "495 WASHINGTON STREET COVENTRY RI 02816",
@@ -35427,18 +33696,6 @@
     "lng": -71.5668244,
     "violation_count": 0,
     "risk_score": 0,
-    "google_category": "grocery"
-  },
-  {
-    "id": "251588",
-    "name": "ASH MART",
-    "address": "2 CARROLL AVENUE NEWPORT RI 02840",
-    "last_inspection": "08-18-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.4726161,
-    "lng": -71.3135884,
-    "violation_count": 2,
-    "risk_score": 3,
     "google_category": "grocery"
   },
   {
@@ -35557,18 +33814,6 @@
     "cuisine": "other"
   },
   {
-    "id": "936703",
-    "name": "HAMLET AVENUE MINI MART",
-    "address": "11 HAMLET AVENUE WOONSOCKET RI 02895",
-    "last_inspection": "06-17-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 42.0020475,
-    "lng": -71.5100896,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "grocery"
-  },
-  {
     "id": "937541",
     "name": "DOLLAR GENERAL 30962",
     "address": "200 SOCIAL ST WOONSOCKET RI 02895",
@@ -35598,18 +33843,6 @@
     "address": "560 MINERAL SPRING PAWTUCKET RI 02860",
     "last_inspection": "06-17-2025",
     "license_type": "Mobile Food Service",
-    "lat": 41.8718568,
-    "lng": -71.40646679999999,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
-  },
-  {
-    "id": "938387",
-    "name": "BLOOM BAKERY LLC",
-    "address": "560 MINERAL SPRING PAWTUCKET RI 02860",
-    "last_inspection": "07-22-2026",
-    "license_type": "Food Processor Retail - In-State",
     "lat": 41.8718568,
     "lng": -71.40646679999999,
     "violation_count": 0,
@@ -35923,18 +34156,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "938449",
-    "name": "BEST WAY",
-    "address": "302 BROAD STREET CUMBERLAND RI 02864",
-    "last_inspection": "06-13-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.9075623,
-    "lng": -71.3936192,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
-  },
-  {
     "id": "938512",
     "name": "NOTCHA MOM'S BONBONS",
     "address": "56 KINNE ST WEST WARWICK RI 02893",
@@ -35946,18 +34167,6 @@
     "risk_score": 0,
     "google_category": "restaurant",
     "cuisine": "breakfast"
-  },
-  {
-    "id": "938517",
-    "name": "SWEET AND SOURDO",
-    "address": "9 HENRY COURT JOHNSTON RI 02919",
-    "last_inspection": "06-13-2025",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.8220389,
-    "lng": -71.4818765,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
   },
   {
     "id": "263129",
@@ -36289,18 +34498,6 @@
     "cuisine": "other"
   },
   {
-    "id": "937581",
-    "name": "GRAB & GO MART",
-    "address": "1455 MINERAL SPRING AVE NORTH PROVIDENCE RI 02904",
-    "last_inspection": "06-11-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.86607,
-    "lng": -71.4431674,
-    "violation_count": 4,
-    "risk_score": 10,
-    "google_category": "grocery"
-  },
-  {
     "id": "938120",
     "name": "HAVEN BROS DINER-COMMISSARY",
     "address": "37 LIBERA ST CRANSTON RI 02920",
@@ -36336,31 +34533,6 @@
     "risk_score": 0,
     "google_category": "restaurant",
     "cuisine": "other"
-  },
-  {
-    "id": "938309",
-    "name": "AUNT T'S",
-    "address": "691 MAIN STREET WARREN RI 02885",
-    "last_inspection": "06-11-2025",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.7252306,
-    "lng": -71.2817918,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
-    "id": "938519",
-    "name": "SWEET BITES PR LLC",
-    "address": "78 ROSEMONT AVE PAWTUCKET RI 02861",
-    "last_inspection": "06-11-2025",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.88042069999999,
-    "lng": -71.36023519999999,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
   },
   {
     "id": "240827",
@@ -37339,19 +35511,6 @@
     "cuisine": "italian"
   },
   {
-    "id": "938483",
-    "name": "MOARSELS N'  MOAR",
-    "address": "76 KELLEY AVE RUMFORD RI 02916",
-    "last_inspection": "06-03-2025",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.8401242,
-    "lng": -71.3633851,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
-  },
-  {
     "id": "248216",
     "name": "CVS PHARMACY NO 0037",
     "address": "1998 MENDON ROAD CUMBERLAND RI 02864",
@@ -37526,18 +35685,6 @@
     "google_category": "other"
   },
   {
-    "id": "251470",
-    "name": "CONFREDA GREENHOUSES",
-    "address": "2150 SCITUATE AVENUE CRANSTON RI 02921",
-    "last_inspection": "04-21-2026",
-    "license_type": "Cash Registers - 3-5",
-    "lat": 41.76517080000001,
-    "lng": -71.5453177,
-    "violation_count": 2,
-    "risk_score": 4,
-    "google_category": "grocery"
-  },
-  {
     "id": "938236",
     "name": "DELS LEMONADE OF CUMBERLAND",
     "address": "170 MENDON RD CUMBERLAND RI 02864",
@@ -37615,18 +35762,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "789816",
-    "name": "THE JOINT ON THE CORNER",
-    "address": "6 MAIN ST MANVILLE RI 02838",
-    "last_inspection": "05-29-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.9702158,
-    "lng": -71.4705221,
-    "violation_count": 3,
-    "risk_score": 6,
-    "google_category": "grocery"
-  },
-  {
     "id": "856791",
     "name": "STONEACRE",
     "address": "151 SWINBURNE ROW NEWPORT RI 02840",
@@ -37677,19 +35812,6 @@
     "risk_score": 7,
     "cuisine": "breakfast",
     "google_category": "restaurant"
-  },
-  {
-    "id": "238681",
-    "name": "CENTRAL AVENUE BAKERY",
-    "address": "679 CENTRAL AVENUE PAWTUCKET RI 02861",
-    "last_inspection": "05-28-2025",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.8871338,
-    "lng": -71.3568682,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
   },
   {
     "id": "255736",
@@ -37782,18 +35904,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "856885",
-    "name": "LOGEE STREET CONVEINENCE",
-    "address": "260 LOGEE STREET WOONSOCKET RI 02895",
-    "last_inspection": "05-28-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.9948238,
-    "lng": -71.51068049999999,
-    "violation_count": 2,
-    "risk_score": 2,
-    "google_category": "grocery"
-  },
-  {
     "id": "857024",
     "name": "MODESTA LLC",
     "address": "342 CRANSTON ST PROVIDENCE RI 02907",
@@ -37856,19 +35966,6 @@
     "violation_count": 0,
     "risk_score": 0,
     "google_category": "other"
-  },
-  {
-    "id": "938290",
-    "name": "SWEET YUM PASTRIES",
-    "address": "40 SOUTH MAIN STREET WOONSOCKET RI 02895",
-    "last_inspection": "05-28-2025",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.9993439,
-    "lng": -71.5161759,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
   },
   {
     "id": "938332",
@@ -37971,18 +36068,6 @@
     "risk_score": 5,
     "cuisine": "bar",
     "google_category": "restaurant"
-  },
-  {
-    "id": "260043",
-    "name": "A LITTLE BIT OF EVERYTHING",
-    "address": "340 COTTAGE STREET PAWTUCKET RI 02860",
-    "last_inspection": "05-27-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8862307,
-    "lng": -71.3687284,
-    "violation_count": 3,
-    "risk_score": 3,
-    "google_category": "grocery"
   },
   {
     "id": "263150",
@@ -38135,18 +36220,6 @@
     "risk_score": 0,
     "google_category": "school",
     "cuisine": "other"
-  },
-  {
-    "id": "937275",
-    "name": "VILLAGE GAS 4",
-    "address": "172 CHAPEL STREET HARRISVILLE RI 02830",
-    "last_inspection": "05-23-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.968497,
-    "lng": -71.6882852,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
   },
   {
     "id": "937933",
@@ -38901,30 +36974,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "261174",
-    "name": "MOONS MARKET",
-    "address": "1478 PARK AVENUE CRANSTON RI 02920",
-    "last_inspection": "08-06-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7825183,
-    "lng": -71.4641654,
-    "violation_count": 1,
-    "risk_score": 2,
-    "google_category": "grocery"
-  },
-  {
-    "id": "261226",
-    "name": "WESTERLY PACKING COMPANY",
-    "address": "15 SPRINGBROOK ROAD WESTERLY RI 02891",
-    "last_inspection": "05-20-2025",
-    "license_type": "Food Processor Wholesale - In-State",
-    "lat": 41.3998838,
-    "lng": -71.83631439999999,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
-  },
-  {
     "id": "261692",
     "name": "ALLTOWN",
     "address": "3079 TOWER HILL ROAD SOUTH KINGSTOWN RI 02879",
@@ -38934,18 +36983,6 @@
     "lng": -71.4569056,
     "violation_count": 2,
     "risk_score": 4,
-    "google_category": "grocery"
-  },
-  {
-    "id": "263373",
-    "name": "V-MART",
-    "address": "176 NARRAGANSETT AVE PROVIDENCE RI 02907",
-    "last_inspection": "05-20-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7889298,
-    "lng": -71.42320529999999,
-    "violation_count": 14,
-    "risk_score": 21,
     "google_category": "grocery"
   },
   {
@@ -39387,19 +37424,6 @@
     "google_category": "caterer"
   },
   {
-    "id": "865812",
-    "name": "PASTA PATCH",
-    "address": "183 OLD FORGE ROAD EAST GREENWICH RI 02818",
-    "last_inspection": "05-19-2025",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.6441513,
-    "lng": -71.45049519999999,
-    "violation_count": 6,
-    "risk_score": 12,
-    "google_category": "restaurant",
-    "cuisine": "american"
-  },
-  {
     "id": "938099",
     "name": "CROWN PROVIDENCE",
     "address": "242 ATWELLS AVENUE PROVIDENCE RI 02903",
@@ -39436,18 +37460,6 @@
     "violation_count": 0,
     "risk_score": 0,
     "google_category": "grocery"
-  },
-  {
-    "id": "865795",
-    "name": "2 SISTERS 4 GOOD, LLC DBA LIGHT ON THE BAY",
-    "address": "1 BAY AVENUE WARWICK RI 02889",
-    "last_inspection": "05-16-2025",
-    "license_type": "Food Processor Wholesale - In-State",
-    "lat": 41.68665,
-    "lng": -71.3938024,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "other"
   },
   {
     "id": "938183",
@@ -39615,45 +37627,6 @@
     "cuisine": "other"
   },
   {
-    "id": "938326",
-    "name": "ALL THINGS TROPICAL",
-    "address": "40 S MAIN ST WOONSOCKET RI 02895",
-    "last_inspection": "05-06-2026",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.9993439,
-    "lng": -71.5161759,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
-  },
-  {
-    "id": "938327",
-    "name": "ALL THINGS TROPICAL",
-    "address": "40 SOUTH MAIN STREET WOONSOCKET RI 02895",
-    "last_inspection": "05-15-2025",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.9993439,
-    "lng": -71.5161759,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
-  },
-  {
-    "id": "238267",
-    "name": "COLONIAL BAKERY",
-    "address": "185 BROAD STREET CUMBERLAND RI 02864",
-    "last_inspection": "05-14-2025",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.90367860000001,
-    "lng": -71.3916649,
-    "violation_count": 3,
-    "risk_score": 3,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
-  },
-  {
     "id": "242875",
     "name": "MI GUATEMALA RESTAURANT",
     "address": "1049 ATWELLS AVENUE PROVIDENCE RI 02909",
@@ -39703,18 +37676,6 @@
     "violation_count": 7,
     "risk_score": 9,
     "google_category": "grocery"
-  },
-  {
-    "id": "258189",
-    "name": "ST FRANCIS D ASSISSI",
-    "address": "84-86 ACADEMY AVENUE PROVIDENCE RI 02908",
-    "last_inspection": "05-14-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8269789,
-    "lng": -71.44383739999999,
-    "violation_count": 1,
-    "risk_score": 3,
-    "google_category": "other"
   },
   {
     "id": "259935",
@@ -39833,18 +37794,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "865602",
-    "name": "BRIGIDOS FRESH MARKET",
-    "address": "900 VICTORY HIGHWAY NORTH SMITHFIELD RI 02896",
-    "last_inspection": "08-25-2026",
-    "license_type": "Cash Registers - 3-5",
-    "lat": 42.0050866,
-    "lng": -71.5856228,
-    "violation_count": 3,
-    "risk_score": 8,
-    "google_category": "grocery"
-  },
-  {
     "id": "865673",
     "name": "JOSEPHINES COFFEE BAR INC",
     "address": "19 SMITH AVE UNIT B GREENVILLE RI 02828",
@@ -39869,19 +37818,6 @@
     "risk_score": 3,
     "google_category": "restaurant",
     "cuisine": "american"
-  },
-  {
-    "id": "937750",
-    "name": "FAMILIA VALLEJOS BAKERY",
-    "address": "1543 WESTMINSTER ST PROVIDENCE RI 02909",
-    "last_inspection": "05-14-2025",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.81631650000001,
-    "lng": -71.43516939999999,
-    "violation_count": 4,
-    "risk_score": 4,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
   },
   {
     "id": "937783",
@@ -40058,18 +37994,6 @@
     "violation_count": 0,
     "risk_score": 0,
     "google_category": "caterer"
-  },
-  {
-    "id": "663362",
-    "name": "A AND D GREEN ENERGY",
-    "address": "1959 WARWICK AVE WARWICK RI 02889",
-    "last_inspection": "05-13-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.72297500000001,
-    "lng": -71.40477349999999,
-    "violation_count": 2,
-    "risk_score": 2,
-    "google_category": "other"
   },
   {
     "id": "789699",
@@ -40922,18 +38846,6 @@
     "cuisine": "other"
   },
   {
-    "id": "938107",
-    "name": "SUPREME FOOD",
-    "address": "288 CHAD BROWN ST PROVIDENCE RI 02908",
-    "last_inspection": "07-27-2026",
-    "license_type": "Cash Registers - 3-5",
-    "lat": 41.8417604,
-    "lng": -71.4224936,
-    "violation_count": 11,
-    "risk_score": 13,
-    "google_category": "grocery"
-  },
-  {
     "id": "254032",
     "name": "DUNKIN DONUTS",
     "address": "1245 NORTH MAIN STREET PROVIDENCE RI 02904",
@@ -41299,19 +39211,6 @@
     "risk_score": 12,
     "cuisine": "pizza",
     "google_category": "restaurant"
-  },
-  {
-    "id": "771256",
-    "name": "LOLLI AND POPS HOLDINGS LLC",
-    "address": "114 PROVIDENCE PLACE STE 5538 PROVIDENCE RI 02903",
-    "last_inspection": "05-05-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8266194,
-    "lng": -71.41638999999999,
-    "violation_count": 5,
-    "risk_score": 6,
-    "google_category": "restaurant",
-    "cuisine": "other"
   },
   {
     "id": "789775",
@@ -41881,18 +39780,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "255182",
-    "name": "SHOP SMART",
-    "address": "2109 WARWICK AVENUE WARWICK RI 02889",
-    "last_inspection": "05-07-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.71899,
-    "lng": -71.403026,
-    "violation_count": 2,
-    "risk_score": 2,
-    "google_category": "grocery"
-  },
-  {
     "id": "257759",
     "name": "ANTONIOS BAKERY AND CHARLIES DELI",
     "address": "2448 WEST SHORE ROAD WARWICK RI 02889",
@@ -42183,18 +40070,6 @@
     "risk_score": 0,
     "google_category": "restaurant",
     "cuisine": "pizza"
-  },
-  {
-    "id": "938262",
-    "name": "SEBS WOOD FIRE OVEN",
-    "address": "691 MAIN ST WARREN RI 02885",
-    "last_inspection": "04-13-2026",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.7252306,
-    "lng": -71.2817918,
-    "violation_count": 1,
-    "risk_score": 2,
-    "google_category": "other"
   },
   {
     "id": "938305",
@@ -42540,18 +40415,6 @@
     "violation_count": 9,
     "risk_score": 14,
     "google_category": "grocery"
-  },
-  {
-    "id": "938212",
-    "name": "LAROSE CHOCOLATS",
-    "address": "691 MAIN STREET WARREN RI 02885",
-    "last_inspection": "04-23-2025",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.7252306,
-    "lng": -71.2817918,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
   },
   {
     "id": "244596",
@@ -43061,18 +40924,6 @@
     "google_category": "caterer"
   },
   {
-    "id": "938275",
-    "name": "TAPI PAPI",
-    "address": "HOPE  AND MAIN WARREN RI 02885",
-    "last_inspection": "04-18-2025",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.7118168,
-    "lng": -71.2805779,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
     "id": "938276",
     "name": "BATCH NO. 3",
     "address": "161 HILLCREST DR. N. CRANSTON RI 02921",
@@ -43550,18 +41401,6 @@
     "cuisine": "other"
   },
   {
-    "id": "938257",
-    "name": "POP PORIUM OF RI",
-    "address": "569 MAIN ST WARREN RI 02885",
-    "last_inspection": "04-15-2025",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.7278704,
-    "lng": -71.2826429,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
     "id": "240086",
     "name": "TIMMY'S RESTAURANT INC",
     "address": "644 WEST SHORE ROAD WARWICK RI 02889",
@@ -43711,18 +41550,6 @@
     "cuisine": "bar"
   },
   {
-    "id": "713595",
-    "name": "SEENO MINI MART INC",
-    "address": "3344 W SHORE RD WARWICK RI 02886",
-    "last_inspection": "07-23-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7003012,
-    "lng": -71.4415319,
-    "violation_count": 7,
-    "risk_score": 9,
-    "google_category": "other"
-  },
-  {
     "id": "714086",
     "name": "SEASONS CORNER MARKET",
     "address": "2027 POST RD WARWICK RI 02886",
@@ -43742,18 +41569,6 @@
     "license_type": "Market (Non-Profit)",
     "lat": 41.8632965,
     "lng": -71.42597219999999,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "other"
-  },
-  {
-    "id": "790450",
-    "name": "SEACOAST SWEETS LLC",
-    "address": "310 KNOLLWOOD AVE STE 2 CRANSTON RI 02910",
-    "last_inspection": "04-14-2025",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.77297,
-    "lng": -71.4524599,
     "violation_count": 1,
     "risk_score": 1,
     "google_category": "other"
@@ -43873,18 +41688,6 @@
     "google_category": "grocery"
   },
   {
-    "id": "770945",
-    "name": "DAVISVILLE ACADEMY OFFICE OF FAMILY LEARNING",
-    "address": "50 EAST CT NORTH KINGSTOWN RI 02852",
-    "last_inspection": "09-23-2026",
-    "license_type": "Market (Non-Profit)",
-    "lat": 41.6124968,
-    "lng": -71.46741329999999,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "school"
-  },
-  {
     "id": "771053",
     "name": "BRENTON HOTEL",
     "address": "31 AMERICAS CUP BLVD NEWPORT RI 02840",
@@ -43947,19 +41750,6 @@
     "violation_count": 0,
     "risk_score": 0,
     "google_category": "other"
-  },
-  {
-    "id": "938214",
-    "name": "SUZY Q SUMMIT GENERAL",
-    "address": "25 OLD SUMMIT ROAD GREENE RI 02827",
-    "last_inspection": "04-10-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.6910708,
-    "lng": -71.69892639999999,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "restaurant",
-    "cuisine": "other"
   },
   {
     "id": "938221",
@@ -44075,19 +41865,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "771298",
-    "name": "TIZZY KS CEREAL ICE CREAM",
-    "address": "HOPE AND MAIN WARREN RI 02885",
-    "last_inspection": "04-09-2025",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.7118168,
-    "lng": -71.2805779,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "other"
-  },
-  {
     "id": "771332",
     "name": "CALIFORNIA TACO SHOP",
     "address": "1049 CASS AVE WOONSOCKET RI 02895",
@@ -44137,19 +41914,6 @@
     "risk_score": 6,
     "cuisine": "mexican",
     "google_category": "restaurant"
-  },
-  {
-    "id": "865607",
-    "name": "CHALKSTONE EXPRESS MARKET",
-    "address": "567 CHARLES ST PROVIDENCE RI 02904",
-    "last_inspection": "06-08-2026",
-    "license_type": "Cash Registers - 3-5",
-    "lat": 41.8512944,
-    "lng": -71.41986469999999,
-    "violation_count": 4,
-    "risk_score": 4,
-    "google_category": "restaurant",
-    "cuisine": "american"
   },
   {
     "id": "865975",
@@ -44300,18 +42064,6 @@
     "lng": -71.63758349999999,
     "violation_count": 1,
     "risk_score": 2,
-    "google_category": "grocery"
-  },
-  {
-    "id": "936651",
-    "name": "NEWPORT JERKY COMPANY LLC",
-    "address": "123 SWINBURNE ROW NEWPORT RI 02840",
-    "last_inspection": "04-08-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.4888191,
-    "lng": -71.31536679999999,
-    "violation_count": 0,
-    "risk_score": 0,
     "google_category": "grocery"
   },
   {
@@ -45267,31 +43019,6 @@
     "google_category": "grocery"
   },
   {
-    "id": "938075",
-    "name": "MR PALETA",
-    "address": "691 MAIN STREET WARREN RI 02885",
-    "last_inspection": "03-31-2025",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.7252306,
-    "lng": -71.2817918,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
-    "id": "938178",
-    "name": "L'ARTISAN CAFE @ BROWN",
-    "address": "225 HOPE ST PROVIDENCE RI 02906",
-    "last_inspection": "03-31-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.831371,
-    "lng": -71.3989493,
-    "violation_count": 5,
-    "risk_score": 8,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
-  },
-  {
     "id": "663189",
     "name": "SOURCE FIRE",
     "address": "691 MAIN ST WARREN RI 02885",
@@ -45429,18 +43156,6 @@
     "risk_score": 12,
     "cuisine": "breakfast",
     "google_category": "restaurant"
-  },
-  {
-    "id": "264740",
-    "name": "CENTRAL MART AND DELI",
-    "address": "RIGHT UNIT  PAWTUCKET RI 02861",
-    "last_inspection": "03-27-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8817178,
-    "lng": -71.35274729999999,
-    "violation_count": 1,
-    "risk_score": 2,
-    "google_category": "grocery"
   },
   {
     "id": "413651",
@@ -45757,18 +43472,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "251627",
-    "name": "RI  DEPT OF CORRECTIONS CENTRAL DISTRIBUTION CTR",
-    "address": "25 POWER ROAD CRANSTON RI 02920",
-    "last_inspection": "03-25-2025",
-    "license_type": "Food Processor (Non-Profit)",
-    "lat": 41.7462711,
-    "lng": -71.4588144,
-    "violation_count": 5,
-    "risk_score": 7,
-    "google_category": "other"
-  },
-  {
     "id": "251631",
     "name": "WAL-MART STORES EAST LP NO 2261",
     "address": "1031 TEN ROD ROAD NORTH KINGSTOWN RI 02852",
@@ -46070,18 +43773,6 @@
     "google_category": "grocery"
   },
   {
-    "id": "866123",
-    "name": "SUNNYSIDE PASTA LLC",
-    "address": "691 MAIN STREET WARREN RI 02885",
-    "last_inspection": "04-13-2026",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.7252306,
-    "lng": -71.2817918,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
     "id": "937351",
     "name": "CAFFE MILANO",
     "address": "4001 QUAKER LANE NORTH KINGSTOWN RI 02852",
@@ -46117,19 +43808,6 @@
     "violation_count": 0,
     "risk_score": 0,
     "google_category": "other"
-  },
-  {
-    "id": "938130",
-    "name": "BRI'S SWEET TREATS LLC",
-    "address": "WORCESTER PUBLIC MARKET WORCESTER MA 01604",
-    "last_inspection": "03-24-2025",
-    "license_type": "Retail Food Peddler",
-    "violation_count": 0,
-    "lat": 42.2558279,
-    "lng": -71.7977598,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "other"
   },
   {
     "id": "770740",
@@ -46375,18 +44053,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "258294",
-    "name": "GLACIER ICE COMPANY",
-    "address": "254 MARKET STREET WARREN RI 02885",
-    "last_inspection": "03-19-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7332215,
-    "lng": -71.2740529,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
     "id": "239559",
     "name": "SMITHFIELD SPORTSMAN CLUB",
     "address": "14 WALTER CAREY ROAD SMITHFIELD RI 02917",
@@ -46409,18 +44075,6 @@
     "lng": -71.4130684,
     "violation_count": 8,
     "risk_score": 11,
-    "google_category": "grocery"
-  },
-  {
-    "id": "865608",
-    "name": "THE STOP AND SAVE STORE",
-    "address": "244 TAUNTON AVE EAST PROVIDENCE RI 02914",
-    "last_inspection": "04-13-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8201778,
-    "lng": -71.36994039999999,
-    "violation_count": 1,
-    "risk_score": 1,
     "google_category": "grocery"
   },
   {
@@ -46523,18 +44177,6 @@
     "risk_score": 0,
     "google_category": "restaurant",
     "cuisine": "other"
-  },
-  {
-    "id": "771142",
-    "name": "DRSM WARWICK MART LLC",
-    "address": "695 WESTSHORE RD WARWICK RI 02889",
-    "last_inspection": "04-27-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7249285,
-    "lng": -71.3846232,
-    "violation_count": 4,
-    "risk_score": 5,
-    "google_category": "other"
   },
   {
     "id": "789783",
@@ -46726,18 +44368,6 @@
     "google_category": "other"
   },
   {
-    "id": "259911",
-    "name": "GULF EXPRESS",
-    "address": "711 EAST AVE PAWTUCKET RI 02860",
-    "last_inspection": "03-13-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8582498,
-    "lng": -71.3908434,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
-  },
-  {
     "id": "261554",
     "name": "CHILDRENS FRIEND DEAN CENTER",
     "address": "13 LEGION DRIVE PAWTUCKET RI 02860",
@@ -46823,19 +44453,6 @@
     "lng": -71.4162068,
     "violation_count": 2,
     "risk_score": 2,
-    "google_category": "restaurant",
-    "cuisine": "mexican"
-  },
-  {
-    "id": "936823",
-    "name": "CALIENTE MEXICAN GRILL",
-    "address": "99 FORTIN ROAD KINGSTON RI 02881",
-    "last_inspection": "08-05-2026",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.4855917,
-    "lng": -71.5242646,
-    "violation_count": 0,
-    "risk_score": 0,
     "google_category": "restaurant",
     "cuisine": "mexican"
   },
@@ -47100,18 +44717,6 @@
     "risk_score": 12,
     "google_category": "restaurant",
     "cuisine": "breakfast"
-  },
-  {
-    "id": "857146",
-    "name": "ROCHS ARNOLD FARM INC",
-    "address": "30 ARNOLD FARM RD WEST GREENWICH RI 02817",
-    "last_inspection": "03-11-2025",
-    "license_type": "Cash Registers - 3-5",
-    "lat": 41.606345,
-    "lng": -71.661974,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
   },
   {
     "id": "936714",
@@ -47718,18 +45323,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "938013",
-    "name": "OCEAN FISH MARKET",
-    "address": "220 WARREN AVE EAST PROVIDENCE RI 02914",
-    "last_inspection": "03-17-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.815225,
-    "lng": -71.3748825,
-    "violation_count": 4,
-    "risk_score": 9,
-    "google_category": "grocery"
-  },
-  {
     "id": "938020",
     "name": "APPONAUG VILLAGE CREAMERY",
     "address": "10 MUSIC LANE WARWICK RI 02886",
@@ -47754,18 +45347,6 @@
     "risk_score": 0,
     "google_category": "restaurant",
     "cuisine": "breakfast"
-  },
-  {
-    "id": "938058",
-    "name": "LOS ANDES MINI MARKET",
-    "address": "10 MAIN ST WOONSOCKET RI 02895",
-    "last_inspection": "03-03-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 42.000621,
-    "lng": -71.51618909999999,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
   },
   {
     "id": "936782",
@@ -48064,18 +45645,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "253365",
-    "name": "SANDY LANE MEAT MARKET",
-    "address": "459 SANDY LANE WARWICK RI 02889",
-    "last_inspection": "06-10-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7132091,
-    "lng": -71.397887,
-    "violation_count": 6,
-    "risk_score": 8,
-    "google_category": "grocery"
-  },
-  {
     "id": "413935",
     "name": "BOYS AND GIRLS CLUB OF NEWPORT COUNTY AT FLORENCE GRAY CENTER",
     "address": "1 YORK ST NEWPORT RI 02840",
@@ -48086,18 +45655,6 @@
     "violation_count": 1,
     "risk_score": 2,
     "google_category": "other"
-  },
-  {
-    "id": "414025",
-    "name": "STATION ONE CONVENIENCE",
-    "address": "524 MANTON AVE PROVIDENCE RI 02909",
-    "last_inspection": "07-08-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8257067,
-    "lng": -71.45806639999999,
-    "violation_count": 4,
-    "risk_score": 5,
-    "google_category": "grocery"
   },
   {
     "id": "866356",
@@ -48488,7 +46045,7 @@
     "lat": 41.7981391,
     "lng": -71.4148867,
     "violation_count": 5,
-    "risk_score": 9,
+    "risk_score": 6,
     "google_category": "other",
     "cuisine": "other"
   },
@@ -48620,18 +46177,6 @@
     "violation_count": 1,
     "risk_score": 1,
     "google_category": "grocery"
-  },
-  {
-    "id": "248007",
-    "name": "TAUNTON AVENUE IRVING",
-    "address": "155 TAUNTON AVENUE EAST PROVIDENCE RI 02914",
-    "last_inspection": "03-30-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8195187,
-    "lng": -71.3751592,
-    "violation_count": 4,
-    "risk_score": 5,
-    "google_category": "other"
   },
   {
     "id": "248671",
@@ -48936,18 +46481,6 @@
     "cuisine": "other"
   },
   {
-    "id": "247890",
-    "name": "OCEAN STATE JOB LOT OF WEST WOONSOCKET INC",
-    "address": "PARK SQUARE WOONSOCKET RI 02895",
-    "last_inspection": "07-15-2026",
-    "license_type": "Cash Registers - 6 or more",
-    "lat": 41.9838572,
-    "lng": -71.5145003,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "other"
-  },
-  {
     "id": "248688",
     "name": "CUMBERLAND FARMS NO 1237",
     "address": "3166 EAST MAIN ROAD PORTSMOUTH RI 02871",
@@ -49237,18 +46770,6 @@
     "risk_score": 5,
     "google_category": "restaurant",
     "cuisine": "other"
-  },
-  {
-    "id": "264943",
-    "name": "SHORES MARKET",
-    "address": "435 ATWOOD AVE CRANSTON RI 02920",
-    "last_inspection": "02-13-2025",
-    "license_type": "Cash Registers - 3-5",
-    "lat": 41.7878846,
-    "lng": -71.4717679,
-    "violation_count": 2,
-    "risk_score": 2,
-    "google_category": "grocery"
   },
   {
     "id": "414073",
@@ -49561,19 +47082,6 @@
     "risk_score": 2,
     "cuisine": "breakfast",
     "google_category": "restaurant"
-  },
-  {
-    "id": "938033",
-    "name": "SOPHIE'S DIPS AND SAUCES",
-    "address": "1923 POST RD WARWICK RI 02886",
-    "last_inspection": "02-12-2025",
-    "license_type": "Food Warehouse",
-    "lat": 41.7295394,
-    "lng": -71.43802920000002,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "other"
   },
   {
     "id": "245134",
@@ -50031,18 +47539,6 @@
     "google_category": "other"
   },
   {
-    "id": "936881",
-    "name": "TIENDA Y GRANIZADAS TRIXITA",
-    "address": "49 BANCROFT STREET PROVIDENCE RI 02909",
-    "last_inspection": "02-10-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8120614,
-    "lng": -71.4471679,
-    "violation_count": 8,
-    "risk_score": 15,
-    "google_category": "other"
-  },
-  {
     "id": "937752",
     "name": "CALIFORNIA TACO SHOP",
     "address": "690 OAKLAWN AVE CRANSTON RI 02920",
@@ -50372,19 +47868,6 @@
     "google_category": "other"
   },
   {
-    "id": "938018",
-    "name": "CAKE ME HAPPY LLC",
-    "address": "34 TACOMA ST CRANSTON RI 02920",
-    "last_inspection": "02-05-2025",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.7940632,
-    "lng": -71.48114919999999,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
-  },
-  {
     "id": "242905",
     "name": "ETHAN PLACE",
     "address": "85 ETHAN STREET WARWICK RI 02888",
@@ -50460,18 +47943,6 @@
     "cuisine": "other"
   },
   {
-    "id": "612471",
-    "name": "NEW SKY MARKET",
-    "address": "744 CRANSTON ST PROVIDENCE RI 02907",
-    "last_inspection": "08-27-2026",
-    "license_type": "Cash Registers - 3-5",
-    "lat": 41.80444430000001,
-    "lng": -71.4382079,
-    "violation_count": 7,
-    "risk_score": 14,
-    "google_category": "grocery"
-  },
-  {
     "id": "713953",
     "name": "BAR CINO",
     "address": "22 WASHINGTON SQ NEWPORT RI 02840",
@@ -50494,18 +47965,6 @@
     "lng": -71.43653979999999,
     "violation_count": 2,
     "risk_score": 2,
-    "google_category": "other"
-  },
-  {
-    "id": "865648",
-    "name": "SERIE 034 FOOD MARKET LLC",
-    "address": "103 ACADEMY AVE PROVIDENCE RI 02908",
-    "last_inspection": "07-27-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8275736,
-    "lng": -71.44358120000001,
-    "violation_count": 2,
-    "risk_score": 3,
     "google_category": "other"
   },
   {
@@ -50698,18 +48157,6 @@
     "cuisine": "other"
   },
   {
-    "id": "857033",
-    "name": "LA PULPERIA 504",
-    "address": "955 ATWELLS AVE PROVIDENCE RI 02909",
-    "last_inspection": "01-31-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8252756,
-    "lng": -71.4491575,
-    "violation_count": 1,
-    "risk_score": 3,
-    "google_category": "other"
-  },
-  {
     "id": "937889",
     "name": "MI CASA TAPAS",
     "address": "78 PEARL STREET PROVIDENCE RI 02905",
@@ -50797,18 +48244,6 @@
     "risk_score": 0,
     "cuisine": "bar",
     "google_category": "restaurant"
-  },
-  {
-    "id": "248028",
-    "name": "SUBURBAN PHARMACY INC",
-    "address": "242 PAWTUXET AVENUE WARWICK RI 02888",
-    "last_inspection": "06-08-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7548968,
-    "lng": -71.4271895,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "healthcare"
   },
   {
     "id": "259737",
@@ -51023,18 +48458,6 @@
     "lng": -71.3987045,
     "violation_count": 3,
     "risk_score": 3,
-    "google_category": "other"
-  },
-  {
-    "id": "611970",
-    "name": "THURBERS AVE SERVICE FOOD MART",
-    "address": "1025 EDDY ST PROVIDENCE RI 02905",
-    "last_inspection": "01-29-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7995982,
-    "lng": -71.40590929999999,
-    "violation_count": 7,
-    "risk_score": 12,
     "google_category": "other"
   },
   {
@@ -51507,19 +48930,6 @@
     "risk_score": 3,
     "google_category": "restaurant",
     "cuisine": "american"
-  },
-  {
-    "id": "937555",
-    "name": "CRUMBL-CRANSTON",
-    "address": "4000 CHAPEL VIEW BLVD  CRANSTON RI 02920",
-    "last_inspection": "01-23-2025",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.7562919,
-    "lng": -71.4585706,
-    "violation_count": 1,
-    "risk_score": 2,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
   },
   {
     "id": "937910",
@@ -52450,18 +49860,6 @@
     "cuisine": "other"
   },
   {
-    "id": "264301",
-    "name": "MOON MARKET",
-    "address": "579 B RESERVOIR AVE CRANSTON RI 02910",
-    "last_inspection": "04-08-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7832398,
-    "lng": -71.4388878,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
-  },
-  {
     "id": "714434",
     "name": "MARIOS KITCHEN AND CATERING",
     "address": "1551 PLAINFIELD PK JOHNSTON RI 02919",
@@ -52486,18 +49884,6 @@
     "risk_score": 0,
     "cuisine": "breakfast",
     "google_category": "restaurant"
-  },
-  {
-    "id": "258657",
-    "name": "GABRIELS TIGERMART INC",
-    "address": "69 TAUNTON AVENUE EAST PROVIDENCE RI 02914",
-    "last_inspection": "03-30-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8192796,
-    "lng": -71.3799324,
-    "violation_count": 2,
-    "risk_score": 5,
-    "google_category": "other"
   },
   {
     "id": "264239",
@@ -52635,18 +50021,6 @@
     "risk_score": 1,
     "google_category": "restaurant",
     "cuisine": "american"
-  },
-  {
-    "id": "937921",
-    "name": "KNIGHT ST MARKET",
-    "address": "115 KNIGHT ST PROVIDENCE RI 02909",
-    "last_inspection": "05-06-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8216537,
-    "lng": -71.4311144,
-    "violation_count": 5,
-    "risk_score": 8,
-    "google_category": "grocery"
   },
   {
     "id": "238905",
@@ -52811,18 +50185,6 @@
     "lng": -71.4420279,
     "violation_count": 7,
     "risk_score": 9,
-    "google_category": "other"
-  },
-  {
-    "id": "262381",
-    "name": "TOTAL MARKET",
-    "address": "970 WILLETT AVE EAST PROVIDENCE RI 02914",
-    "last_inspection": "01-02-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7598141,
-    "lng": -71.3469005,
-    "violation_count": 2,
-    "risk_score": 2,
     "google_category": "other"
   },
   {
@@ -53156,18 +50518,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "247437",
-    "name": "CHINESE AMERICAN MINI MARKET INC",
-    "address": "834 PARK AVE CRANSTON RI 02910",
-    "last_inspection": "06-10-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7786447,
-    "lng": -71.4352701,
-    "violation_count": 5,
-    "risk_score": 7,
-    "google_category": "grocery"
-  },
-  {
     "id": "937858",
     "name": "EXETER WINE AND SPIRITS",
     "address": "254 NOOSENECK HILL ROAD EXETER RI 02822",
@@ -53303,18 +50653,6 @@
     "lng": -71.4444754,
     "violation_count": 6,
     "risk_score": 9,
-    "google_category": "grocery"
-  },
-  {
-    "id": "662656",
-    "name": "7 ELEVEN STORE NO 33080B",
-    "address": "535 RESERVOIR AVE CRANSTON RI 02910",
-    "last_inspection": "12-16-2024",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7841645,
-    "lng": -71.4376358,
-    "violation_count": 7,
-    "risk_score": 11,
     "google_category": "grocery"
   },
   {
@@ -53455,18 +50793,6 @@
     "cuisine": "breakfast"
   },
   {
-    "id": "247492",
-    "name": "ASIAN MARKET & VIDEO",
-    "address": "475 CLINTON STREET WOONSOCKET RI 02895",
-    "last_inspection": "12-11-2024",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 42.0066806,
-    "lng": -71.5056481,
-    "violation_count": 3,
-    "risk_score": 3,
-    "google_category": "grocery"
-  },
-  {
     "id": "714232",
     "name": "MASON GROCERY",
     "address": "521 ELM ST  WOONSOCKET RI 02895",
@@ -53590,18 +50916,6 @@
     "violation_count": 0,
     "risk_score": 0,
     "google_category": "other"
-  },
-  {
-    "id": "247064",
-    "name": "DECASTRO AND SONS FARM",
-    "address": "1780 EAST MAIN ROAD PORTSMOUTH RI 02871",
-    "last_inspection": "12-09-2024",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.5796289,
-    "lng": -71.2527774,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "grocery"
   },
   {
     "id": "260729",
@@ -53778,18 +51092,6 @@
     "cuisine": "other"
   },
   {
-    "id": "770866",
-    "name": "BESTWAY",
-    "address": "1178 HIGH STREET CUMBERLAND RI 02864",
-    "last_inspection": "12-05-2024",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.9248686,
-    "lng": -71.3996008,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "grocery"
-  },
-  {
     "id": "771525",
     "name": "UNDER THE WILLOW BAKERY",
     "address": "3383 MENDON RD CUMBERLAND RI 02864",
@@ -53852,19 +51154,6 @@
     "risk_score": 14,
     "cuisine": "pizza",
     "google_category": "restaurant"
-  },
-  {
-    "id": "866340",
-    "name": "AROMA BAKERY",
-    "address": "1236 MAIN STREET WEST WARWICK RI 02893",
-    "last_inspection": "12-04-2024",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.7046217,
-    "lng": -71.5238557,
-    "violation_count": 3,
-    "risk_score": 6,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
   },
   {
     "id": "243888",
@@ -53940,30 +51229,6 @@
     "risk_score": 1,
     "google_category": "restaurant",
     "cuisine": "other"
-  },
-  {
-    "id": "790459",
-    "name": "VIRGIN AND AGED",
-    "address": "395 THAMES ST UNIT 5 NEWPORT RI 02840",
-    "last_inspection": "12-03-2024",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.4828257,
-    "lng": -71.3147489,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
-  },
-  {
-    "id": "790479",
-    "name": "VBM LA ESQUINITA LLC",
-    "address": "103 HAWKINS ST PROVIDENCE RI 02909",
-    "last_inspection": "12-03-2024",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.848334,
-    "lng": -71.42587790000002,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "grocery"
   },
   {
     "id": "937817",
@@ -54118,18 +51383,6 @@
     "cuisine": "breakfast"
   },
   {
-    "id": "247579",
-    "name": "EL PRIMO FRUIT & VEGETABLES INC",
-    "address": "212A MANTON AVENUE PROVIDENCE RI 02909",
-    "last_inspection": "07-09-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.820784,
-    "lng": -71.4477521,
-    "violation_count": 3,
-    "risk_score": 5,
-    "google_category": "grocery"
-  },
-  {
     "id": "263982",
     "name": "CVS PHARMACY NO. 2238",
     "address": "26 PUTNAM PIKE JOHNSTON RI 02919",
@@ -54140,18 +51393,6 @@
     "violation_count": 4,
     "risk_score": 4,
     "google_category": "grocery"
-  },
-  {
-    "id": "414798",
-    "name": "COVENTRY MART",
-    "address": "1100 MAIN ST COVENTRY RI 02816",
-    "last_inspection": "03-10-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.6906854,
-    "lng": -71.563957,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "other"
   },
   {
     "id": "612498",
@@ -54204,18 +51445,6 @@
     "google_category": "other"
   },
   {
-    "id": "937731",
-    "name": "FUEL DEPOT PLUS",
-    "address": "644 PUTNAM PIKE GREENVILLE RI 02828",
-    "last_inspection": "11-26-2024",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.87463049999999,
-    "lng": -71.56264279999999,
-    "violation_count": 7,
-    "risk_score": 9,
-    "google_category": "grocery"
-  },
-  {
     "id": "246782",
     "name": "DARLINGTON ASSISTED LIVING CENTER I",
     "address": "123 ARMISTICE BOULEVARD PAWTUCKET RI 02860",
@@ -54240,30 +51469,6 @@
     "risk_score": 9,
     "cuisine": "breakfast",
     "google_category": "restaurant"
-  },
-  {
-    "id": "413273",
-    "name": "JEFFERSON BLVD MINI MART INC",
-    "address": "15 JEFFERSON BLVD WARWICK RI 02888",
-    "last_inspection": "03-30-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7534616,
-    "lng": -71.4365296,
-    "violation_count": 5,
-    "risk_score": 6,
-    "google_category": "other"
-  },
-  {
-    "id": "771440",
-    "name": "ENTERPRISE PETROLEUM",
-    "address": "1836 WARWICK AVE WARWICK RI 02889",
-    "last_inspection": "11-25-2024",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.726227,
-    "lng": -71.4050784,
-    "violation_count": 3,
-    "risk_score": 5,
-    "google_category": "grocery"
   },
   {
     "id": "856932",
@@ -54630,18 +51835,6 @@
     "cuisine": "other"
   },
   {
-    "id": "937749",
-    "name": "AZ MINI MART",
-    "address": "150 ELMWOOD AVE PROVIDENCE RI 02907",
-    "last_inspection": "07-22-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8089338,
-    "lng": -71.4242896,
-    "violation_count": 3,
-    "risk_score": 4,
-    "google_category": "grocery"
-  },
-  {
     "id": "937790",
     "name": "CHASE ATHLETIC CENTER- AVI FOOD SYSTEMS",
     "address": "1150 DOUGLAS PIKE SMITHFIELD RI 02917",
@@ -54807,19 +52000,6 @@
     "google_category": "other"
   },
   {
-    "id": "937775",
-    "name": "THE VERMONT MARSHMALLOW COMPANY",
-    "address": "360 DORSET STREET SOUTH BURLINGTON VT 05403",
-    "last_inspection": "11-07-2024",
-    "license_type": "Retail Food Peddler",
-    "lat": 44.45881120000001,
-    "lng": -73.1793862,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "other"
-  },
-  {
     "id": "247230",
     "name": "OCEAN STATE MOBILE MART",
     "address": "1282 ELMWOOD AVENUE CRANSTON RI 02910",
@@ -54883,18 +52063,6 @@
     "cuisine": "breakfast"
   },
   {
-    "id": "937648",
-    "name": "TOCANA MARKET",
-    "address": "95 MAIN STREET WOONSOCKET RI 02895",
-    "last_inspection": "11-04-2024",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 42.0017837,
-    "lng": -71.5149449,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
-  },
-  {
     "id": "937709",
     "name": "GOVERNOR FRANCIS INN RESTAURANT",
     "address": "1251 WARWICK AVE WARWICK RI 02889",
@@ -54918,31 +52086,6 @@
     "violation_count": 4,
     "risk_score": 5,
     "google_category": "grocery"
-  },
-  {
-    "id": "937777",
-    "name": "IRON CRUMBLE COOKIE CO",
-    "address": "691 MAIN STREET WARREN RI 02885",
-    "last_inspection": "11-01-2024",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.7252306,
-    "lng": -71.2817918,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
-  },
-  {
-    "id": "937778",
-    "name": "IRON CRUMBLE COOKIE CO",
-    "address": "691 MAIN STREET WARREN RI 02885",
-    "last_inspection": "11-01-2024",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.7252306,
-    "lng": -71.2817918,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
   },
   {
     "id": "246275",
@@ -55701,31 +52844,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "937708",
-    "name": "SWEETS BY NB, LLC",
-    "address": "1939 NEW LONDON TPKE WEST WARWICK RI 02893",
-    "last_inspection": "10-10-2024",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.6722487,
-    "lng": -71.532276,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
-  },
-  {
-    "id": "937721",
-    "name": "D'NORAH BITES",
-    "address": "691 MAIN STREET WARREN RI 02885",
-    "last_inspection": "10-10-2024",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.7252306,
-    "lng": -71.2817918,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
     "id": "248707",
     "name": "CUMBERLAND FARMS NO 1279",
     "address": "659 RESERVOIR AVENUE CRANSTON RI 02910",
@@ -56141,32 +53259,6 @@
     "cuisine": "breakfast"
   },
   {
-    "id": "937659",
-    "name": "LOUIES LOAVES",
-    "address": "285 GREENWOOD ST CRANSTON RI 02910",
-    "last_inspection": "09-27-2024",
-    "license_type": "Cottage Food Manufacture",
-    "lat": 41.7727738,
-    "lng": -71.4323483,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
-  },
-  {
-    "id": "937660",
-    "name": "LOUIES LOAVES",
-    "address": "285 GREENWOOD ST CRANSTON RI 02910",
-    "last_inspection": "09-27-2024",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.7727738,
-    "lng": -71.4323483,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
-  },
-  {
     "id": "865592",
     "name": "POKEWORKS",
     "address": "212 THAYER ST PROVIDENCE RI 02906",
@@ -56404,18 +53496,6 @@
     "risk_score": 5,
     "cuisine": "chinese",
     "google_category": "restaurant"
-  },
-  {
-    "id": "714012",
-    "name": "PACIFIC SEAFOOD MARKET CO",
-    "address": "247 RESERVOIR AVE PROVIDENCE RI 02907",
-    "last_inspection": "07-23-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7901198,
-    "lng": -71.42954209999999,
-    "violation_count": 6,
-    "risk_score": 7,
-    "google_category": "grocery"
   },
   {
     "id": "936975",
@@ -57013,19 +54093,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "937473",
-    "name": "SWEET CUP",
-    "address": "48 STANDISH AVE PROVIDENCE RI 02908",
-    "last_inspection": "09-03-2024",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.8338295,
-    "lng": -71.4526053,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "bar"
-  },
-  {
     "id": "414581",
     "name": "LA  ARTESA BAKERY INC",
     "address": "216 ACADEMY AVE PROVIDENCE RI 02908",
@@ -57090,18 +54157,6 @@
     "google_category": "grocery"
   },
   {
-    "id": "866248",
-    "name": "KATTAN MARKET",
-    "address": "120 EAST STREET CRANSTON RI 02920",
-    "last_inspection": "04-22-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.737217,
-    "lng": -71.46489199999999,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "grocery"
-  },
-  {
     "id": "937373",
     "name": "DINOS PARK N SHOP",
     "address": "1020 PUTNAM PIKE CHEPACHET RI 02814",
@@ -57124,30 +54179,6 @@
     "violation_count": 0,
     "risk_score": 0,
     "google_category": "healthcare"
-  },
-  {
-    "id": "937503",
-    "name": "OCEAN STATE JUICE",
-    "address": "203 MAIN STREET SOUTH KINGSTOWN RI 02879",
-    "last_inspection": "08-29-2024",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.4409444,
-    "lng": -71.49585450000001,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "healthcare"
-  },
-  {
-    "id": "252956",
-    "name": "CAPTAIN'S TACKLE",
-    "address": "33 STATE STREET NARRAGANSETT RI 02882",
-    "last_inspection": "08-27-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.3826826,
-    "lng": -71.5105528,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
   },
   {
     "id": "262357",
@@ -57337,19 +54368,6 @@
     "risk_score": 6,
     "cuisine": "italian",
     "google_category": "restaurant"
-  },
-  {
-    "id": "264342",
-    "name": "EMILIOS BAKERY",
-    "address": "35 QUAKER LANE UNIT 2 WEST WARWICK RI 02893",
-    "last_inspection": "08-22-2024",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.6954927,
-    "lng": -71.5020297,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
   },
   {
     "id": "714146",
@@ -57881,18 +54899,6 @@
     "google_category": "other"
   },
   {
-    "id": "248119",
-    "name": "CHALKSTONE DAIRYLAND",
-    "address": "1002 CHALKSTONE AVENUE PROVIDENCE RI 02908",
-    "last_inspection": "05-14-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8321665,
-    "lng": -71.44071439999999,
-    "violation_count": 9,
-    "risk_score": 12,
-    "google_category": "other"
-  },
-  {
     "id": "262920",
     "name": "BREWED AWAKENINGS CRANSTON LLC",
     "address": "1200 PONTIAC AVENUE CRANSTON RI 02920",
@@ -57917,19 +54923,6 @@
     "risk_score": 6,
     "cuisine": "italian",
     "google_category": "restaurant"
-  },
-  {
-    "id": "937425",
-    "name": "PITA POCKET",
-    "address": "188 COUNTY ROAD BARRINGTON RI 02806",
-    "last_inspection": "08-05-2024",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.7373284,
-    "lng": -71.3046926,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "greek"
   },
   {
     "id": "937436",
@@ -58097,18 +55090,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "770896",
-    "name": "CRANSTON ST FOOD MART",
-    "address": "873 CRANSTON ST CRANSTON RI 02920",
-    "last_inspection": "03-25-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.802702,
-    "lng": -71.44338710000001,
-    "violation_count": 3,
-    "risk_score": 5,
-    "google_category": "other"
-  },
-  {
     "id": "937474",
     "name": "BIG AND LITTLE SPOONS",
     "address": "16 WEST PARK STREET PROVIDENCE RI 02908",
@@ -58132,18 +55113,6 @@
     "risk_score": 12,
     "cuisine": "greek",
     "google_category": "restaurant"
-  },
-  {
-    "id": "866375",
-    "name": "THE MAIN OASIS",
-    "address": "237 MAIN STREET PAWTUCKET RI 02860",
-    "last_inspection": "07-30-2024",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.877522,
-    "lng": -71.3851246,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "grocery"
   },
   {
     "id": "937365",
@@ -58347,19 +55316,6 @@
     "risk_score": 12,
     "cuisine": "seafood",
     "google_category": "restaurant"
-  },
-  {
-    "id": "612246",
-    "name": "JUNE LOVES ENGLISH BAKERY",
-    "address": "796 AQUIDNECK AVE BOX 4 MIDDLETOWN RI 02842",
-    "last_inspection": "07-24-2024",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.5097174,
-    "lng": -71.2834006,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
   },
   {
     "id": "662678",
@@ -58687,18 +55643,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "866139",
-    "name": "EAST SIDE CHEESE & PROVISIONS LLC",
-    "address": "17 SOUTH ANGELL STREET PROVIDENCE RI 02906",
-    "last_inspection": "07-10-2024",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.829732,
-    "lng": -71.387421,
-    "violation_count": 1,
-    "risk_score": 2,
-    "google_category": "grocery"
-  },
-  {
     "id": "937059",
     "name": "MAS CHAMOY",
     "address": "596 HARTFORD AVENUE PROVIDENCE RI 02909",
@@ -58710,31 +55654,6 @@
     "risk_score": 9,
     "google_category": "restaurant",
     "cuisine": "other"
-  },
-  {
-    "id": "261894",
-    "name": "DIGGERS CATCH",
-    "address": "537 N BROADWAY EAST PROVIDENCE RI 02914",
-    "last_inspection": "12-09-2025",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8280418,
-    "lng": -71.3636422,
-    "violation_count": 6,
-    "risk_score": 10,
-    "google_category": "grocery"
-  },
-  {
-    "id": "937211",
-    "name": "CHILLS CHEESECAKES",
-    "address": "691 MAIN STREET WARREN RI 02885",
-    "last_inspection": "07-09-2024",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.7252306,
-    "lng": -71.2817918,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
   },
   {
     "id": "937350",
@@ -58853,19 +55772,6 @@
     "google_category": "grocery"
   },
   {
-    "id": "937324",
-    "name": "GINGER GEMS",
-    "address": "GINGER GEMS WATERTOWN MA 02472",
-    "last_inspection": "07-02-2024",
-    "license_type": "Retail Food Peddler",
-    "violation_count": 0,
-    "lat": 42.3653524,
-    "lng": -71.1843543,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "japanese"
-  },
-  {
     "id": "857249",
     "name": "HISSHO SUSHI AT STOP AND SHOP NO 721",
     "address": "595 SMITHFIELD RD NORTH SMITHFIELD RI 02896",
@@ -58876,19 +55782,6 @@
     "violation_count": 0,
     "risk_score": 0,
     "google_category": "grocery"
-  },
-  {
-    "id": "857392",
-    "name": "GATHER FARM ICE CREAM",
-    "address": "519 ATWELLS AVE PROVIDENCE RI 02909",
-    "last_inspection": "07-01-2024",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.82450130000001,
-    "lng": -71.4344405,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "other"
   },
   {
     "id": "936968",
@@ -58929,18 +55822,6 @@
     "google_category": "other"
   },
   {
-    "id": "866374",
-    "name": "AZ MART, LLC",
-    "address": "1003 MINERAL SPRING AVENUE PROVIDENCE RI 02904",
-    "last_inspection": "08-13-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8694321,
-    "lng": -71.4230216,
-    "violation_count": 7,
-    "risk_score": 12,
-    "google_category": "grocery"
-  },
-  {
     "id": "937221",
     "name": "ANTOJITOS MEXICANOS BY CIGAR WORLD EAST",
     "address": "644 METACOM AVENUE WARREN RI 02885",
@@ -58963,18 +55844,6 @@
     "lng": -71.40236999999999,
     "violation_count": 3,
     "risk_score": 3,
-    "google_category": "other"
-  },
-  {
-    "id": "866197",
-    "name": "GREAT SALT POND OYSTER CO.",
-    "address": "P.O. BOX 1917 BLOCK ISLAND RI 02807",
-    "last_inspection": "06-26-2024",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.1714923,
-    "lng": -71.5772782,
-    "violation_count": 0,
-    "risk_score": 0,
     "google_category": "other"
   },
   {
@@ -59002,19 +55871,6 @@
     "risk_score": 5,
     "google_category": "other",
     "cuisine": "other"
-  },
-  {
-    "id": "856626",
-    "name": "CRYSTAL D ROSSY",
-    "address": "212 POCASSET AVE PROVIDENCE RI 02909",
-    "last_inspection": "08-03-2026",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.8091942,
-    "lng": -71.454959,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
   },
   {
     "id": "937274",
@@ -59117,19 +55973,6 @@
     "google_category": "other"
   },
   {
-    "id": "937181",
-    "name": "SWEET ABBEYS CONFECTIONS",
-    "address": "691 MAIN STREET WARREN RI 02885",
-    "last_inspection": "06-20-2024",
-    "license_type": "Food Processor Wholesale - In-State",
-    "lat": 41.7252306,
-    "lng": -71.2817918,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
-  },
-  {
     "id": "937203",
     "name": "AZULUNA FOODS",
     "address": "265 HARBORSIDE BLVD PROVIDENCE RI 02905",
@@ -59202,18 +56045,6 @@
     "violation_count": 2,
     "risk_score": 3,
     "google_category": "other"
-  },
-  {
-    "id": "936949",
-    "name": "SHOP N FUEL",
-    "address": "1152 MENDON ROAD CUMBERLAND RI 02864",
-    "last_inspection": "06-17-2024",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.9309925,
-    "lng": -71.4253519,
-    "violation_count": 2,
-    "risk_score": 2,
-    "google_category": "grocery"
   },
   {
     "id": "937251",
@@ -59876,19 +56707,6 @@
     "cuisine": "breakfast"
   },
   {
-    "id": "937155",
-    "name": "SMITH HILL STOP AND GO",
-    "address": "544 CHALKSTONE AVENUE PROVIDENCE RI 02908",
-    "last_inspection": "05-15-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8352796,
-    "lng": -71.4250066,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "american"
-  },
-  {
     "id": "937140",
     "name": "NEWPORT AREA CAREER AND TECHNICAL CENTER",
     "address": "109 OLD FORT ROAD NEWPORT RI 02840",
@@ -60132,18 +56950,6 @@
     "cuisine": "other"
   },
   {
-    "id": "713842",
-    "name": "LUCKY MINI MART",
-    "address": "322 BROAD ST PROVIDENCE RI 02907",
-    "last_inspection": "05-11-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8142311,
-    "lng": -71.4210555,
-    "violation_count": 9,
-    "risk_score": 14,
-    "google_category": "grocery"
-  },
-  {
     "id": "937083",
     "name": "CULTRO",
     "address": "70 WESTFIELD STREET PROVIDENCE RI 02907",
@@ -60305,19 +57111,6 @@
     "violation_count": 5,
     "risk_score": 6,
     "google_category": "other"
-  },
-  {
-    "id": "866484",
-    "name": "IVY AND LACE BAKE SHOP",
-    "address": "592 PUTNAM PIKE GREENVILLE RI 02828",
-    "last_inspection": "08-11-2026",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.8722781,
-    "lng": -71.5551591,
-    "violation_count": 2,
-    "risk_score": 4,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
   },
   {
     "id": "936929",
@@ -60662,19 +57455,6 @@
     "cuisine": "american"
   },
   {
-    "id": "937092",
-    "name": "JO'S DOUGH",
-    "address": "9 FRIENDLY DRIVE WARWICK RI 02888",
-    "last_inspection": "04-18-2024",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.7571373,
-    "lng": -71.3913571,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
-  },
-  {
     "id": "261151",
     "name": "NEWS CAFE",
     "address": "43 BROAD STREET PAWTUCKET RI 02860",
@@ -60927,18 +57707,6 @@
     "risk_score": 1,
     "cuisine": "bar",
     "google_category": "restaurant"
-  },
-  {
-    "id": "936943",
-    "name": "KONA ICE EAST PROVIDENCE",
-    "address": "691 MAIN STREET WARREN RI 02885",
-    "last_inspection": "04-24-2026",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.7252306,
-    "lng": -71.2817918,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "caterer"
   },
   {
     "id": "936995",
@@ -61219,18 +57987,6 @@
     "google_category": "school"
   },
   {
-    "id": "258758",
-    "name": "LIGUORIS MARKET",
-    "address": "46 PIERCE STREET WESTERLY RI 02891",
-    "last_inspection": "03-26-2024",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.38680979999999,
-    "lng": -71.82784529999999,
-    "violation_count": 3,
-    "risk_score": 6,
-    "google_category": "grocery"
-  },
-  {
     "id": "612161",
     "name": "CUSTOM HOUSE COFFEE",
     "address": "796 AQUIDNECK AVE MIDDLETOWN RI 02842",
@@ -61268,18 +58024,6 @@
     "risk_score": 6,
     "cuisine": "pizza",
     "google_category": "restaurant"
-  },
-  {
-    "id": "714567",
-    "name": "THE BUTCHER BROTHERS CORP",
-    "address": "143 N MAIN ST WOONSOCKET RI 02895",
-    "last_inspection": "03-25-2024",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 42.00756519999999,
-    "lng": -71.5132021,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
   },
   {
     "id": "866219",
@@ -61371,31 +58115,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "790292",
-    "name": "THREE WISHES BAKERY LLC",
-    "address": "39 GREENVILLE AVE UNIT B JOHNSTON RI 02919",
-    "last_inspection": "03-20-2024",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.8335111,
-    "lng": -71.4732611,
-    "violation_count": 4,
-    "risk_score": 6,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
-  },
-  {
-    "id": "770967",
-    "name": "SAMS FOOD STORE",
-    "address": "948 EDDIE DOWLING HWY NORTH SMITHFIELD RI 02896",
-    "last_inspection": "07-15-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.9626627,
-    "lng": -71.4954743,
-    "violation_count": 3,
-    "risk_score": 4,
-    "google_category": "other"
-  },
-  {
     "id": "936916",
     "name": "PIT STOP STREET FOOD",
     "address": "136 BARNES STREET FALL RIVER MA 02723",
@@ -61407,19 +58126,6 @@
     "risk_score": 2,
     "google_category": "restaurant",
     "cuisine": "other"
-  },
-  {
-    "id": "936947",
-    "name": "BRENNYS POPS",
-    "address": "203 MAIN STREET WAKEFIELD RI 02879",
-    "last_inspection": "03-14-2024",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.4409444,
-    "lng": -71.49585450000001,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "american"
   },
   {
     "id": "263467",
@@ -61498,32 +58204,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "936863",
-    "name": "WALTNEY'S SEAFOOD CO",
-    "address": "1046 WEST MAIN ROAD PORTSMOUTH RI 02871",
-    "last_inspection": "03-01-2024",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.5905204,
-    "lng": -71.2670175,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "seafood"
-  },
-  {
-    "id": "936872",
-    "name": "SALSAS EL PATRON",
-    "address": "139 MAIN STREET WARREN RI 02885",
-    "last_inspection": "03-01-2024",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.7356465,
-    "lng": -71.2860365,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "mexican"
-  },
-  {
     "id": "247107",
     "name": "AMAS VARIETY & MINI MART",
     "address": "957 MAIN STREET PAWTUCKET RI 02860",
@@ -61572,30 +58252,6 @@
     "risk_score": 5,
     "cuisine": "pizza",
     "google_category": "restaurant"
-  },
-  {
-    "id": "260778",
-    "name": "NEW METRO MART",
-    "address": "221 THAYER STREET PROVIDENCE RI 02906",
-    "last_inspection": "04-08-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.827664,
-    "lng": -71.40031979999999,
-    "violation_count": 9,
-    "risk_score": 10,
-    "google_category": "grocery"
-  },
-  {
-    "id": "856659",
-    "name": "ETHIOPIAN EATS",
-    "address": "691 MAIN ST WARREN RI 02885",
-    "last_inspection": "02-27-2024",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.7252306,
-    "lng": -71.2817918,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
   },
   {
     "id": "865605",
@@ -61856,18 +58512,6 @@
     "lng": -71.4958633,
     "violation_count": 0,
     "risk_score": 0,
-    "google_category": "other"
-  },
-  {
-    "id": "264758",
-    "name": "SAMS TOBACCO SHOP AND CONVENIENCE LLC",
-    "address": "776 DOUGLAS AVE PROVIDENCE RI 02908",
-    "last_inspection": "04-27-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8500257,
-    "lng": -71.43376289999999,
-    "violation_count": 6,
-    "risk_score": 7,
     "google_category": "other"
   },
   {
@@ -62387,18 +59031,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "856610",
-    "name": "CARIBBEAN SUPERMARKET",
-    "address": "615 CHARLES ST PROVIDENCE RI 02904",
-    "last_inspection": "06-01-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.85342079999999,
-    "lng": -71.4200567,
-    "violation_count": 9,
-    "risk_score": 11,
-    "google_category": "grocery"
-  },
-  {
     "id": "261403",
     "name": "CROWN FRIED CHICKEN",
     "address": "912 BROAD STREET PROVIDENCE RI 02907",
@@ -62484,18 +59116,6 @@
     "google_category": "healthcare"
   },
   {
-    "id": "866568",
-    "name": "KRAKATOA GARDEN LLC",
-    "address": "569 MAIN STREET WARREN RI 02885",
-    "last_inspection": "01-03-2024",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.7278704,
-    "lng": -71.2826429,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
-  },
-  {
     "id": "866569",
     "name": "KRAKATOA GARDEN LLC",
     "address": "569 MAIN STREET WARREN RI 02885",
@@ -62542,18 +59162,6 @@
     "lng": -71.3876624,
     "violation_count": 0,
     "risk_score": 0,
-    "google_category": "other"
-  },
-  {
-    "id": "264795",
-    "name": "JPL ENTERPRISE LLC",
-    "address": "1258 BROAD ST PROVIDENCE RI 02905",
-    "last_inspection": "06-17-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.79233,
-    "lng": -71.40710829999999,
-    "violation_count": 4,
-    "risk_score": 8,
     "google_category": "other"
   },
   {
@@ -62871,19 +59479,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "936673",
-    "name": "SUGAR COATED",
-    "address": "15 MATHEWSON STREET NARRAGANSETT RI 02882",
-    "last_inspection": "11-15-2023",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.4298403,
-    "lng": -71.45759350000002,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
-  },
-  {
     "id": "936652",
     "name": "SWEET SCULPTURES",
     "address": "72 GOUGH AVENUE WEST WARWICK RI 02893",
@@ -62980,19 +59575,6 @@
     "google_category": "other"
   },
   {
-    "id": "936578",
-    "name": "SPICY CAT",
-    "address": "40 SOUTH MAIN STREET WOONSOCKET RI 02895",
-    "last_inspection": "11-08-2023",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.9993439,
-    "lng": -71.5161759,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "other"
-  },
-  {
     "id": "936622",
     "name": "ENCANTO COOKIES",
     "address": "1185 NARRAGANSETT BLVD PROVIDENCE RI 02905",
@@ -63068,18 +59650,6 @@
     "risk_score": 1,
     "cuisine": "japanese",
     "google_category": "restaurant"
-  },
-  {
-    "id": "865594",
-    "name": "VIANNE ROUX",
-    "address": "7 W MAIN ST NORTH KINGSTOWN RI 02852",
-    "last_inspection": "10-24-2023",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.5715622,
-    "lng": -71.45217699999999,
-    "violation_count": 1,
-    "risk_score": 2,
-    "google_category": "other"
   },
   {
     "id": "866561",
@@ -63197,32 +59767,6 @@
     "cuisine": "other"
   },
   {
-    "id": "663505",
-    "name": "WISE GUYS DELI AND PIZZA",
-    "address": "133 ATWELLS AVE PROVIDENCE RI 02903",
-    "last_inspection": "10-12-2023",
-    "license_type": "Seats -  Less than 50",
-    "lat": 41.82341419999999,
-    "lng": -71.4223816,
-    "violation_count": 0,
-    "risk_score": 0,
-    "cuisine": "pizza",
-    "google_category": "restaurant"
-  },
-  {
-    "id": "865610",
-    "name": "QHALI PLANT BASED RESTAURANT",
-    "address": "34 GOODING AVE BRISTOL RI 02809",
-    "last_inspection": "10-11-2023",
-    "license_type": "Seats -  Less than 50",
-    "lat": 41.6924034,
-    "lng": -71.27688650000002,
-    "violation_count": 4,
-    "risk_score": 8,
-    "google_category": "restaurant",
-    "cuisine": "mexican"
-  },
-  {
     "id": "866521",
     "name": "AS THE MANE EVENT",
     "address": "135 OLD RIVER ROAD LINCOLN RI 02865",
@@ -63245,18 +59789,6 @@
     "violation_count": 1,
     "risk_score": 2,
     "google_category": "other"
-  },
-  {
-    "id": "866542",
-    "name": "TESORO MARKET",
-    "address": "1047 SOCIAL STREET WOONSOCKET RI 02895",
-    "last_inspection": "10-06-2023",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 42.01504370000001,
-    "lng": -71.5003615,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
   },
   {
     "id": "415152",
@@ -63550,18 +60082,6 @@
     "cuisine": "other"
   },
   {
-    "id": "939413",
-    "name": "BRIGHTSIDE SEAFOOD MARKET",
-    "address": "1014 BOSTON NECK RD NARRAGANSETT RI 02882",
-    "last_inspection": "03-13-2026",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.4816051,
-    "lng": -71.4369401,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
-  },
-  {
     "id": "939456",
     "name": "RISE AND SHINE BAKEHOUSE",
     "address": "879 NOOSENECK HILL ROAD WEST GREENWICH RI 02817",
@@ -63598,18 +60118,6 @@
     "risk_score": 0,
     "google_category": "restaurant",
     "cuisine": "american"
-  },
-  {
-    "id": "260319",
-    "name": "FRIENDLYS MARKET",
-    "address": "415 ARNOLD STREET WOONSOCKET RI 02895",
-    "last_inspection": "03-18-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 42.0058705,
-    "lng": -71.51670159999999,
-    "violation_count": 2,
-    "risk_score": 2,
-    "google_category": "grocery"
   },
   {
     "id": "262260",
@@ -63662,19 +60170,6 @@
     "cuisine": "japanese"
   },
   {
-    "id": "938251",
-    "name": "TIZZY K'S CEREAL ICE CREAM",
-    "address": "45 B NEWPORT AVE RUMFORD RI 02916",
-    "last_inspection": "06-02-2026",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": null,
-    "lng": null,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "other"
-  },
-  {
     "id": "257938",
     "name": "WEST END COMMUNITY CENTER INC",
     "address": "109 BUCKLIN STREET PROVIDENCE RI 02907",
@@ -63711,18 +60206,6 @@
     "risk_score": 0,
     "google_category": "restaurant",
     "cuisine": "breakfast"
-  },
-  {
-    "id": "663033",
-    "name": "M AND T SUPERMARKET LLC",
-    "address": "1059 BROAD ST PROVIDENCE RI 02905",
-    "last_inspection": "03-24-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7960031,
-    "lng": -71.4122716,
-    "violation_count": 3,
-    "risk_score": 7,
-    "google_category": "grocery"
   },
   {
     "id": "938268",
@@ -63871,18 +60354,6 @@
     "license_type": "Mobile Food Service",
     "lat": 41.6907066,
     "lng": -71.28047339999999,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
-    "id": "951489",
-    "name": "RESTORED RECIPES",
-    "address": "9 LOYOLA TERRACE NEWPORT RI 02840",
-    "last_inspection": "03-30-2026",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.4988391,
-    "lng": -71.2998549,
     "violation_count": 0,
     "risk_score": 0,
     "google_category": "other"
@@ -64525,19 +60996,6 @@
     "cuisine": "other"
   },
   {
-    "id": "951567",
-    "name": "THE NEWPORT BAKEHOUSE",
-    "address": "120 CARROLL AVE NEWPORT RI 02840",
-    "last_inspection": "04-16-2026",
-    "license_type": "Retail Food Peddler",
-    "lat": 41.4665488,
-    "lng": -71.3156879,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
-  },
-  {
     "id": "951581",
     "name": "CHAPPYS PICKLES",
     "address": "32 CAMBRIDGE ST CHARLESTOWN MA 02129",
@@ -64560,19 +61018,6 @@
     "violation_count": 0,
     "risk_score": 0,
     "google_category": "other"
-  },
-  {
-    "id": "263942",
-    "name": "VESTA BAKERY",
-    "address": "47 RAILROAD AVE WESTERLY RI 02891",
-    "last_inspection": "04-22-2026",
-    "license_type": "Food Processor Wholesale - In-State",
-    "lat": 41.3824293,
-    "lng": -71.8262287,
-    "violation_count": 4,
-    "risk_score": 11,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
   },
   {
     "id": "938542",
@@ -64611,18 +61056,6 @@
     "risk_score": 0,
     "google_category": "restaurant",
     "cuisine": "american"
-  },
-  {
-    "id": "413326",
-    "name": "SDA PROVIDENCE SPANISH CHURCH",
-    "address": "131 ELMWOOD AVENUE PROVIDENCE RI 02907",
-    "last_inspection": "04-23-2026",
-    "license_type": "Market (Non-Profit)",
-    "lat": 41.8093234,
-    "lng": -71.4247879,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "other"
   },
   {
     "id": "662657",
@@ -65072,19 +61505,6 @@
     "cuisine": "breakfast"
   },
   {
-    "id": "936707",
-    "name": "CAKE & BOCADILLOS BOUTIQUE",
-    "address": "845 POTTERS AVENUE PROVIDENCE RI 02907",
-    "last_inspection": "08-05-2026",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.8050439,
-    "lng": -71.4373602,
-    "violation_count": 3,
-    "risk_score": 6,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
-  },
-  {
     "id": "938707",
     "name": "CHICK-FIL-A INC",
     "address": "1500 BALD HILL RD WARWICK RI 02886",
@@ -65146,18 +61566,6 @@
     "violation_count": 4,
     "risk_score": 6,
     "google_category": "grocery"
-  },
-  {
-    "id": "939228",
-    "name": "DAILY STOP",
-    "address": "23 HURST LANE TIVERTON RI 02878",
-    "last_inspection": "05-05-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.6617093,
-    "lng": -71.15249279999999,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "other"
   },
   {
     "id": "939424",
@@ -66163,18 +62571,6 @@
     "cuisine": "other"
   },
   {
-    "id": "951657",
-    "name": "MAKALU GAS & MART",
-    "address": "629 BALD HILL RD WARWICK RI 02886",
-    "last_inspection": "06-01-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.7208891,
-    "lng": -71.483829,
-    "violation_count": 3,
-    "risk_score": 4,
-    "google_category": "grocery"
-  },
-  {
     "id": "951701",
     "name": "BLISS BLEND",
     "address": "190-200 HILLSIDE ROAD CRANSTON RI 02920",
@@ -66403,18 +62799,6 @@
     "google_category": "other"
   },
   {
-    "id": "951754",
-    "name": "THE PERCH",
-    "address": "1514 NEWPORT AVE PAWTUCKET RI 02861",
-    "last_inspection": "06-01-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.89374,
-    "lng": -71.3543473,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
-  },
-  {
     "id": "240702",
     "name": "I HOP   NO 4701",
     "address": "159 WEST MAIN ROAD MIDDLETOWN RI 02842",
@@ -66452,19 +62836,6 @@
     "risk_score": 0,
     "google_category": "restaurant",
     "cuisine": "bar"
-  },
-  {
-    "id": "951814",
-    "name": "THE STAND BY WILLIAM WRIGHT AND CO",
-    "address": "95 WATCH HILL ROAD WESTERLY RI 02891",
-    "last_inspection": "06-05-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.33448320000001,
-    "lng": -71.83159789999999,
-    "violation_count": 1,
-    "risk_score": 3,
-    "google_category": "restaurant",
-    "cuisine": "other"
   },
   {
     "id": "951748",
@@ -67387,18 +63758,6 @@
     "risk_score": 0,
     "google_category": "restaurant",
     "cuisine": "breakfast"
-  },
-  {
-    "id": "951649",
-    "name": "DARLINGTON MARKET",
-    "address": "614 CENTRAL AVE PAWTUCKET RI 02861",
-    "last_inspection": "06-22-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8869029,
-    "lng": -71.3597115,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
   },
   {
     "id": "951858",
@@ -69008,18 +65367,6 @@
     "cuisine": "breakfast"
   },
   {
-    "id": "939295",
-    "name": "SEAVIEW MARKET",
-    "address": "682 MATUNNECK BEACH RD WAKEFIELD RI 02879",
-    "last_inspection": "08-03-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.3781322,
-    "lng": -71.5493517,
-    "violation_count": 1,
-    "risk_score": 1,
-    "google_category": "grocery"
-  },
-  {
     "id": "951914",
     "name": "LUK THAI CUISINE",
     "address": "249 MAIN STREET WAKEFIELD RI 02879",
@@ -69184,18 +65531,6 @@
     "cuisine": "american"
   },
   {
-    "id": "951898",
-    "name": "BY THE SHORE CONVENIENCE",
-    "address": "4 WINNAPAUG RD WESTERLY RI 02891",
-    "last_inspection": "07-21-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.3223803,
-    "lng": -71.8102862,
-    "violation_count": 1,
-    "risk_score": 2,
-    "google_category": "grocery"
-  },
-  {
     "id": "865748",
     "name": "SMITH HILL LIBRARY - COMMUNITY LIBRARIES OF PROVIDENCE",
     "address": "SMITH HILL LIBRARY PROVIDENCE RI 02908",
@@ -69256,18 +65591,6 @@
     "violation_count": 0,
     "risk_score": 0,
     "google_category": "other"
-  },
-  {
-    "id": "790138",
-    "name": "T AND C LOBSTER INC",
-    "address": "329 GREAT ISLAND RD NARRAGANSETT RI 02882",
-    "last_inspection": "07-27-2026",
-    "license_type": "Food Distributor - In-State",
-    "lat": 41.384829,
-    "lng": -71.506711,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
   },
   {
     "id": "951708",
@@ -69611,18 +65934,6 @@
     "risk_score": 0,
     "google_category": "restaurant",
     "cuisine": "american"
-  },
-  {
-    "id": "415224",
-    "name": "FULLY ROOTED INC",
-    "address": "560 MINERAL SPRING AVE UNIT 132B PAWTUCKET RI 02860",
-    "last_inspection": "07-28-2026",
-    "license_type": "Food Processor Retail - In-State",
-    "lat": 41.8718568,
-    "lng": -71.40646679999999,
-    "violation_count": 2,
-    "risk_score": 2,
-    "google_category": "other"
   },
   {
     "id": "714017",
@@ -70022,18 +66333,6 @@
     "cuisine": "seafood"
   },
   {
-    "id": "790234",
-    "name": "WEEKAPAUG BAIT AND TACKLE",
-    "address": "664 ATLANTIC AVE WESTERLY RI 02891",
-    "last_inspection": "08-18-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.3306302,
-    "lng": -71.76466409999999,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
     "id": "951929",
     "name": "GOOSENECK VINEYARDS",
     "address": "1340 TOWER HILL RD NORTH KINGSTOWN RI 02852",
@@ -70171,19 +66470,6 @@
     "lng": -71.4225645,
     "violation_count": 6,
     "risk_score": 8,
-    "google_category": "restaurant",
-    "cuisine": "other"
-  },
-  {
-    "id": "951888",
-    "name": "EXOTIC SNACK GUYS",
-    "address": "1 PROVIDENCE PL PROVIDENCE RI 02903",
-    "last_inspection": "08-20-2026",
-    "license_type": "Cash Registers - 1-2",
-    "lat": 41.8278238,
-    "lng": -71.4162068,
-    "violation_count": 1,
-    "risk_score": 1,
     "google_category": "restaurant",
     "cuisine": "other"
   },
