@@ -68899,5 +68899,18 @@
     "violation_count": 0,
     "risk_score": 0,
     "google_category": "other"
+  },
+  {
+    "id": "952250",
+    "name": "FIZZA PIZZA",
+    "address": "24 QUAKER LN  WARWICK RI 02886",
+    "last_inspection": "10-09-2026",
+    "license_type": "Seats -  Less than 50",
+    "lat": 41.6956859,
+    "lng": -71.501128,
+    "violation_count": 2,
+    "risk_score": 2,
+    "google_category": "restaurant",
+    "cuisine": "pizza"
   }
 ]
