@@ -70076,5 +70076,31 @@
     "risk_score": 0,
     "google_category": "restaurant",
     "cuisine": "american"
+  },
+  {
+    "id": "952332",
+    "name": "ANITA DRINK",
+    "address": "99 HICKS ST EAST PROVIDENCE RI 02914",
+    "last_inspection": "11-10-2026",
+    "license_type": "Seats - 50 or More",
+    "lat": 41.8182959,
+    "lng": -71.36398969999999,
+    "violation_count": 3,
+    "risk_score": 5,
+    "google_category": "restaurant",
+    "cuisine": "bar"
+  },
+  {
+    "id": "952378",
+    "name": "ADVINIACARE ORCHARD",
+    "address": "135 TRIPPS LANE RIVERSIDE RI 02915",
+    "last_inspection": "11-10-2026",
+    "license_type": "Seats - 50 or More",
+    "lat": 41.7903429,
+    "lng": -71.35528649999999,
+    "violation_count": 3,
+    "risk_score": 5,
+    "google_category": "healthcare",
+    "cuisine": "other"
   }
 ]
