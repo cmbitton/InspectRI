@@ -4207,7 +4207,7 @@
     "id": "237582",
     "name": "WRIGHTS DAIRY FARM",
     "address": "200 WOONSOCKET HILL NORTH SMITHFIELD RI 02896",
-    "last_inspection": "08-05-2026",
+    "last_inspection": "11-04-2026",
     "license_type": "Milk Processor In-State",
     "lat": 41.9830863,
     "lng": -71.5387404,
@@ -8492,8 +8492,8 @@
     "license_type": "Seats -  Less than 50",
     "lat": 41.9949515,
     "lng": -71.4865452,
-    "violation_count": 4,
-    "risk_score": 5,
+    "violation_count": 0,
+    "risk_score": 0,
     "cuisine": "pizza",
     "google_category": "restaurant"
   },
@@ -9897,7 +9897,7 @@
     "id": "413479",
     "name": "PROVIDENCE SPECIALTY PRODUCTS INC",
     "address": "33 DEARBORN ST PROVIDENCE RI 02909",
-    "last_inspection": "09-30-2026",
+    "last_inspection": "11-02-2026",
     "license_type": "Milk Processor In-State",
     "lat": 41.824238,
     "lng": -71.45402100000001,
@@ -11701,8 +11701,8 @@
     "license_type": "Cash Registers - 1-2",
     "lat": 41.4556308,
     "lng": -71.4709708,
-    "violation_count": 0,
-    "risk_score": 0,
+    "violation_count": 4,
+    "risk_score": 8,
     "google_category": "grocery"
   },
   {
@@ -16558,18 +16558,6 @@
     "google_category": "other"
   },
   {
-    "id": "939004",
-    "name": "BRITT'S ROADSIDE TREATS",
-    "address": "55 CARLSON DR CUMBERLAND RI 02864",
-    "last_inspection": "11-03-2025",
-    "license_type": "Cottage Food Manufacture",
-    "lat": 41.9241567,
-    "lng": -71.390563,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
     "id": "256706",
     "name": "DANNYS BAR",
     "address": "23 RAILROAD AVENUE WESTERLY RI 02891",
@@ -20674,19 +20662,6 @@
     "risk_score": 0,
     "google_category": "restaurant",
     "cuisine": "other"
-  },
-  {
-    "id": "936781",
-    "name": "UNCLE MIKES DINER",
-    "address": "1818 MNERAL SPRING AVENUE NORTH PROVIDENCE RI 02904",
-    "last_inspection": "10-03-2025",
-    "license_type": "Seats -  Less than 50",
-    "lat": 41.8613863,
-    "lng": -71.46070999999999,
-    "violation_count": 3,
-    "risk_score": 6,
-    "cuisine": "breakfast",
-    "google_category": "restaurant"
   },
   {
     "id": "938761",
@@ -40331,18 +40306,6 @@
     "cuisine": "american"
   },
   {
-    "id": "247675",
-    "name": "WALGREENS NO 03719",
-    "address": "25 PUTNAM PIKE JOHNSTON RI 02919",
-    "last_inspection": "04-22-2025",
-    "license_type": "Cash Registers - 6 or more",
-    "lat": 41.8602775,
-    "lng": -71.48849369999999,
-    "violation_count": 7,
-    "risk_score": 8,
-    "google_category": "grocery"
-  },
-  {
     "id": "263058",
     "name": "ELLAS FINE FOOD AND DRINK",
     "address": "2 TOWER STREET WESTERLY RI 02891",
@@ -59317,40 +59280,6 @@
     "google_category": "restaurant"
   },
   {
-    "id": "936652",
-    "name": "SWEET SCULPTURES",
-    "address": "72 GOUGH AVENUE WEST WARWICK RI 02893",
-    "last_inspection": "11-14-2023",
-    "license_type": "Cottage Food Manufacture",
-    "lat": 41.70817590000001,
-    "lng": -71.5273267,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
-    "id": "936654",
-    "name": "AUNTIE JUJI'S COOKIES",
-    "address": "NONE UNKNOWN NA 00000",
-    "last_inspection": "11-14-2023",
-    "license_type": "Retail Food Peddler",
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "other"
-  },
-  {
-    "id": "936655",
-    "name": "AUNTIE JUJI'S COOKIES",
-    "address": "75 TAMPA AVENUE WARWICK RI 02889",
-    "last_inspection": "11-14-2023",
-    "license_type": "Cottage Food Manufacture",
-    "lat": 41.6996517,
-    "lng": -71.4033736,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery"
-  },
-  {
     "id": "251334",
     "name": "NOT JUST SNACKS",
     "address": "833-835 HOPE STREET PROVIDENCE RI 02906",
@@ -60068,19 +59997,6 @@
     "violation_count": 0,
     "risk_score": 0,
     "google_category": "other"
-  },
-  {
-    "id": "939377",
-    "name": "D&M PIZZA",
-    "address": "41 WARWICK AVE CRANSTON RI 02905",
-    "last_inspection": "03-31-2026",
-    "license_type": "Seats -  Less than 50",
-    "lat": 41.776615,
-    "lng": -71.4018091,
-    "violation_count": 0,
-    "risk_score": 0,
-    "google_category": "grocery",
-    "cuisine": "other"
   },
   {
     "id": "951493",
@@ -65038,19 +64954,6 @@
     "violation_count": 0,
     "risk_score": 0,
     "google_category": "other"
-  },
-  {
-    "id": "951913",
-    "name": "FANOMA FOODS",
-    "address": "1092-1094 CHALKSTONE AVE PROVIDENCE RI 02908",
-    "last_inspection": "10-21-2026",
-    "license_type": "Seats -  Less than 50",
-    "lat": 41.8322906,
-    "lng": -71.4441988,
-    "violation_count": 9,
-    "risk_score": 14,
-    "google_category": "restaurant",
-    "cuisine": "breakfast"
   },
   {
     "id": "951926",
