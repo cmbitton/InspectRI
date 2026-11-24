@@ -70252,5 +70252,31 @@
     "violation_count": 0,
     "risk_score": 0,
     "google_category": "other"
+  },
+  {
+    "id": "952336",
+    "name": "ZINNIA PAWTUCKET",
+    "address": "166 PAWTUCKET AVE PAWTUCKET RI 02860",
+    "last_inspection": "11-20-2026",
+    "license_type": "Seats -  Less than 50",
+    "lat": 41.869436,
+    "lng": -71.3879834,
+    "violation_count": 0,
+    "risk_score": 0,
+    "google_category": "healthcare",
+    "cuisine": "other"
+  },
+  {
+    "id": "952442",
+    "name": "BUTTER BAR KITCHEN",
+    "address": "112 PEIRCE ST EAST GREENWICH RI 02818",
+    "last_inspection": "11-20-2026",
+    "license_type": "Cottage Food Manufacture",
+    "lat": 41.6606318,
+    "lng": -71.450833,
+    "violation_count": 0,
+    "risk_score": 0,
+    "google_category": "restaurant",
+    "cuisine": "other"
   }
 ]
