@@ -70496,5 +70496,18 @@
     "risk_score": 0,
     "google_category": "restaurant",
     "cuisine": "other"
+  },
+  {
+    "id": "952325",
+    "name": "CHEW AND BREW",
+    "address": "2009 SMITH ST NORTH PROVIDENCE RI 02911",
+    "last_inspection": "11-23-2026",
+    "license_type": "Seats -  Less than 50",
+    "lat": 41.8575226,
+    "lng": -71.4838551,
+    "violation_count": 1,
+    "risk_score": 1,
+    "google_category": "restaurant",
+    "cuisine": "american"
   }
 ]
